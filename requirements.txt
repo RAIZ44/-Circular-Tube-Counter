@@ -1,0 +1,15 @@
+# CPU-only torch (recommended for this repo's default path):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+# GPU:
+#   pip install torch
+#
+# Then:
+#   pip install -r requirements.txt
+#   pip install -e .
+torch>=2.1
+numpy>=1.24
+pillow>=10.0
+opencv-python-headless>=4.8
+pyyaml>=6.0
+tqdm>=4.65
+pytest>=8.0
