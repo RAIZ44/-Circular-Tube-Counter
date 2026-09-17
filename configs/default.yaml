@@ -1,0 +1,40 @@
+# Default train → eval loop for the synthetic tube-count detector.
+seed: 42
+
+generate:
+  root: data
+  image_size: 256
+  n_train: 360
+  n_val: 72
+  n_test: 80
+  min_count: 0
+  max_count: 16
+  min_radius: 8
+  max_radius: 34
+  overlap_prob: 0.5
+  clutter_prob: 0.85
+  noise_std: 10.0
+
+model:
+  base_channels: 32
+  stride: 4
+
+train:
+  epochs: 20
+  batch_size: 8
+  lr: 0.001
+  weight_decay: 0.0001
+  num_workers: 0
+  log_interval: 10
+  save_dir: artifacts/checkpoints
+  log_path: artifacts/logs/train.jsonl
+
+eval:
+  iou_threshold: 0.5
+  overlay_dir: artifacts/overlays
+  metrics_path: artifacts/metrics.json
+  report_path: artifacts/REPORT.md
+  n_overlays: 12
+  conf_sweep_min: 0.15
+  conf_sweep_max: 0.85
+  conf_sweep_steps: 15

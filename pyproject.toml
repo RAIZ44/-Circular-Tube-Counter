@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tube-count"
+version = "0.1.0"
+description = "Count circular tubes in images with a small CenterNet-style detector."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "tube-count" }]
+dependencies = [
+  "torch>=2.1",
+  "numpy>=1.24",
+  "pillow>=10.0",
+  "opencv-python-headless>=4.8",
+  "pyyaml>=6.0",
+  "tqdm>=4.65",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+tube-count = "tube_count.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
