@@ -1,0 +1,231 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\red-plastic-pipes-large-diameter-laying-protecting-electrical-cable-underground-lot-close-up-end-view-157008261_jpg.rf.c4d06405255bcc36facdbe39e47d707f.jpg",
+  "detected_count": 28,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 133.25,
+      "y": 123.5,
+      "confidence": 0.79345703125
+    },
+    {
+      "x": 206.375,
+      "y": 126.75,
+      "confidence": 0.77734375
+    },
+    {
+      "x": 364.0,
+      "y": 76.375,
+      "confidence": 0.759765625
+    },
+    {
+      "x": 167.375,
+      "y": 47.125,
+      "confidence": 0.75634765625
+    },
+    {
+      "x": 370.5,
+      "y": 34.125,
+      "confidence": 0.748046875
+    },
+    {
+      "x": 372.125,
+      "y": 128.375,
+      "confidence": 0.74658203125
+    },
+    {
+      "x": 334.75,
+      "y": 39.0,
+      "confidence": 0.65625
+    },
+    {
+      "x": 162.5,
+      "y": 325.0,
+      "confidence": 0.6533203125
+    },
+    {
+      "x": 396.5,
+      "y": 84.5,
+      "confidence": 0.6513671875
+    },
+    {
+      "x": 35.75,
+      "y": 393.25,
+      "confidence": 0.62353515625
+    },
+    {
+      "x": 279.5,
+      "y": 4.875,
+      "confidence": 0.5927734375
+    },
+    {
+      "x": 156.0,
+      "y": 186.875,
+      "confidence": 0.58349609375
+    },
+    {
+      "x": 141.375,
+      "y": 229.125,
+      "confidence": 0.572265625
+    },
+    {
+      "x": 53.625,
+      "y": 195.0,
+      "confidence": 0.5712890625
+    },
+    {
+      "x": 91.0,
+      "y": 48.75,
+      "confidence": 0.55126953125
+    },
+    {
+      "x": 404.625,
+      "y": 17.875,
+      "confidence": 0.5400390625
+    },
+    {
+      "x": 37.375,
+      "y": 258.375,
+      "confidence": 0.53955078125
+    },
+    {
+      "x": 35.75,
+      "y": 30.875,
+      "confidence": 0.537109375
+    },
+    {
+      "x": 357.5,
+      "y": 6.5,
+      "confidence": 0.53466796875
+    },
+    {
+      "x": 286.0,
+      "y": 73.125,
+      "confidence": 0.51611328125
+    },
+    {
+      "x": 52.0,
+      "y": 344.5,
+      "confidence": 0.51171875
+    },
+    {
+      "x": 227.5,
+      "y": 43.875,
+      "confidence": 0.50732421875
+    },
+    {
+      "x": 50.375,
+      "y": 128.375,
+      "confidence": 0.48828125
+    },
+    {
+      "x": 339.625,
+      "y": 8.125,
+      "confidence": 0.48583984375
+    },
+    {
+      "x": 250.25,
+      "y": 34.125,
+      "confidence": 0.427001953125
+    },
+    {
+      "x": 196.625,
+      "y": 276.25,
+      "confidence": 0.41552734375
+    },
+    {
+      "x": 199.875,
+      "y": 399.75,
+      "confidence": 0.349853515625
+    },
+    {
+      "x": 264.875,
+      "y": 22.75,
+      "confidence": 0.3427734375
+    }
+  ],
+  "geometry": {
+    "detected_count": 28,
+    "possible_gap_count": 8,
+    "possible_gap_points": [
+      [
+        261.625,
+        127.29166666666669
+      ],
+      [
+        316.875,
+        127.83333333333334
+      ],
+      [
+        104.8125,
+        190.9375
+      ],
+      [
+        90.45833333333333,
+        264.33333333333337
+      ],
+      [
+        143.54166666666666,
+        270.2916666666667
+      ],
+      [
+        107.25,
+        334.75
+      ],
+      [
+        90.45833333333334,
+        395.4166666666667
+      ],
+      [
+        145.16666666666666,
+        397.58333333333337
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 12,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 4,
+        "possible_gaps": 2
+      },
+      {
+        "row": 4,
+        "detected": 2,
+        "possible_gaps": 1
+      },
+      {
+        "row": 5,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 6,
+        "detected": 2,
+        "possible_gaps": 2
+      },
+      {
+        "row": 7,
+        "detected": 2,
+        "possible_gaps": 1
+      },
+      {
+        "row": 8,
+        "detected": 2,
+        "possible_gaps": 2
+      }
+    ],
+    "row_angle_degrees": -1.2188752351312977,
+    "nearest_neighbor_spacing": 50.78910445752389,
+    "horizontal_spacing": 57.518897150517105
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0291_red-plastic-pipes-large-diameter-laying-protecting-electrical-cable-underground-lot-close-up-end-view-157008261_jpg.rf.c4d06405255bcc36facdbe39e47d707f_count_28.jpg"
+}

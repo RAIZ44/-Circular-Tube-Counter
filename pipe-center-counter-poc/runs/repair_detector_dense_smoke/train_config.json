@@ -1,0 +1,14 @@
+{
+  "manifest_dir": "data/smoke_detector_dense",
+  "output_dir": "runs/repair_detector_dense_smoke",
+  "image_size": 640,
+  "batch_size": 2,
+  "epochs": 1,
+  "patience": 3,
+  "learning_rate": 0.0002,
+  "num_workers": 0,
+  "device": "cuda",
+  "architecture": "FasterRCNNResNet50FPNV2",
+  "pretrained": true,
+  "selection_metric": "exact_count_accuracy"
+}

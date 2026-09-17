@@ -1,0 +1,18 @@
+{
+  "images": 2,
+  "threshold": 0.1,
+  "exact_count_accuracy": 0.0,
+  "within_one_accuracy": 0.0,
+  "mean_absolute_error": 11.5,
+  "root_mean_squared_error": 14.300349646075091,
+  "mean_signed_error": -11.5,
+  "total_true": 23,
+  "total_predicted": 0,
+  "threshold_source": "checkpoint_validation_threshold",
+  "heatmap_loss": 2.210665702819824,
+  "checkpoint": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\repair_smoke_v2\\best.pt",
+  "manifest": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\smoke_v2\\test.jsonl",
+  "development_overlap_images": 0,
+  "evaluation_status": "no_known_development_overlap",
+  "independent_field_benchmark": false
+}

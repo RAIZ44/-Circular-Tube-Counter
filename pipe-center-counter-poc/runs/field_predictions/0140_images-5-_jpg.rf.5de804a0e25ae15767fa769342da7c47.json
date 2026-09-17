@@ -1,0 +1,220 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\images-5-_jpg.rf.5de804a0e25ae15767fa769342da7c47.jpg",
+  "detected_count": 32,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 287.625,
+      "y": 203.125,
+      "confidence": 0.86328125
+    },
+    {
+      "x": 156.0,
+      "y": 276.25,
+      "confidence": 0.86083984375
+    },
+    {
+      "x": 50.375,
+      "y": 276.25,
+      "confidence": 0.853515625
+    },
+    {
+      "x": 76.375,
+      "y": 204.75,
+      "confidence": 0.85205078125
+    },
+    {
+      "x": 130.0,
+      "y": 203.125,
+      "confidence": 0.849609375
+    },
+    {
+      "x": 365.625,
+      "y": 130.0,
+      "confidence": 0.84521484375
+    },
+    {
+      "x": 183.625,
+      "y": 203.125,
+      "confidence": 0.8447265625
+    },
+    {
+      "x": 312.0,
+      "y": 130.0,
+      "confidence": 0.84423828125
+    },
+    {
+      "x": 156.0,
+      "y": 131.625,
+      "confidence": 0.8427734375
+    },
+    {
+      "x": 261.625,
+      "y": 274.625,
+      "confidence": 0.8427734375
+    },
+    {
+      "x": 102.375,
+      "y": 277.875,
+      "confidence": 0.83935546875
+    },
+    {
+      "x": 339.625,
+      "y": 203.125,
+      "confidence": 0.83837890625
+    },
+    {
+      "x": 104.0,
+      "y": 131.625,
+      "confidence": 0.837890625
+    },
+    {
+      "x": 313.625,
+      "y": 274.625,
+      "confidence": 0.837890625
+    },
+    {
+      "x": 53.625,
+      "y": 37.375,
+      "confidence": 0.8359375
+    },
+    {
+      "x": 105.625,
+      "y": 37.375,
+      "confidence": 0.83349609375
+    },
+    {
+      "x": 390.0,
+      "y": 201.5,
+      "confidence": 0.8330078125
+    },
+    {
+      "x": 365.625,
+      "y": 273.0,
+      "confidence": 0.8291015625
+    },
+    {
+      "x": 321.75,
+      "y": 35.75,
+      "confidence": 0.82421875
+    },
+    {
+      "x": 26.0,
+      "y": 204.75,
+      "confidence": 0.82275390625
+    },
+    {
+      "x": 269.75,
+      "y": 37.375,
+      "confidence": 0.8203125
+    },
+    {
+      "x": 50.375,
+      "y": 133.25,
+      "confidence": 0.8134765625
+    },
+    {
+      "x": 373.75,
+      "y": 35.75,
+      "confidence": 0.79931640625
+    },
+    {
+      "x": 159.25,
+      "y": 37.375,
+      "confidence": 0.78515625
+    },
+    {
+      "x": 237.25,
+      "y": 203.125,
+      "confidence": 0.771484375
+    },
+    {
+      "x": 318.5,
+      "y": 377.0,
+      "confidence": 0.76953125
+    },
+    {
+      "x": 372.125,
+      "y": 377.0,
+      "confidence": 0.76806640625
+    },
+    {
+      "x": 105.625,
+      "y": 377.0,
+      "confidence": 0.7666015625
+    },
+    {
+      "x": 261.625,
+      "y": 133.25,
+      "confidence": 0.74462890625
+    },
+    {
+      "x": 264.875,
+      "y": 375.375,
+      "confidence": 0.7412109375
+    },
+    {
+      "x": 159.25,
+      "y": 377.0,
+      "confidence": 0.7197265625
+    },
+    {
+      "x": 52.0,
+      "y": 377.0,
+      "confidence": 0.71875
+    }
+  ],
+  "geometry": {
+    "detected_count": 32,
+    "possible_gap_count": 4,
+    "possible_gap_points": [
+      [
+        214.5,
+        37.375
+      ],
+      [
+        208.8125,
+        132.4375
+      ],
+      [
+        208.8125,
+        275.4375
+      ],
+      [
+        212.0625,
+        376.1875
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 6,
+        "possible_gaps": 1
+      },
+      {
+        "row": 2,
+        "detected": 6,
+        "possible_gaps": 1
+      },
+      {
+        "row": 3,
+        "detected": 8,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 6,
+        "possible_gaps": 1
+      },
+      {
+        "row": 5,
+        "detected": 6,
+        "possible_gaps": 1
+      }
+    ],
+    "row_angle_degrees": 0.0,
+    "nearest_neighbor_spacing": 52.01269221457095,
+    "horizontal_spacing": 52.0
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0140_images-5-_jpg.rf.5de804a0e25ae15767fa769342da7c47_count_32.jpg"
+}

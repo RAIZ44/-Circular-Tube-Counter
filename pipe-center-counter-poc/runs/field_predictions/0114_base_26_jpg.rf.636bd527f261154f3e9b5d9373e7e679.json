@@ -1,0 +1,98 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\base_26_jpg.rf.636bd527f261154f3e9b5d9373e7e679.jpg",
+  "detected_count": 11,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 447.5,
+      "y": 335.0,
+      "confidence": 0.69873046875
+    },
+    {
+      "x": 445.0,
+      "y": 337.5,
+      "confidence": 0.69873046875
+    },
+    {
+      "x": 537.5,
+      "y": 307.5,
+      "confidence": 0.64013671875
+    },
+    {
+      "x": 400.0,
+      "y": 482.5,
+      "confidence": 0.62060546875
+    },
+    {
+      "x": 520.0,
+      "y": 467.5,
+      "confidence": 0.5791015625
+    },
+    {
+      "x": 522.5,
+      "y": 467.5,
+      "confidence": 0.5791015625
+    },
+    {
+      "x": 280.0,
+      "y": 510.0,
+      "confidence": 0.56005859375
+    },
+    {
+      "x": 337.5,
+      "y": 380.0,
+      "confidence": 0.548828125
+    },
+    {
+      "x": 605.0,
+      "y": 435.0,
+      "confidence": 0.473388671875
+    },
+    {
+      "x": 142.5,
+      "y": 550.0,
+      "confidence": 0.40380859375
+    },
+    {
+      "x": 147.5,
+      "y": 565.0,
+      "confidence": 0.40087890625
+    }
+  ],
+  "geometry": {
+    "detected_count": 11,
+    "possible_gap_count": 0,
+    "possible_gap_points": [],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 5,
+        "detected": 3,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": -16.605508493794478,
+    "nearest_neighbor_spacing": 15.811388300841896,
+    "horizontal_spacing": 15.811388300841896
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0114_base_26_jpg.rf.636bd527f261154f3e9b5d9373e7e679_count_11.jpg"
+}

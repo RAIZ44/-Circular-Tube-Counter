@@ -1,0 +1,5292 @@
+{
+  "created_at": "2026-09-16T19:12:50.734761+00:00",
+  "split": "train",
+  "manifest_sha256": "c3415d9ce317c165ee63e8c3060968b6483b374b808c1a665ff9f8412bfe3e6e",
+  "training_images": 10650,
+  "training_annotations": 1529564,
+  "affected_images": 49,
+  "exact_duplicate_excess": 409,
+  "all_source_annotations_reproduced": true,
+  "all_affected_image_hashes_verified": true,
+  "all_duplicates_identical_in_raw_source": true,
+  "raw_data_changed": false,
+  "frozen_manifests_changed": false,
+  "reserved_test_accessed": false,
+  "application_status": "Audit only. No training or validation labels modified.",
+  "findings": [
+    {
+      "sha256": "7335f6ec15d8fb405e149a9bd10413d88ec8484fa6da2d5d89ad8319c98843f4",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200513-WA0000_jpg.rf.2ae12c7ccfb00d95c477f89a62266cac.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 3821,
+      "split_group": "d6a3101bdbea47c4dfaf3252f83de84c039d76fb308e44c6266338d8d80bf8c0",
+      "original_count": 203,
+      "unique_box_count": 51,
+      "duplicate_excess": 152,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            250.5,
+            286.5,
+            28.0,
+            36.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728009,
+            728060,
+            728111,
+            728162
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              236.5,
+              268.5,
+              28,
+              36
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            246.5,
+            308.0,
+            23.0,
+            24.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728010,
+            728061,
+            728112,
+            728163
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              235,
+              296,
+              23,
+              24
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            247.0,
+            359.0,
+            28.0,
+            36.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728011,
+            728062,
+            728113,
+            728164
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              233,
+              341,
+              28,
+              36
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            278.0,
+            349.5,
+            26.0,
+            34.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728012,
+            728063,
+            728114,
+            728165
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              265,
+              332.5,
+              26,
+              34
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            308.5,
+            341.5,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728013,
+            728064,
+            728115,
+            728166
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              296.5,
+              325,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            333.5,
+            335.0,
+            23.0,
+            31.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728014,
+            728065,
+            728116,
+            728167
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              322,
+              319.5,
+              23,
+              31
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            360.5,
+            339.0,
+            24.0,
+            32.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728015,
+            728066,
+            728117,
+            728168
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              348.5,
+              323,
+              24,
+              32
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            371.0,
+            311.0,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728016,
+            728067,
+            728118,
+            728169
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              359,
+              294.5,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            379.0,
+            281.0,
+            25.0,
+            32.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728017,
+            728068,
+            728119,
+            728170
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              366.5,
+              265,
+              25,
+              32
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            353.5,
+            278.0,
+            25.0,
+            32.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728018,
+            728069,
+            728120,
+            728171
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              341,
+              262,
+              25,
+              32
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            318.0,
+            249.5,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728019,
+            728070,
+            728121,
+            728172
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              306,
+              233,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            342.0,
+            250.5,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728020,
+            728071,
+            728122,
+            728173
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              330,
+              234,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            366.0,
+            252.0,
+            23.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728021,
+            728072,
+            728123,
+            728174
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              354.5,
+              237,
+              23,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            404.0,
+            272.5,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728022,
+            728073,
+            728124,
+            728175
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              392,
+              256,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            327.0,
+            272.5,
+            22.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728023,
+            728074,
+            728125,
+            728176
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              316,
+              257.5,
+              22,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            337.0,
+            294.5,
+            19.0,
+            26.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728024,
+            728075,
+            728126,
+            728177
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              327.5,
+              281.5,
+              19,
+              26
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            318.5,
+            306.0,
+            24.0,
+            31.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728025,
+            728076,
+            728127,
+            728178
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              306.5,
+              290.5,
+              24,
+              31
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            305.5,
+            280.0,
+            24.0,
+            31.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728026,
+            728077,
+            728128,
+            728179
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              293.5,
+              264.5,
+              24,
+              31
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            292.0,
+            253.5,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728027,
+            728078,
+            728129,
+            728180
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              280,
+              237,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            265.5,
+            257.0,
+            28.0,
+            36.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728028,
+            728079,
+            728130,
+            728181
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              251.5,
+              239,
+              28,
+              36
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            269.5,
+            310.0,
+            24.0,
+            32.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728029,
+            728080,
+            728131,
+            728182
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              257.5,
+              294,
+              24,
+              32
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            281.0,
+            283.0,
+            26.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728030,
+            728081,
+            728132,
+            728183
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              268,
+              266.5,
+              26,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            294.5,
+            309.0,
+            24.0,
+            31.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728031,
+            728082,
+            728133,
+            728184
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              282.5,
+              293.5,
+              24,
+              31
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            264.5,
+            369.5,
+            23.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728032,
+            728083,
+            728134,
+            728185
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              253,
+              354.5,
+              23,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            296.0,
+            373.0,
+            26.0,
+            35.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728033,
+            728084,
+            728135,
+            728186
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              283,
+              355.5,
+              26,
+              35
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            278.5,
+            411.5,
+            28.0,
+            36.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728034,
+            728085,
+            728136,
+            728187
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              264.5,
+              393.5,
+              28,
+              36
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            307.5,
+            395.0,
+            24.0,
+            29.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728035,
+            728086,
+            728137,
+            728188
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              295.5,
+              380.5,
+              24,
+              29
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            330.5,
+            382.5,
+            23.0,
+            29.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728036,
+            728087,
+            728138,
+            728189
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              319,
+              368,
+              23,
+              29
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            320.5,
+            363.5,
+            24.0,
+            32.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728037,
+            728088,
+            728139,
+            728190
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              308.5,
+              347.5,
+              24,
+              32
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            345.5,
+            360.5,
+            23.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728038,
+            728089,
+            728140,
+            728191
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              334,
+              345.5,
+              23,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            394.0,
+            338.0,
+            26.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728039,
+            728090,
+            728141,
+            728192
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              381,
+              321.5,
+              26,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            376.5,
+            358.0,
+            23.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728040,
+            728091,
+            728142,
+            728193
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              365,
+              343,
+              23,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            398.0,
+            359.5,
+            21.0,
+            24.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728041,
+            728092,
+            728143,
+            728194
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              387.5,
+              347.5,
+              21,
+              24
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            411.5,
+            332.5,
+            21.0,
+            31.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728042,
+            728093,
+            728144,
+            728195
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              401,
+              317,
+              21,
+              31
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            401.5,
+            305.0,
+            25.0,
+            32.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728043,
+            728094,
+            728145,
+            728196
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              389,
+              289,
+              25,
+              32
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            427.5,
+            297.5,
+            26.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728044,
+            728095,
+            728146,
+            728197
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              414.5,
+              281,
+              26,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            432.0,
+            266.0,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728045,
+            728096,
+            728147,
+            728198
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              420,
+              249.5,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            469.0,
+            278.5,
+            26.0,
+            34.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728046,
+            728097,
+            728148,
+            728199
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              456,
+              261.5,
+              26,
+              34
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            504.5,
+            309.0,
+            24.0,
+            34.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728047,
+            728098,
+            728149,
+            728200
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              492.5,
+              292,
+              24,
+              34
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            455.0,
+            309.0,
+            26.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728048,
+            728099,
+            728150,
+            728201
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              442,
+              292.5,
+              26,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            478.0,
+            309.5,
+            24.0,
+            34.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728049,
+            728100,
+            728151,
+            728202
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              466,
+              292.5,
+              24,
+              34
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            478.5,
+            332.5,
+            22.0,
+            24.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728050,
+            728101,
+            728152,
+            728203
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              467.5,
+              320.5,
+              22,
+              24
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            445.0,
+            340.0,
+            26.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728051,
+            728102,
+            728153,
+            728204
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              432,
+              323.5,
+              26,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            458.0,
+            332.5,
+            14.0,
+            22.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728052,
+            728103,
+            728154,
+            728205
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              451,
+              321.5,
+              14,
+              22
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            447.0,
+            361.0,
+            23.0,
+            26.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728053,
+            728104,
+            728155,
+            728206
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              435.5,
+              348,
+              23,
+              26
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            467.0,
+            355.0,
+            21.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728054,
+            728105,
+            728156,
+            728207
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              456.5,
+              340,
+              21,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            417.0,
+            353.5,
+            21.0,
+            27.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728055,
+            728106,
+            728157,
+            728208
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              406.5,
+              340,
+              21,
+              27
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            371.5,
+            400.5,
+            27.0,
+            34.0
+          ],
+          "copies": 3,
+          "source_annotation_ids": [
+            728056,
+            728107,
+            728158
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              358,
+              383.5,
+              27,
+              34
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            389.0,
+            387.5,
+            22.0,
+            28.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728057,
+            728108,
+            728159,
+            728209
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              378,
+              373.5,
+              22,
+              28
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            407.0,
+            381.5,
+            22.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728058,
+            728109,
+            728160,
+            728210
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              396,
+              366.5,
+              22,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            434.5,
+            384.0,
+            24.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            728059,
+            728110,
+            728161,
+            728211
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              422.5,
+              369,
+              24,
+              30
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "21633cd93d85158bae4166126d1d442e95638b900d13dedf14c11ed86b72df17",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\IMG-20200513-WA0000_jpg.rf.4edd51053a8f0c21a42c2340a788938b.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "f1c604d7e89acc8cf84309109883ffa7f933b340c7c83e7ea53b380f7fe5a5a9",
+      "source_image_id": 1438,
+      "split_group": "d6a3101bdbea47c4dfaf3252f83de84c039d76fb308e44c6266338d8d80bf8c0",
+      "original_count": 203,
+      "unique_box_count": 51,
+      "duplicate_excess": 152,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            250.5,
+            286.5,
+            28.0,
+            36.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106700,
+            106751,
+            106802,
+            106853
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              236.5,
+              268.5,
+              28,
+              36
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            246.5,
+            308.0,
+            23.0,
+            24.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106701,
+            106752,
+            106803,
+            106854
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              235,
+              296,
+              23,
+              24
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            247.0,
+            359.0,
+            28.0,
+            36.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106702,
+            106753,
+            106804,
+            106855
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              233,
+              341,
+              28,
+              36
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            278.0,
+            349.5,
+            26.0,
+            34.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106703,
+            106754,
+            106805,
+            106856
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              265,
+              332.5,
+              26,
+              34
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            308.5,
+            341.5,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106704,
+            106755,
+            106806,
+            106857
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              296.5,
+              325,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            333.5,
+            335.0,
+            23.0,
+            31.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106705,
+            106756,
+            106807,
+            106858
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              322,
+              319.5,
+              23,
+              31
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            360.5,
+            339.0,
+            24.0,
+            32.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106706,
+            106757,
+            106808,
+            106859
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              348.5,
+              323,
+              24,
+              32
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            371.0,
+            311.0,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106707,
+            106758,
+            106809,
+            106860
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              359,
+              294.5,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            379.0,
+            281.0,
+            25.0,
+            32.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106708,
+            106759,
+            106810,
+            106861
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              366.5,
+              265,
+              25,
+              32
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            353.5,
+            278.0,
+            25.0,
+            32.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106709,
+            106760,
+            106811,
+            106862
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              341,
+              262,
+              25,
+              32
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            318.0,
+            249.5,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106710,
+            106761,
+            106812,
+            106863
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              306,
+              233,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            342.0,
+            250.5,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106711,
+            106762,
+            106813,
+            106864
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              330,
+              234,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            366.0,
+            252.0,
+            23.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106712,
+            106763,
+            106814,
+            106865
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              354.5,
+              237,
+              23,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            404.0,
+            272.5,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106713,
+            106764,
+            106815,
+            106866
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              392,
+              256,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            327.0,
+            272.5,
+            22.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106714,
+            106765,
+            106816,
+            106867
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              316,
+              257.5,
+              22,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            337.0,
+            294.5,
+            19.0,
+            26.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106715,
+            106766,
+            106817,
+            106868
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              327.5,
+              281.5,
+              19,
+              26
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            318.5,
+            306.0,
+            24.0,
+            31.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106716,
+            106767,
+            106818,
+            106869
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              306.5,
+              290.5,
+              24,
+              31
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            305.5,
+            280.0,
+            24.0,
+            31.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106717,
+            106768,
+            106819,
+            106870
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              293.5,
+              264.5,
+              24,
+              31
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            292.0,
+            253.5,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106718,
+            106769,
+            106820,
+            106871
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              280,
+              237,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            265.5,
+            257.0,
+            28.0,
+            36.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106719,
+            106770,
+            106821,
+            106872
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              251.5,
+              239,
+              28,
+              36
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            269.5,
+            310.0,
+            24.0,
+            32.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106720,
+            106771,
+            106822,
+            106873
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              257.5,
+              294,
+              24,
+              32
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            281.0,
+            283.0,
+            26.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106721,
+            106772,
+            106823,
+            106874
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              268,
+              266.5,
+              26,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            294.5,
+            309.0,
+            24.0,
+            31.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106722,
+            106773,
+            106824,
+            106875
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              282.5,
+              293.5,
+              24,
+              31
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            264.5,
+            369.5,
+            23.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106723,
+            106774,
+            106825,
+            106876
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              253,
+              354.5,
+              23,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            296.0,
+            373.0,
+            26.0,
+            35.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106724,
+            106775,
+            106826,
+            106877
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              283,
+              355.5,
+              26,
+              35
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            278.5,
+            411.5,
+            28.0,
+            36.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106725,
+            106776,
+            106827,
+            106878
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              264.5,
+              393.5,
+              28,
+              36
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            307.5,
+            395.0,
+            24.0,
+            29.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106726,
+            106777,
+            106828,
+            106879
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              295.5,
+              380.5,
+              24,
+              29
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            330.5,
+            382.5,
+            23.0,
+            29.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106727,
+            106778,
+            106829,
+            106880
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              319,
+              368,
+              23,
+              29
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            320.5,
+            363.5,
+            24.0,
+            32.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106728,
+            106779,
+            106830,
+            106881
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              308.5,
+              347.5,
+              24,
+              32
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            345.5,
+            360.5,
+            23.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106729,
+            106780,
+            106831,
+            106882
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              334,
+              345.5,
+              23,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            394.0,
+            338.0,
+            26.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106730,
+            106781,
+            106832,
+            106883
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              381,
+              321.5,
+              26,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            376.5,
+            358.0,
+            23.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106731,
+            106782,
+            106833,
+            106884
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              365,
+              343,
+              23,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            398.0,
+            359.5,
+            21.0,
+            24.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106732,
+            106783,
+            106834,
+            106885
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              387.5,
+              347.5,
+              21,
+              24
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            411.5,
+            332.5,
+            21.0,
+            31.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106733,
+            106784,
+            106835,
+            106886
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              401,
+              317,
+              21,
+              31
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            401.5,
+            305.0,
+            25.0,
+            32.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106734,
+            106785,
+            106836,
+            106887
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              389,
+              289,
+              25,
+              32
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            427.5,
+            297.5,
+            26.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106735,
+            106786,
+            106837,
+            106888
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              414.5,
+              281,
+              26,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            432.0,
+            266.0,
+            24.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106736,
+            106787,
+            106838,
+            106889
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              420,
+              249.5,
+              24,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            469.0,
+            278.5,
+            26.0,
+            34.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106737,
+            106788,
+            106839,
+            106890
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              456,
+              261.5,
+              26,
+              34
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            504.5,
+            309.0,
+            24.0,
+            34.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106738,
+            106789,
+            106840,
+            106891
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              492.5,
+              292,
+              24,
+              34
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            455.0,
+            309.0,
+            26.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106739,
+            106790,
+            106841,
+            106892
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              442,
+              292.5,
+              26,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            478.0,
+            309.5,
+            24.0,
+            34.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106740,
+            106791,
+            106842,
+            106893
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              466,
+              292.5,
+              24,
+              34
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            478.5,
+            332.5,
+            22.0,
+            24.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106741,
+            106792,
+            106843,
+            106894
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              467.5,
+              320.5,
+              22,
+              24
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            445.0,
+            340.0,
+            26.0,
+            33.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106742,
+            106793,
+            106844,
+            106895
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              432,
+              323.5,
+              26,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            458.0,
+            332.5,
+            14.0,
+            22.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106743,
+            106794,
+            106845,
+            106896
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              451,
+              321.5,
+              14,
+              22
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            447.0,
+            361.0,
+            23.0,
+            26.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106744,
+            106795,
+            106846,
+            106897
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              435.5,
+              348,
+              23,
+              26
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            467.0,
+            355.0,
+            21.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106745,
+            106796,
+            106847,
+            106898
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              456.5,
+              340,
+              21,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            417.0,
+            353.5,
+            21.0,
+            27.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106746,
+            106797,
+            106848,
+            106899
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              406.5,
+              340,
+              21,
+              27
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            371.5,
+            400.5,
+            27.0,
+            34.0
+          ],
+          "copies": 3,
+          "source_annotation_ids": [
+            106747,
+            106798,
+            106849
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              358,
+              383.5,
+              27,
+              34
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            389.0,
+            387.5,
+            22.0,
+            28.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106748,
+            106799,
+            106850,
+            106900
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              378,
+              373.5,
+              22,
+              28
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            407.0,
+            381.5,
+            22.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106749,
+            106800,
+            106851,
+            106901
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              396,
+              366.5,
+              22,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            434.5,
+            384.0,
+            24.0,
+            30.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            106750,
+            106801,
+            106852,
+            106902
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              422.5,
+              369,
+              24,
+              30
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "62ffed2e5bdc1efc05126f000cc8aec9af9120e50c11a3f828472172da425807",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\IMG-20200513-WA0064_jpg.rf.d6642eabd2771410d30f3d1222ecd6ff.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\_annotations.coco.json",
+      "source_json_sha256": "f1c9ccc35f118f1239098ef8b7e150a9e7493a4295109e87d095368d396bb5e1",
+      "source_image_id": 411,
+      "split_group": "4d6ae563c3a0affff5485bac86a9b1c8a1a2fd2663e00f788e7e1ee9c50e8623",
+      "original_count": 63,
+      "unique_box_count": 53,
+      "duplicate_excess": 10,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            179.0,
+            216.5,
+            23.0,
+            14.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            74250,
+            74251,
+            74252,
+            74253
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              167.5,
+              209.5,
+              23,
+              14
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            248.0,
+            217.5,
+            25.0,
+            14.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            74255,
+            74256
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              235.5,
+              210.5,
+              25,
+              14
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            277.5,
+            203.5,
+            25.0,
+            14.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            74261,
+            74262
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              265,
+              196.5,
+              25,
+              14
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            305.0,
+            217.5,
+            23.0,
+            13.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            74264,
+            74265
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              293.5,
+              211,
+              23,
+              13
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            411.0,
+            201.5,
+            24.0,
+            14.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            74287,
+            74288
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              399,
+              194.5,
+              24,
+              14
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            513.5,
+            210.0,
+            24.0,
+            14.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            74289,
+            74291
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              501.5,
+              203,
+              24,
+              14
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            154.0,
+            217.0,
+            25.0,
+            13.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            74293,
+            74294
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              141.5,
+              210.5,
+              25,
+              13
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            131.0,
+            217.0,
+            25.0,
+            14.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            74300,
+            74301
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              118.5,
+              210,
+              25,
+              14
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "fb98f2c6bccab364b38f8d0923260fe8ba231fa7dd99afe3e227a157148819ac",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\IMG-20200513-WA0064_jpg.rf.5ca53eabb61fe652723d557f13f89229.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\_annotations.coco.json",
+      "source_json_sha256": "92528afd4e6ee3544e10680ff2a8928c1f6d2e5204a34466bca975043f1ef1fe",
+      "source_image_id": 61,
+      "split_group": "4d6ae563c3a0affff5485bac86a9b1c8a1a2fd2663e00f788e7e1ee9c50e8623",
+      "original_count": 63,
+      "unique_box_count": 53,
+      "duplicate_excess": 10,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            179.0,
+            216.5,
+            23.0,
+            14.0
+          ],
+          "copies": 4,
+          "source_annotation_ids": [
+            5622,
+            5623,
+            5624,
+            5625
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              167.5,
+              209.5,
+              23,
+              14
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            248.0,
+            217.5,
+            25.0,
+            14.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            5627,
+            5628
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              235.5,
+              210.5,
+              25,
+              14
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            277.5,
+            203.5,
+            25.0,
+            14.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            5633,
+            5634
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              265,
+              196.5,
+              25,
+              14
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            305.0,
+            217.5,
+            23.0,
+            13.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            5636,
+            5637
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              293.5,
+              211,
+              23,
+              13
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            411.0,
+            201.5,
+            24.0,
+            14.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            5659,
+            5660
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              399,
+              194.5,
+              24,
+              14
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            513.5,
+            210.0,
+            24.0,
+            14.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            5661,
+            5663
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              501.5,
+              203,
+              24,
+              14
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            154.0,
+            217.0,
+            25.0,
+            13.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            5665,
+            5666
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              141.5,
+              210.5,
+              25,
+              13
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            131.0,
+            217.0,
+            25.0,
+            14.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            5672,
+            5673
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              118.5,
+              210,
+              25,
+              14
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "a939ba75e933c6097e2b8b052947b7c2e3a0cc20d3d5560c0293641b83d0f534",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200513-WA0065_jpg.rf.1b91525bc4c49ce445f50cb43b6b3a2d.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 3280,
+      "split_group": "a5b4952b921e5bae02569ca73f4a6fddea1b58b8b9a447210ffa1f5257a6be27",
+      "original_count": 83,
+      "unique_box_count": 78,
+      "duplicate_excess": 5,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            82.5,
+            252.0,
+            39.0,
+            22.0
+          ],
+          "copies": 3,
+          "source_annotation_ids": [
+            619159,
+            619160,
+            619162
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              63,
+              241,
+              39,
+              22
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            371.0,
+            205.5,
+            37.0,
+            21.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            619176,
+            619178
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              352.5,
+              195,
+              37,
+              21
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            296.5,
+            258.5,
+            33.0,
+            19.0
+          ],
+          "copies": 3,
+          "source_annotation_ids": [
+            619181,
+            619182,
+            619183
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              280,
+              249,
+              33,
+              19
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "ee1c8dd4dc91b3bdd0febaf2eb3b657b9b8378398ae0bf4bd42b9505c29f2439",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\IMG-20200513-WA0065_jpg.rf.61ec7e70e9990cbda4378f2ad13f0376.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "f1c604d7e89acc8cf84309109883ffa7f933b340c7c83e7ea53b380f7fe5a5a9",
+      "source_image_id": 1431,
+      "split_group": "a5b4952b921e5bae02569ca73f4a6fddea1b58b8b9a447210ffa1f5257a6be27",
+      "original_count": 83,
+      "unique_box_count": 78,
+      "duplicate_excess": 5,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            82.5,
+            252.0,
+            39.0,
+            22.0
+          ],
+          "copies": 3,
+          "source_annotation_ids": [
+            106264,
+            106265,
+            106267
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              63,
+              241,
+              39,
+              22
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            371.0,
+            205.5,
+            37.0,
+            21.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            106281,
+            106283
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              352.5,
+              195,
+              37,
+              21
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            296.5,
+            258.5,
+            33.0,
+            19.0
+          ],
+          "copies": 3,
+          "source_annotation_ids": [
+            106286,
+            106287,
+            106288
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              280,
+              249,
+              33,
+              19
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "d63802d75da3048e02e634bcdf1321410e364b3f19e11c270c5b38281b1a0de7",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\k-28-_jpg.rf.a521e2fbdff4f5883ab83c7bd2a2c9df.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 2872,
+      "split_group": "855798dc72dfe9d5aa749218437eea158c815d036ace67ffba70b3666302c128",
+      "original_count": 1456,
+      "unique_box_count": 1452,
+      "duplicate_excess": 4,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            589.0,
+            1057.5,
+            68.0,
+            60.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            544758,
+            544801
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              555,
+              1027.5,
+              68,
+              60
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            2006.5,
+            1605.0,
+            53.0,
+            45.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            545912,
+            546117
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              1980,
+              1582.5,
+              53,
+              45
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            2160.0,
+            1466.5,
+            60.0,
+            53.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            545927,
+            546045
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              2130,
+              1440,
+              60,
+              53
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            2464.0,
+            1211.5,
+            53.0,
+            52.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            545975,
+            546038
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              2437.5,
+              1185.5,
+              53,
+              52
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "19ffffa99622fec315ed92f86f73e66d326939705cfe24ae37461f32066c1af5",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\1667458386915_jpg.rf.35da9691d86333e7200a6ddce97f7f2c.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 6112,
+      "split_group": "2f47a196424613b1e72164317e0f4fc11d87ccfc6ef40adc05f2d772ffe49c95",
+      "original_count": 238,
+      "unique_box_count": 234,
+      "duplicate_excess": 4,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            428.5,
+            380.0,
+            35.0,
+            51.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1183102,
+            1183222
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              411,
+              354.5,
+              35,
+              51
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            519.5,
+            351.5,
+            15.0,
+            19.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1183120,
+            1183235
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              512,
+              342,
+              15,
+              19
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            563.0,
+            415.5,
+            9.0,
+            18.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1183137,
+            1183268
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              558.5,
+              406.5,
+              9,
+              18
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            568.0,
+            357.5,
+            9.0,
+            12.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1183169,
+            1183240
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              563.5,
+              351.5,
+              9,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "7feda216ab569342865fae0778e417b2e2375d8b591725eeef54c6cf8a218242",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\1667458386915_jpg.rf.04aaf879e9e54459a062c5e598be2f82.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "b36c413cf699438120c2069fdf52d29ac03c2714b671183877a7df0a90c41461",
+      "source_image_id": 1483,
+      "split_group": "2f47a196424613b1e72164317e0f4fc11d87ccfc6ef40adc05f2d772ffe49c95",
+      "original_count": 238,
+      "unique_box_count": 234,
+      "duplicate_excess": 4,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            428.5,
+            380.0,
+            35.0,
+            51.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            95355,
+            95475
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              411,
+              354.5,
+              35,
+              51
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            519.5,
+            351.5,
+            15.0,
+            19.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            95373,
+            95488
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              512,
+              342,
+              15,
+              19
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            563.0,
+            415.5,
+            9.0,
+            18.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            95390,
+            95521
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              558.5,
+              406.5,
+              9,
+              18
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            568.0,
+            357.5,
+            9.0,
+            12.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            95422,
+            95493
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              563.5,
+              351.5,
+              9,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "41fcc48517366e2d09cb95cbc420ae25ed546c98a6c392d65f5913081ba54801",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\k-28-_jpg.rf.9065135e6a9628549f846cf606c49d86.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\_annotations.coco.json",
+      "source_json_sha256": "92528afd4e6ee3544e10680ff2a8928c1f6d2e5204a34466bca975043f1ef1fe",
+      "source_image_id": 161,
+      "split_group": "855798dc72dfe9d5aa749218437eea158c815d036ace67ffba70b3666302c128",
+      "original_count": 1456,
+      "unique_box_count": 1452,
+      "duplicate_excess": 4,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            588.75,
+            1057.5,
+            67.5,
+            60.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            12209,
+            12252
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              555,
+              1027.5,
+              67.5,
+              60
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            2006.25,
+            1605.0,
+            52.5,
+            45.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            13363,
+            13568
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              1980,
+              1582.5,
+              52.5,
+              45
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            2160.0,
+            1466.25,
+            60.0,
+            52.5
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            13378,
+            13496
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              2130,
+              1440,
+              60,
+              52.5
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            2463.75,
+            1211.25,
+            52.5,
+            52.5
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            13426,
+            13489
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              2437.5,
+              1185,
+              52.5,
+              52.5
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "1f3d6543d2177e3e8807720600a12bbcf527c136d15e341e984e6230907ed939",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200722-WA0047_jpg.rf.fa578557ecce479a9fc308cabe3f8e33.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 6763,
+      "split_group": "8a98a93e45aa98fa75ce81fe9b938380953a3456fa9cc700fec4b55aaa32d107",
+      "original_count": 504,
+      "unique_box_count": 501,
+      "duplicate_excess": 3,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            255.0,
+            301.5,
+            22.0,
+            30.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1306607,
+            1306608
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              244,
+              286.5,
+              22,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            593.5,
+            532.5,
+            25.0,
+            33.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1306914,
+            1306924
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              581,
+              516,
+              25,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            599.0,
+            194.5,
+            20.0,
+            26.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1306944,
+            1307007
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              589,
+              181.5,
+              20,
+              26
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "dafeae847bcde35d57ab903c5ad003629ac51f5f480bf870ca6211faad2f2da5",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\1667458387279_jpg.rf.4a19b370af11a8ffc623c501f9c0a6ac.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 3010,
+      "split_group": "75cce45e54aec6564895f52ec1311117eddd0f59bec406b28245cf9c4ca9adf1",
+      "original_count": 88,
+      "unique_box_count": 85,
+      "duplicate_excess": 3,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            505.5,
+            215.0,
+            32.0,
+            41.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            571627,
+            571628
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              489.5,
+              194.5,
+              32,
+              41
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            429.5,
+            255.5,
+            28.0,
+            37.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            571649,
+            571658
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              415.5,
+              237,
+              28,
+              37
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            121.5,
+            292.5,
+            26.0,
+            45.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            571701,
+            571702
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              108.5,
+              270,
+              26,
+              45
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "fef2363371051e52a9a304452de62885bda6e6fe0d6b00ad1caed6c8f3fdf74b",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\1667458387279_jpg.rf.c265462b5242df9aee5a10b5758e0334.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "b36c413cf699438120c2069fdf52d29ac03c2714b671183877a7df0a90c41461",
+      "source_image_id": 109,
+      "split_group": "75cce45e54aec6564895f52ec1311117eddd0f59bec406b28245cf9c4ca9adf1",
+      "original_count": 88,
+      "unique_box_count": 85,
+      "duplicate_excess": 3,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            505.5,
+            215.0,
+            32.0,
+            41.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            6280,
+            6281
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              489.5,
+              194.5,
+              32,
+              41
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            429.5,
+            255.5,
+            28.0,
+            37.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            6302,
+            6311
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              415.5,
+              237,
+              28,
+              37
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            121.5,
+            292.5,
+            26.0,
+            45.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            6354,
+            6355
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              108.5,
+              270,
+              26,
+              45
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "ae3854a0435d8f82f5f4d70805efe971bac3287229a05e46d32a6d09f3946f20",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\IMG-20200722-WA0047_jpg.rf.5b75018af25486cbc814bf1aae91ff76.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\_annotations.coco.json",
+      "source_json_sha256": "ca6363b8fdc85236e88b52f6ee80a869b18c3c085ed6351687db274168ff232f",
+      "source_image_id": 52,
+      "split_group": "8a98a93e45aa98fa75ce81fe9b938380953a3456fa9cc700fec4b55aaa32d107",
+      "original_count": 504,
+      "unique_box_count": 501,
+      "duplicate_excess": 3,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            255.0,
+            301.5,
+            22.0,
+            30.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            2927,
+            2928
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              244,
+              286.5,
+              22,
+              30
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            593.5,
+            532.5,
+            25.0,
+            33.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            3234,
+            3244
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              581,
+              516,
+              25,
+              33
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            599.0,
+            194.5,
+            20.0,
+            26.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            3264,
+            3327
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              589,
+              181.5,
+              20,
+              26
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "b65c08c7fc27c39a04529b36520713bcba22b3a22ed302f8099433995fae6159",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\1667458386878_jpg.rf.5caf258bf0f0a734c29e1c1e2c86cbfb.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 146,
+      "split_group": "406ed6f2727d056142a7f898dbed702305ced10a7f2895b653580863fc23ab0f",
+      "original_count": 148,
+      "unique_box_count": 146,
+      "duplicate_excess": 2,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            362.0,
+            214.0,
+            54.0,
+            79.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            25128,
+            25196
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              335,
+              174.5,
+              54,
+              79
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            459.5,
+            265.0,
+            36.0,
+            64.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            25153,
+            25172
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              441.5,
+              233,
+              36,
+              64
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "9be1bee8c30ec5220ba9fc5605be88417a82822f23ba32c02015d4a6acb35f1a",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200722-WA0008_jpg.rf.46286df2965a537195985f1d599e7410.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 6448,
+      "split_group": "78e3bf621f214907c2249a8732c90d2bfd6877c0bac8fdf5decf1ad48ea5f148",
+      "original_count": 120,
+      "unique_box_count": 118,
+      "duplicate_excess": 2,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            418.5,
+            161.5,
+            43.0,
+            58.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1241576,
+            1241577
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              397,
+              132.5,
+              43,
+              58
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            312.0,
+            468.0,
+            40.0,
+            54.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1241631,
+            1241632
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              292,
+              441,
+              40,
+              54
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "5d66e422019202001e8c0c70b62c84e9327a51024504f5eb1f936b5246d8e864",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\1667458387225_jpg.rf.03cee6071cc8e15b835a6320b3932ad2.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 6736,
+      "split_group": "e72f0ef82f6dd8993690411b0b2666a08d84f8ca6f8f391acf0eb98b9b8d509f",
+      "original_count": 314,
+      "unique_box_count": 312,
+      "duplicate_excess": 2,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            517.5,
+            192.0,
+            36.0,
+            41.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1300722,
+            1300781
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              499.5,
+              171.5,
+              36,
+              41
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            269.5,
+            368.5,
+            27.0,
+            34.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1300902,
+            1300933
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              256,
+              351.5,
+              27,
+              34
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "ab6ea965bbec828c6a1401d2ab6b69f18f86e91a020c3e9621c253c21554ccb9",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\1667458387225_jpg.rf.5ccf51e10e2125879219f4d2fc651f1d.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 6748,
+      "split_group": "e72f0ef82f6dd8993690411b0b2666a08d84f8ca6f8f391acf0eb98b9b8d509f",
+      "original_count": 314,
+      "unique_box_count": 312,
+      "duplicate_excess": 2,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            312.0,
+            198.5,
+            29.0,
+            37.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1304434,
+            1304521
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              297.5,
+              180,
+              29,
+              37
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            233.0,
+            204.5,
+            28.0,
+            37.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1304440,
+            1304587
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              219,
+              186,
+              28,
+              37
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "1209f491aa89682662e92668d8a354e6bfd725a8f74158ec876bc942c2d8417e",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200515-WA0121_jpg.rf.4f5e4eb7859e3e289d07dbaba643f31a.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 2653,
+      "split_group": "bc7bc81f17ae300f00d49340350b8380e31cde8a0b0af435e782a830f18b140d",
+      "original_count": 59,
+      "unique_box_count": 57,
+      "duplicate_excess": 2,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            316.0,
+            210.0,
+            63.0,
+            77.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            503140,
+            503141
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              284.5,
+              171.5,
+              63,
+              77
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            291.0,
+            274.5,
+            57.0,
+            71.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            503187,
+            503188
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              262.5,
+              239,
+              57,
+              71
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "5663f5eb248d47e808a18236233e919f9bcd18e8e32e078808f8b28d1a82779c",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200515-WA0116_jpg.rf.bbb64c8fda1cc82897a7750bfef10ad8.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 1258,
+      "split_group": "2ef09f5701b2d16660d4103903c7e060c50239434ebea2e40cb697ff8753ea85",
+      "original_count": 50,
+      "unique_box_count": 48,
+      "duplicate_excess": 2,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            307.0,
+            416.5,
+            54.0,
+            65.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            229158,
+            229168
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              280,
+              384,
+              54,
+              65
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            371.0,
+            529.5,
+            48.0,
+            56.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            229171,
+            229172
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              347,
+              501.5,
+              48,
+              56
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "b08e14810a16844a3e7ebcc023dbf8457cdc1cc5795fd1e14da99e0aae40480d",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\1667458386878_jpg.rf.c80e132fb880780751adf5074cf899cd.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\_annotations.coco.json",
+      "source_json_sha256": "984c05a709fed589026ac6436bc01afd71b91f3dbe820471020773ba8a48e92a",
+      "source_image_id": 1,
+      "split_group": "406ed6f2727d056142a7f898dbed702305ced10a7f2895b653580863fc23ab0f",
+      "original_count": 148,
+      "unique_box_count": 146,
+      "duplicate_excess": 2,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            362.0,
+            214.0,
+            54.0,
+            79.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            225,
+            293
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              335,
+              174.5,
+              54,
+              79
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            459.5,
+            265.0,
+            36.0,
+            64.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            250,
+            269
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              441.5,
+              233,
+              36,
+              64
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "6408424d38955e1621b530d5e7b7c8bd40a9fb8deb63eb65e2702e656542c501",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\1667458387225_jpg.rf.13a7c86c7787c616cce3be3d4a719750.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "b36c413cf699438120c2069fdf52d29ac03c2714b671183877a7df0a90c41461",
+      "source_image_id": 1528,
+      "split_group": "e72f0ef82f6dd8993690411b0b2666a08d84f8ca6f8f391acf0eb98b9b8d509f",
+      "original_count": 314,
+      "unique_box_count": 312,
+      "duplicate_excess": 2,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            312.0,
+            198.5,
+            29.0,
+            37.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            99211,
+            99298
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              297.5,
+              180,
+              29,
+              37
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            233.0,
+            204.5,
+            28.0,
+            37.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            99217,
+            99364
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              219,
+              186,
+              28,
+              37
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "5cd45a77ea5c968848e15ce3552deecff2d60bb611f6f75ab1d82030ef27c85f",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\1667458387225_jpg.rf.a08a192c878e3ec12484b97781a9aa02.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "b36c413cf699438120c2069fdf52d29ac03c2714b671183877a7df0a90c41461",
+      "source_image_id": 1511,
+      "split_group": "e72f0ef82f6dd8993690411b0b2666a08d84f8ca6f8f391acf0eb98b9b8d509f",
+      "original_count": 314,
+      "unique_box_count": 312,
+      "duplicate_excess": 2,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            517.5,
+            192.0,
+            36.0,
+            41.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            97669,
+            97728
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              499.5,
+              171.5,
+              36,
+              41
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            269.5,
+            368.5,
+            27.0,
+            34.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            97849,
+            97880
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              256,
+              351.5,
+              27,
+              34
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "2f130b00fff67a5be1a1ae4a8420ec89727e1fa624def5f209f686386557351a",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\IMG-20200722-WA0008_jpg.rf.1701720a946b38070a55490825a53df5.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\_annotations.coco.json",
+      "source_json_sha256": "ca6363b8fdc85236e88b52f6ee80a869b18c3c085ed6351687db274168ff232f",
+      "source_image_id": 419,
+      "split_group": "78e3bf621f214907c2249a8732c90d2bfd6877c0bac8fdf5decf1ad48ea5f148",
+      "original_count": 120,
+      "unique_box_count": 118,
+      "duplicate_excess": 2,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            418.5,
+            161.5,
+            43.0,
+            58.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            33921,
+            33922
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              397,
+              132.5,
+              43,
+              58
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            312.0,
+            468.0,
+            40.0,
+            54.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            33976,
+            33977
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              292,
+              441,
+              40,
+              54
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "2c6530e6f484da16ab3826edd47cbbccb4b329e07a94589917e4ad0ce5df1a0f",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\IMG-20200515-WA0121_jpg.rf.944013431d936478fa2012508100158d.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\_annotations.coco.json",
+      "source_json_sha256": "ca6363b8fdc85236e88b52f6ee80a869b18c3c085ed6351687db274168ff232f",
+      "source_image_id": 106,
+      "split_group": "bc7bc81f17ae300f00d49340350b8380e31cde8a0b0af435e782a830f18b140d",
+      "original_count": 59,
+      "unique_box_count": 57,
+      "duplicate_excess": 2,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            316.0,
+            210.0,
+            63.0,
+            77.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            8220,
+            8221
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              284.5,
+              171.5,
+              63,
+              77
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            291.0,
+            274.5,
+            57.0,
+            71.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            8267,
+            8268
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              262.5,
+              239,
+              57,
+              71
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "a905c7449ae6a38726b94c558c02291ded88c14041fd3d7cba3c75de1001160c",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\IMG-20200515-WA0116_jpg.rf.55fc1fd7c37c328aabb9e7f8f70c82ce.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "f1c604d7e89acc8cf84309109883ffa7f933b340c7c83e7ea53b380f7fe5a5a9",
+      "source_image_id": 149,
+      "split_group": "2ef09f5701b2d16660d4103903c7e060c50239434ebea2e40cb697ff8753ea85",
+      "original_count": 50,
+      "unique_box_count": 48,
+      "duplicate_excess": 2,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            307.0,
+            416.5,
+            54.0,
+            65.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            10838,
+            10848
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              280,
+              384,
+              54,
+              65
+            ]
+          ]
+        },
+        {
+          "box_center_xywh": [
+            371.0,
+            529.5,
+            48.0,
+            56.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            10851,
+            10852
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              347,
+              501.5,
+              48,
+              56
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "fdd1c3a8c162e721b07c6b34ff183fcc475dc3b7a2e24af363df028253df3708",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\731_jpg.rf.cb6fcd5f5eb6fa45c105ea04add66e7b.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 21,
+      "split_group": "1e3070f53894a7896dec54835b26c9cf5b1231142183861fe75b7ba82cb8d38a",
+      "original_count": 502,
+      "unique_box_count": 501,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            150.5,
+            963.0,
+            74.0,
+            79.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            2400,
+            2401
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              113.5,
+              923.5,
+              74,
+              79
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "ecb969fc148d5b938a8add979fb8b3718aa13b803ebc32265112b44bfd632e41",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\731_jpg.rf.e5c36abf903a418ce4dda7611d87805c.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 6356,
+      "split_group": "1e3070f53894a7896dec54835b26c9cf5b1231142183861fe75b7ba82cb8d38a",
+      "original_count": 360,
+      "unique_box_count": 359,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            463.0,
+            866.0,
+            76.0,
+            76.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1224629,
+            1224630
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              425,
+              828,
+              76,
+              76
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "cff4d7087df4ddff3dab2d2d76dfa31b85d7e7e9f6ad7efe82b3fb77e7e4c9ed",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\731_jpg.rf.d66e0df8f4c41165b9924b6a316c10cf.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 6574,
+      "split_group": "1e3070f53894a7896dec54835b26c9cf5b1231142183861fe75b7ba82cb8d38a",
+      "original_count": 531,
+      "unique_box_count": 530,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            75.0,
+            1212.5,
+            77.0,
+            79.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1266600,
+            1266601
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              36.5,
+              1173,
+              77,
+              79
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "3e661c333792ff4e9ac7696b365a7f90a98e0381d6b6fd0071a1f704ca88fcbb",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200722-WA0074_jpg.rf.dcb579faace729a5b947dae86c8d379c.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 6983,
+      "split_group": "672af0cbcef84bde4339b8c10b973851393f2a0ecdccb2dd396d73385445216b",
+      "original_count": 159,
+      "unique_box_count": 158,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            41.0,
+            470.5,
+            39.0,
+            52.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1355901,
+            1355902
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              21.5,
+              444.5,
+              39,
+              52
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "93fb9b100798fd389528351ca54fe6b05d366cc680fcd3efd2db82a1e73151b4",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\Counting-Input-2020-09-02-211458_jpg.rf.3a7655c5b9e42d5ff79686cb2f28438a.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 373,
+      "split_group": "fda26333e22ffb42cb10bca511acba9ec629b865ec414a7f709d143de79e4b04",
+      "original_count": 232,
+      "unique_box_count": 231,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            118.0,
+            4.0,
+            13.0,
+            8.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            64508,
+            64509
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              111.5,
+              0,
+              13,
+              8
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "c7e1ce76b1c9438ce455a8da6081a0f5beb973cf83fe3f42b5f7bd447bfc5001",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1329790152-612x612_jpg.rf.dc87e3e60f322c02ddbc05fa0bfd977f.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 7187,
+      "split_group": "10e67c230af5b0b0cabfd06d347cb9d932760e763bc785a37e361c175ed418b3",
+      "original_count": 168,
+      "unique_box_count": 167,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            361.5,
+            235.5,
+            13.0,
+            7.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1395952,
+            1395953
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              355,
+              232,
+              13,
+              7
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "f76283e67b64d4845deee1726223b0861fe2114c61c551cf4aadb13cd4d4cb88",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200511-WA0091_jpg.rf.fdca6d3d3f5febd65d706122d9821781.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 90,
+      "split_group": "b7f617eb670e6861f090da8fe019a6d3fe4575a065e073b4f889cb5ef02897a1",
+      "original_count": 56,
+      "unique_box_count": 55,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            349.0,
+            186.5,
+            23.0,
+            30.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            15826,
+            15827
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              337.5,
+              171.5,
+              23,
+              30
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "73729e1dfb348aa8f7259d7f5a8173aa71d6520f39fea7b6a2a77945fcac2eed",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\1667458387941_jpg.rf.0f1b1ae36c9e0252746cc4fb0b90a2a9.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 4868,
+      "split_group": "a14cdb7f1eeb24db62d3bdd1f83d7baadd2f68555dfcc6a4a4286fd0de00e090",
+      "original_count": 377,
+      "unique_box_count": 376,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            308.0,
+            261.0,
+            36.0,
+            45.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            947833,
+            947885
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              290,
+              238.5,
+              36,
+              45
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "ba6159e2acdbd034a8c2cd3af1a81a5f831167e7a0160e66607e76db35a395a4",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\723_jpg.rf.5c8fa46bd8c411166dbb0f5e72cbb22a.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 6255,
+      "split_group": "7c0389a2729ffdbbb948f4bcc808a5502284949b11e68626829076fea5da93a2",
+      "original_count": 661,
+      "unique_box_count": 660,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            16.0,
+            433.5,
+            32.0,
+            73.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            1205464,
+            1205465
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              0,
+              397,
+              32,
+              73
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "8f1b6434870f1fbd4fd90fd10c39b3553b479974b6468a9c26c6a818842ff545",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\637_jpg.rf.9781693b3e348ca4c30cc79ee4a0c47c.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 32,
+      "split_group": "d2a493757fbdf22bc00915a6c0adf49523118885374fb7606cadec99fdfea776",
+      "original_count": 572,
+      "unique_box_count": 571,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            1927.0,
+            722.0,
+            76.0,
+            80.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            4979,
+            4980
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              1889,
+              682,
+              76,
+              80
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "7d4b14ed01d6f3c79f7dd6698a52cd381a5e22495acf50e67b30341e38cbc126",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200515-WA0015_jpg.rf.ed8955305e486dfada588b2de111127f.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "e8b8344fd1c66f9c1d0f9913d94cf08bc7b086015d2e6fad0806584afff3bb39",
+      "source_image_id": 52,
+      "split_group": "f5db48d8e65e62458352e8ca03249de1366c690c4a3521b6d782bcb7ca198627",
+      "original_count": 73,
+      "unique_box_count": 72,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            417.0,
+            369.5,
+            44.0,
+            58.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            6728,
+            6781
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              395,
+              340.5,
+              44,
+              58
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "1663f1f396c4e4aef0ba76352ad876dbbcd9f59c2e4f86f82c9c43a9e417ae6c",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\1667458387131_jpg.rf.dbae5dce9bf94e54a06bac16a5bc220e.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\_annotations.coco.json",
+      "source_json_sha256": "984c05a709fed589026ac6436bc01afd71b91f3dbe820471020773ba8a48e92a",
+      "source_image_id": 2,
+      "split_group": "7bb71745d84f2fc53a26ccd1a6975dde5317f6cd1b18b263afe1664feda82fb7",
+      "original_count": 117,
+      "unique_box_count": 116,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            594.5,
+            349.0,
+            11.0,
+            10.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            325,
+            328
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              589,
+              344,
+              11,
+              10
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "87e877babeaac155a547c66d97c7254cbaef9c6715e696f7a90fa9af42c6d182",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\1667458386878_jpg.rf.b4cb8bb73f6fd0208e5d6ce2b8638df2.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "b36c413cf699438120c2069fdf52d29ac03c2714b671183877a7df0a90c41461",
+      "source_image_id": 1538,
+      "split_group": "406ed6f2727d056142a7f898dbed702305ced10a7f2895b653580863fc23ab0f",
+      "original_count": 148,
+      "unique_box_count": 147,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            636.0,
+            356.0,
+            8.0,
+            21.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            99997,
+            100128
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              632,
+              345.5,
+              8,
+              21
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "a6efd490824a9031b6bf769ce4349372971532566b535eb1b22103d2373db612",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\Counting-Input-2020-09-02-211458_jpg.rf.b911a439e3260f301c5a65bac1469e84.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "b36c413cf699438120c2069fdf52d29ac03c2714b671183877a7df0a90c41461",
+      "source_image_id": 2139,
+      "split_group": "fda26333e22ffb42cb10bca511acba9ec629b865ec414a7f709d143de79e4b04",
+      "original_count": 232,
+      "unique_box_count": 231,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            118.0,
+            4.0,
+            13.0,
+            8.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            140695,
+            140696
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              111.5,
+              0,
+              13,
+              8
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "809762ace137e9eda3b3871d2295261a25e6e86a59cebc8b934feb1142f7153b",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1329790152-612x612_jpg.rf.3b608a8a07d22ec3609a6c8fdc9646a2.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "b36c413cf699438120c2069fdf52d29ac03c2714b671183877a7df0a90c41461",
+      "source_image_id": 932,
+      "split_group": "10e67c230af5b0b0cabfd06d347cb9d932760e763bc785a37e361c175ed418b3",
+      "original_count": 168,
+      "unique_box_count": 167,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            361.5,
+            235.5,
+            13.0,
+            7.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            59364,
+            59365
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              355,
+              232,
+              13,
+              7
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "0e93ce69b5ef2c226a96347462e4a98953ff657a6261e35d97c1820c3151513d",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\1667458387941_jpg.rf.4bc65c75348eb4811d65582d04b4725e.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "b36c413cf699438120c2069fdf52d29ac03c2714b671183877a7df0a90c41461",
+      "source_image_id": 1670,
+      "split_group": "a14cdb7f1eeb24db62d3bdd1f83d7baadd2f68555dfcc6a4a4286fd0de00e090",
+      "original_count": 379,
+      "unique_box_count": 378,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            424.0,
+            288.0,
+            26.0,
+            35.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            109556,
+            109773
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              411,
+              270.5,
+              26,
+              35
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "d3433ecc457608b04164125f2cb630c1830366f59988b902a88927e323c5bd07",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\1667458387941_jpg.rf.0a041f77c151d281db26ebb85588a271.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "b36c413cf699438120c2069fdf52d29ac03c2714b671183877a7df0a90c41461",
+      "source_image_id": 1628,
+      "split_group": "a14cdb7f1eeb24db62d3bdd1f83d7baadd2f68555dfcc6a4a4286fd0de00e090",
+      "original_count": 377,
+      "unique_box_count": 376,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            308.0,
+            261.0,
+            36.0,
+            45.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            106185,
+            106237
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              290,
+              238.5,
+              36,
+              45
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "172017d73e287098183c043d6738fd7b9a522eb797e3835348bbbbdf73891772",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\IMG-20200722-WA0074_jpg.rf.87cee77eb47cad9cb13263af8a40dcf5.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "f1c604d7e89acc8cf84309109883ffa7f933b340c7c83e7ea53b380f7fe5a5a9",
+      "source_image_id": 2330,
+      "split_group": "672af0cbcef84bde4339b8c10b973851393f2a0ecdccb2dd396d73385445216b",
+      "original_count": 159,
+      "unique_box_count": 158,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            41.0,
+            470.5,
+            39.0,
+            52.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            173279,
+            173280
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              21.5,
+              444.5,
+              39,
+              52
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "f3ce571d2e6ad596a4a95e710725fa24866d46f672206e8e1d8a2efaa9091ea5",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\IMG-20200511-WA0091_jpg.rf.681b9091cde0e7d6a0831cdb42ffee4f.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "f1c604d7e89acc8cf84309109883ffa7f933b340c7c83e7ea53b380f7fe5a5a9",
+      "source_image_id": 2291,
+      "split_group": "b7f617eb670e6861f090da8fe019a6d3fe4575a065e073b4f889cb5ef02897a1",
+      "original_count": 56,
+      "unique_box_count": 55,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            349.0,
+            186.5,
+            23.0,
+            30.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            169903,
+            169904
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              337.5,
+              171.5,
+              23,
+              30
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "075a74019cc5ebdb29605fed9456cc499fe49d188321ce07abbefba9f1679817",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\IMG-20200515-WA0015_jpg.rf.ae91a7f91ac1675d43bd4e6c2473ac1c.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "source_json_sha256": "f1c604d7e89acc8cf84309109883ffa7f933b340c7c83e7ea53b380f7fe5a5a9",
+      "source_image_id": 2221,
+      "split_group": "f5db48d8e65e62458352e8ca03249de1366c690c4a3521b6d782bcb7ca198627",
+      "original_count": 73,
+      "unique_box_count": 72,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            417.0,
+            369.5,
+            44.0,
+            58.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            163212,
+            163265
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              395,
+              340.5,
+              44,
+              58
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "69b047ed5226f308a4f3a411bfdc22ea35125d6aa8dc3084304fde163f1d0392",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\1667458387131_jpg.rf.b7cc6420e7e122dd20b9c7246855eab9.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\_annotations.coco.json",
+      "source_json_sha256": "f1c9ccc35f118f1239098ef8b7e150a9e7493a4295109e87d095368d396bb5e1",
+      "source_image_id": 249,
+      "split_group": "7bb71745d84f2fc53a26ccd1a6975dde5317f6cd1b18b263afe1664feda82fb7",
+      "original_count": 117,
+      "unique_box_count": 116,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            594.5,
+            349.0,
+            11.0,
+            10.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            45887,
+            45890
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              589,
+              344,
+              11,
+              10
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "1d8f3f13febcf6fa9573674b4f532ebbafb90c020bcd21ab625e78ce0d9fc858",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\1667458387941_jpg.rf.27402f20b62f160a71b06c877f3295da.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\_annotations.coco.json",
+      "source_json_sha256": "f1c9ccc35f118f1239098ef8b7e150a9e7493a4295109e87d095368d396bb5e1",
+      "source_image_id": 122,
+      "split_group": "a14cdb7f1eeb24db62d3bdd1f83d7baadd2f68555dfcc6a4a4286fd0de00e090",
+      "original_count": 379,
+      "unique_box_count": 378,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            424.0,
+            288.0,
+            26.0,
+            35.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            26337,
+            26554
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              411,
+              270.5,
+              26,
+              35
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "e6ed920c8294bed8b736209d8091188d5434ef00efdb25c5b13813fbb1f06195",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\Counting-Input-2020-09-02-234628_jpg.rf.2488972411b1c11b4f37b90e44cb31c6.jpg",
+      "source_json": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "source_json_sha256": "17c82d0178305d3ddbee4ffae33f1caab3f09e6c7b8dee38abe1fca2aa4057f8",
+      "source_image_id": 504,
+      "split_group": "e39f6510fb490dff4982a72ebb5122c293bb4a34e7c81970b581bd465a9bceaa",
+      "original_count": 401,
+      "unique_box_count": 400,
+      "duplicate_excess": 1,
+      "all_duplicates_identical_in_raw_source": true,
+      "duplicates": [
+        {
+          "box_center_xywh": [
+            152.5,
+            451.5,
+            19.0,
+            26.0
+          ],
+          "copies": 2,
+          "source_annotation_ids": [
+            25846,
+            25847
+          ],
+          "raw_boxes_identical": true,
+          "source_boxes_xywh": [
+            [
+              143,
+              438.5,
+              19,
+              26
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

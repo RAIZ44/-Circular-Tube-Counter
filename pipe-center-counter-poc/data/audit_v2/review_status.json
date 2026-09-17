@@ -1,0 +1,8 @@
+{
+  "reviewer": "AI visual spot check",
+  "previews_inspected": 4,
+  "counts_visually_checked": 3,
+  "human_verified_field_images": 0,
+  "annotation_conflicts_awaiting_review": 140,
+  "notes": "No labels were silently corrected. Sparse counts are observations, not human-approved ground truth."
+}

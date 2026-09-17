@@ -1,0 +1,22 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\istockphoto-1185478530-612x612_jpg.rf.e4df02b667de0307a10f7c023d2c139b.jpg",
+  "detected_count": 1,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 229.125,
+      "y": 219.375,
+      "confidence": 0.724609375
+    }
+  ],
+  "geometry": {
+    "detected_count": 1,
+    "possible_gap_count": 0,
+    "possible_gap_points": [],
+    "rows": [],
+    "row_angle_degrees": 0.0,
+    "nearest_neighbor_spacing": null,
+    "horizontal_spacing": null
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0201_istockphoto-1185478530-612x612_jpg.rf.e4df02b667de0307a10f7c023d2c139b_count_1.jpg"
+}

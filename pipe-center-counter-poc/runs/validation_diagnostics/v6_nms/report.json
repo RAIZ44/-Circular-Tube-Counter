@@ -1,0 +1,73 @@
+{
+  "evaluation_set": "validation_only",
+  "test_accessed": false,
+  "checkpoint": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\pipe_detector_v6_geometry\\best.pt",
+  "variants": {
+    "0.2": {
+      "images": 1332,
+      "threshold": 0.45499999999999996,
+      "exact_count_accuracy": 0.2987987987987988,
+      "within_one_accuracy": 0.4692192192192192,
+      "mean_absolute_error": 10.401651651651651,
+      "root_mean_squared_error": 35.3108355197821,
+      "mean_signed_error": -6.4692192192192195,
+      "total_true": 206171,
+      "total_predicted": 197554
+    },
+    "0.3": {
+      "images": 1332,
+      "threshold": 0.49499999999999994,
+      "exact_count_accuracy": 0.29204204204204204,
+      "within_one_accuracy": 0.46321321321321324,
+      "mean_absolute_error": 11.3490990990991,
+      "root_mean_squared_error": 37.01767900015557,
+      "mean_signed_error": -5.385135135135135,
+      "total_true": 206171,
+      "total_predicted": 198998
+    },
+    "0.4": {
+      "images": 1332,
+      "threshold": 0.7799999999999999,
+      "exact_count_accuracy": 0.2875375375375375,
+      "within_one_accuracy": 0.4264264264264264,
+      "mean_absolute_error": 42.62012012012012,
+      "root_mean_squared_error": 105.85229666241875,
+      "mean_signed_error": -40.3978978978979,
+      "total_true": 206171,
+      "total_predicted": 152361
+    },
+    "0.5": {
+      "images": 1332,
+      "threshold": 0.5399999999999999,
+      "exact_count_accuracy": 0.2905405405405405,
+      "within_one_accuracy": 0.45045045045045046,
+      "mean_absolute_error": 16.2972972972973,
+      "root_mean_squared_error": 47.67128119791885,
+      "mean_signed_error": 0.32882882882882886,
+      "total_true": 206171,
+      "total_predicted": 206609
+    },
+    "0.6": {
+      "images": 1332,
+      "threshold": 0.8799999999999999,
+      "exact_count_accuracy": 0.28378378378378377,
+      "within_one_accuracy": 0.4264264264264264,
+      "mean_absolute_error": 62.07432432432432,
+      "root_mean_squared_error": 140.38609085128235,
+      "mean_signed_error": -60.6478978978979,
+      "total_true": 206171,
+      "total_predicted": 125388
+    },
+    "0.7": {
+      "images": 1332,
+      "threshold": 0.8799999999999999,
+      "exact_count_accuracy": 0.2777777777777778,
+      "within_one_accuracy": 0.4144144144144144,
+      "mean_absolute_error": 60.5457957957958,
+      "root_mean_squared_error": 138.37219415082683,
+      "mean_signed_error": -58.5457957957958,
+      "total_true": 206171,
+      "total_predicted": 128188
+    }
+  }
+}

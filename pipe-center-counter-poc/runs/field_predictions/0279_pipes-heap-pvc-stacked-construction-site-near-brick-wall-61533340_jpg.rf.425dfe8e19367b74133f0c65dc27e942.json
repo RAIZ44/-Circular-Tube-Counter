@@ -1,0 +1,219 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\pipes-heap-pvc-stacked-construction-site-near-brick-wall-61533340_jpg.rf.425dfe8e19367b74133f0c65dc27e942.jpg",
+  "detected_count": 30,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 118.625,
+      "y": 336.375,
+      "confidence": 0.8505859375
+    },
+    {
+      "x": 178.75,
+      "y": 331.5,
+      "confidence": 0.84130859375
+    },
+    {
+      "x": 50.375,
+      "y": 339.625,
+      "confidence": 0.81787109375
+    },
+    {
+      "x": 303.875,
+      "y": 360.75,
+      "confidence": 0.79296875
+    },
+    {
+      "x": 251.875,
+      "y": 102.375,
+      "confidence": 0.75390625
+    },
+    {
+      "x": 333.125,
+      "y": 186.875,
+      "confidence": 0.73974609375
+    },
+    {
+      "x": 156.0,
+      "y": 56.875,
+      "confidence": 0.73583984375
+    },
+    {
+      "x": 372.125,
+      "y": 113.75,
+      "confidence": 0.68212890625
+    },
+    {
+      "x": 292.5,
+      "y": 47.125,
+      "confidence": 0.671875
+    },
+    {
+      "x": 302.25,
+      "y": 238.875,
+      "confidence": 0.66845703125
+    },
+    {
+      "x": 250.25,
+      "y": 182.0,
+      "confidence": 0.66455078125
+    },
+    {
+      "x": 341.25,
+      "y": 32.5,
+      "confidence": 0.6455078125
+    },
+    {
+      "x": 71.5,
+      "y": 269.75,
+      "confidence": 0.61474609375
+    },
+    {
+      "x": 253.5,
+      "y": 258.375,
+      "confidence": 0.56494140625
+    },
+    {
+      "x": 156.0,
+      "y": 177.125,
+      "confidence": 0.5634765625
+    },
+    {
+      "x": 154.375,
+      "y": 393.25,
+      "confidence": 0.560546875
+    },
+    {
+      "x": 84.5,
+      "y": 393.25,
+      "confidence": 0.55029296875
+    },
+    {
+      "x": 74.75,
+      "y": 48.75,
+      "confidence": 0.5361328125
+    },
+    {
+      "x": 320.125,
+      "y": 107.25,
+      "confidence": 0.5302734375
+    },
+    {
+      "x": 378.625,
+      "y": 243.75,
+      "confidence": 0.489501953125
+    },
+    {
+      "x": 73.125,
+      "y": 173.875,
+      "confidence": 0.48095703125
+    },
+    {
+      "x": 290.875,
+      "y": 165.75,
+      "confidence": 0.48046875
+    },
+    {
+      "x": 159.25,
+      "y": 264.875,
+      "confidence": 0.476806640625
+    },
+    {
+      "x": 394.875,
+      "y": 26.0,
+      "confidence": 0.4541015625
+    },
+    {
+      "x": 73.125,
+      "y": 178.75,
+      "confidence": 0.453857421875
+    },
+    {
+      "x": 206.375,
+      "y": 388.375,
+      "confidence": 0.413818359375
+    },
+    {
+      "x": 21.125,
+      "y": 391.625,
+      "confidence": 0.40673828125
+    },
+    {
+      "x": 372.125,
+      "y": 37.375,
+      "confidence": 0.382568359375
+    },
+    {
+      "x": 208.0,
+      "y": 170.625,
+      "confidence": 0.353515625
+    },
+    {
+      "x": 16.25,
+      "y": 169.0,
+      "confidence": 0.284423828125
+    }
+  ],
+  "geometry": {
+    "detected_count": 30,
+    "possible_gap_count": 5,
+    "possible_gap_points": [
+      [
+        201.5,
+        53.625
+      ],
+      [
+        247.0,
+        50.375
+      ],
+      [
+        115.375,
+        267.3125
+      ],
+      [
+        206.375,
+        261.625
+      ],
+      [
+        255.125,
+        374.5625
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 6,
+        "possible_gaps": 2
+      },
+      {
+        "row": 2,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 8,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 5,
+        "possible_gaps": 2
+      },
+      {
+        "row": 5,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 6,
+        "detected": 5,
+        "possible_gaps": 1
+      }
+    ],
+    "row_angle_degrees": -2.7263109939062655,
+    "nearest_neighbor_spacing": 52.455016116751,
+    "horizontal_spacing": 52.250316632871176
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0279_pipes-heap-pvc-stacked-construction-site-near-brick-wall-61533340_jpg.rf.425dfe8e19367b74133f0c65dc27e942_count_30.jpg"
+}

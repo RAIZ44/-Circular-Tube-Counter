@@ -1,0 +1,439 @@
+{
+  "updated_at": "2026-09-16T23:19:01.981522+00:00",
+  "test_evaluated": false,
+  "production_ready": false,
+  "results": [
+    {
+      "experiment": "v2_best",
+      "resolution": "512",
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.29000000000000015,
+        "exact_count_accuracy": 0.20195195195195195,
+        "within_one_accuracy": 0.3783783783783784,
+        "mean_absolute_error": 10.903153153153154,
+        "root_mean_squared_error": 38.363609273848525,
+        "mean_signed_error": -5.224474474474475,
+        "total_true": 206171,
+        "total_predicted": 199212
+      },
+      "report": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\validation_diagnostics\\v2_best\\512\\report.json"
+    },
+    {
+      "experiment": "v2_best",
+      "resolution": "768",
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.43000000000000027,
+        "exact_count_accuracy": 0.11561561561561562,
+        "within_one_accuracy": 0.23048048048048048,
+        "mean_absolute_error": 28.27252252252252,
+        "root_mean_squared_error": 63.997436838688486,
+        "mean_signed_error": -26.245495495495497,
+        "total_true": 206171,
+        "total_predicted": 171212
+      },
+      "report": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\validation_diagnostics\\v2_best\\768\\report.json"
+    },
+    {
+      "experiment": "v2_last",
+      "resolution": "512",
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.29500000000000015,
+        "exact_count_accuracy": 0.19444444444444445,
+        "within_one_accuracy": 0.37237237237237236,
+        "mean_absolute_error": 11.677177177177176,
+        "root_mean_squared_error": 39.148654090748984,
+        "mean_signed_error": -3.5,
+        "total_true": 206171,
+        "total_predicted": 201509
+      },
+      "report": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\validation_diagnostics\\v2_last\\512\\report.json"
+    },
+    {
+      "experiment": "v2_best_tiles",
+      "resolution": "",
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.2500000000000001,
+        "exact_count_accuracy": 0.1021021021021021,
+        "within_one_accuracy": 0.22597597597597596,
+        "mean_absolute_error": 12.213213213213214,
+        "root_mean_squared_error": 38.61514119007114,
+        "mean_signed_error": -3.1321321321321323,
+        "total_true": 206171,
+        "total_predicted": 201999
+      },
+      "report": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\validation_diagnostics\\v2_best_tiles\\report.json"
+    },
+    {
+      "experiment": "pipe_center_v3_768_exact",
+      "resolution": "768",
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.2550000000000001,
+        "exact_count_accuracy": 0.16966966966966968,
+        "within_one_accuracy": 0.30405405405405406,
+        "mean_absolute_error": 13.262012012012011,
+        "root_mean_squared_error": 35.69550278282853,
+        "mean_signed_error": 1.674924924924925,
+        "total_true": 206171,
+        "total_predicted": 208402
+      },
+      "decision": "Rejected: lower exact-count accuracy than the preserved 512 baseline."
+    },
+    {
+      "experiment": "pipe_center_v4_resnet18_exact",
+      "resolution": "512",
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.3500000000000002,
+        "exact_count_accuracy": 0.23423423423423423,
+        "within_one_accuracy": 0.3911411411411411,
+        "mean_absolute_error": 10.293543543543544,
+        "root_mean_squared_error": 32.17439108112912,
+        "mean_signed_error": -6.494744744744745,
+        "total_true": 206171,
+        "total_predicted": 197520
+      },
+      "decision": "Completed at epoch 27; original best at epoch 21. Retained for precision calibration."
+    },
+    {
+      "experiment": "v4_best_float32_single",
+      "resolution": "512",
+      "inference_precision": "float32",
+      "inference_batch_size": 1,
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.3250000000000002,
+        "exact_count_accuracy": 0.28153153153153154,
+        "within_one_accuracy": 0.41816816816816815,
+        "mean_absolute_error": 9.332582582582583,
+        "root_mean_squared_error": 30.640497549649716,
+        "mean_signed_error": -4.777027027027027,
+        "total_true": 206171,
+        "total_predicted": 199808
+      },
+      "report": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\validation_diagnostics\\v4_best_float32_single\\512\\report.json"
+    },
+    {
+      "experiment": "v4_last_float32_single",
+      "resolution": "512",
+      "inference_precision": "float32",
+      "inference_batch_size": 1,
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.29500000000000015,
+        "exact_count_accuracy": 0.2732732732732733,
+        "within_one_accuracy": 0.4174174174174174,
+        "mean_absolute_error": 8.674924924924925,
+        "root_mean_squared_error": 28.48563992052279,
+        "mean_signed_error": -1.6674174174174174,
+        "total_true": 206171,
+        "total_predicted": 203950
+      },
+      "report": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\validation_diagnostics\\v4_last_float32_single\\512\\report.json"
+    },
+    {
+      "experiment": "v2_best_float32_single",
+      "resolution": "512",
+      "inference_precision": "float32",
+      "inference_batch_size": 1,
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.29500000000000015,
+        "exact_count_accuracy": 0.23948948948948948,
+        "within_one_accuracy": 0.3911411411411411,
+        "mean_absolute_error": 11.358108108108109,
+        "root_mean_squared_error": 38.92094667515283,
+        "mean_signed_error": -6.662912912912913,
+        "total_true": 206171,
+        "total_predicted": 197296
+      },
+      "report": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\validation_diagnostics\\v2_best_float32_single\\512\\report.json"
+    },
+    {
+      "experiment": "v5_best",
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.24500000000000013,
+        "exact_count_accuracy": 0.25375375375375375,
+        "within_one_accuracy": 0.3791291291291291,
+        "mean_absolute_error": 8.8993993993994,
+        "root_mean_squared_error": 28.905042838603464,
+        "mean_signed_error": 0.6216216216216216,
+        "total_true": 206171,
+        "total_predicted": 206999
+      },
+      "report": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\validation_diagnostics\\v5_best\\512\\report.json",
+      "decision": "Rejected: lower exact accuracy than preserved v4 float32 baseline."
+    },
+    {
+      "experiment": "v5_tiles",
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.22500000000000012,
+        "exact_count_accuracy": 0.14264264264264265,
+        "within_one_accuracy": 0.28903903903903905,
+        "mean_absolute_error": 10.664414414414415,
+        "root_mean_squared_error": 32.32528691557391,
+        "mean_signed_error": -0.8175675675675675,
+        "total_true": 206171,
+        "total_predicted": 205082
+      },
+      "report": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\validation_diagnostics\\v5_tiles\\report.json",
+      "decision": "Rejected: lower exact accuracy than preserved v4 float32 baseline."
+    },
+    {
+      "experiment": "pipe_detector_v6",
+      "status": "failed_before_first_epoch_complete",
+      "reason": "20 decoded-image/annotation dimension mismatches; audited coordinate orientation adapter added",
+      "best_checkpoint_written": false
+    },
+    {
+      "experiment": "pipe_detector_v6_geometry",
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.5399999999999998,
+        "exact_count_accuracy": 0.2905405405405405,
+        "within_one_accuracy": 0.45045045045045046,
+        "mean_absolute_error": 16.2972972972973,
+        "root_mean_squared_error": 47.67128119791885,
+        "mean_signed_error": 0.32882882882882886,
+        "total_true": 206171,
+        "total_predicted": 206609
+      },
+      "decision": "Completed eight epochs. Slight exact-count improvement, but worse MAE; preserve as an alternative, not an unqualified promotion."
+    },
+    {
+      "experiment": "pipe_detector_v6_calibrated",
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.45499999999999996,
+        "exact_count_accuracy": 0.2987987987987988,
+        "within_one_accuracy": 0.4692192192192192,
+        "mean_absolute_error": 10.401651651651651,
+        "root_mean_squared_error": 35.3108355197821,
+        "mean_signed_error": -6.4692192192192195,
+        "total_true": 206171,
+        "total_predicted": 197554
+      },
+      "nms_iou": 0.2,
+      "decision": "Best exact validation result to date; MAE still worse than heatmap baseline. Both candidates retained."
+    },
+    {
+      "run": "pipe_detector_v7_finetune",
+      "status": "completed",
+      "hypothesis": "The completed detector continued improving through epoch eight (MAE 84.2 at epoch five to 16.3 at epoch eight); one lower-rate continuation may improve localization and confidence for dense images.",
+      "initial_checkpoint": "runs/pipe_detector_v6_calibrated/candidate.pt",
+      "optimizer_reset": true,
+      "epochs_max": 8,
+      "patience": 3,
+      "image_size": 640,
+      "batch_size": 2,
+      "learning_rate": 5e-05,
+      "backbone_lr": 5e-06,
+      "nms_iou": 0.2,
+      "validation_batch_size": 1,
+      "validation_precision": "float32",
+      "baseline_exact_accuracy": 0.2987987987987988,
+      "baseline_mae": 10.401651651651651,
+      "heatmap_baseline_exact_accuracy": 0.28153153153153154,
+      "heatmap_baseline_mae": 9.332582582582583,
+      "stop_policy": "One bounded continuation justified by recent validation trend. Do not repeatedly extend training or claim readiness from a small exact-count gain; require error-distribution review, including MAE and dense scenes.",
+      "experiment": "pipe_detector_v7_finetune",
+      "epochs_completed": 5,
+      "best_epoch": 2,
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.42999999999999977,
+        "exact_count_accuracy": 0.2980480480480481,
+        "within_one_accuracy": 0.4594594594594595,
+        "mean_absolute_error": 8.352852852852854,
+        "root_mean_squared_error": 29.71887803588338,
+        "mean_signed_error": -2.160660660660661,
+        "total_true": 206171,
+        "total_predicted": 203293
+      },
+      "decision": "Preserve as lower-MAE alternative; one fewer exact validation photo than v6 calibrated. Stop blind epoch extensions and review data/model errors."
+    },
+    {
+      "experiment": "pipe_detector_v7_960_diagnostic",
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.4699999999999998,
+        "exact_count_accuracy": 0.27402402402402404,
+        "within_one_accuracy": 0.4519519519519519,
+        "mean_absolute_error": 6.32957957957958,
+        "root_mean_squared_error": 20.09300821129029,
+        "mean_signed_error": -0.6824324324324325,
+        "total_true": 206171,
+        "total_predicted": 205262
+      },
+      "fixed_threshold_metrics": {
+        "images": 1332,
+        "threshold": 0.42999999999999977,
+        "exact_count_accuracy": 0.25900900900900903,
+        "within_one_accuracy": 0.4542042042042042,
+        "mean_absolute_error": 6.392642642642643,
+        "root_mean_squared_error": 19.3723394957227,
+        "mean_signed_error": 0.6734234234234234,
+        "total_true": 206171,
+        "total_predicted": 207068
+      },
+      "decision": "No promotion: exact accuracy regressed. Lower overall/dense error meets predeclared rule for one bounded resolution adaptation."
+    },
+    {
+      "run": "pipe_detector_v8_960",
+      "status": "completed",
+      "image_size": 960,
+      "batch_size": 2,
+      "initial_checkpoint": "runs/pipe_detector_v7_finetune/best.pt",
+      "learning_rate": 2e-05,
+      "backbone_learning_rate": 2e-06,
+      "epochs_max": 6,
+      "patience": 2,
+      "nms_iou": 0.2,
+      "optimizer_reset": true,
+      "selection_metric": "exact_count_accuracy",
+      "train_manifest": "data/processed_v2/train.jsonl",
+      "validation_manifest": "data/processed_v2/val.jsonl",
+      "annotation_revision_applied": false,
+      "hypothesis": "Adapt the detector to higher-resolution small pipe ends after an unadapted comparison lowered overall and dense-scene error but lost exact-count accuracy.",
+      "rationale": "960px MAE 6.3296 versus 8.3529; 501+ MAE 26.3377 versus 47.2857. Exact accuracy fell 29.8048% to 27.4024%; preserve existing reference and assess adaptation.",
+      "stop_policy": "One bounded resolution adaptation, six epochs maximum with two stale epochs. Compare exact counts AND MAE/density errors. No automatic production promotion or further epoch extensions.",
+      "test_evaluated": false,
+      "experiment": "pipe_detector_v8_960",
+      "epochs_completed": 4,
+      "best_epoch": 2,
+      "metrics": {
+        "images": 1332,
+        "threshold": 0.47999999999999976,
+        "exact_count_accuracy": 0.2957957957957958,
+        "within_one_accuracy": 0.44894894894894893,
+        "mean_absolute_error": 9.632132132132131,
+        "root_mean_squared_error": 28.638054021496263,
+        "mean_signed_error": -5.614114114114114,
+        "total_true": 206171,
+        "total_predicted": 198693
+      },
+      "last_epoch_metrics": {
+        "epoch": 4.0,
+        "train_loss": 0.6428679283777418,
+        "images": 1332.0,
+        "threshold": 0.4099999999999998,
+        "exact_count_accuracy": 0.29429429429429427,
+        "within_one_accuracy": 0.4512012012012012,
+        "mean_absolute_error": 7.944444444444445,
+        "root_mean_squared_error": 22.71093980412935,
+        "mean_signed_error": -2.93993993993994,
+        "total_true": 206171.0,
+        "total_predicted": 202255.0,
+        "seconds": 915.1837885999994
+      },
+      "decision": "No promotion: best exact accuracy and MAE both worse than v7. Last epoch lowers MAE to 7.9444 but exact accuracy remains lower. Preserve best and last; no extension."
+    }
+  ],
+  "next_action": "Launch and supervise bounded FCOS comparison; reserved test remains unused.",
+  "next_experiment": {
+    "architecture": "FCOSResNet50FPN",
+    "run_name": "pipe_fcos_v1_960",
+    "status": "ready_to_launch",
+    "image_size": 960,
+    "batch_size": 2,
+    "epochs_max": 12,
+    "patience": 4,
+    "learning_rate": 0.0001,
+    "box_nms_threshold": 0.3,
+    "pretrained": true,
+    "initial_checkpoint": null,
+    "max_detections": 2000,
+    "topk_candidates": 10000,
+    "foreground_label": 1,
+    "data_policy": "Unchanged processed_v2 train and validation, with existing geometry adapter. Do not use test. Do not silently apply the staged label revision.",
+    "hypothesis": "One-stage anchor-free detection removes the separate region-proposal sampling stage; test whether this improves dense and small-end counting.",
+    "checkpoint_selection": "Validation exact-count accuracy, MAE tie-break; separately report dense-scene error.",
+    "preparation_checks": {
+      "cpu_suite_passed": 28,
+      "offline_reload_exact_output_parity": true,
+      "pretrained_cpu_smoke": {
+        "architecture": "FCOSResNet50FPN",
+        "pretrained_weights_sha256": "99b0c9b7cfb1527d782db86b91d207f00547c792fb4103fc612b651d0a07b9e7",
+        "official_pretrained_load_passed": true,
+        "positive_and_empty_batch_optimizer_step_passed": true,
+        "losses": {
+          "classification": 1.093428373336792,
+          "bbox_regression": 0.8728426694869995,
+          "bbox_ctrness": 0.9898185729980469
+        },
+        "device": "cpu",
+        "image_size": 128,
+        "gpu_dense_smoke_pending": true,
+        "note": "CPU integration check only; no dataset training or accuracy evaluation."
+      },
+      "gpu_dense_smoke_passed": true,
+      "gpu_dense_smoke": {
+        "architecture": "FCOSResNet50FPN",
+        "image_size": 960,
+        "device": "cuda",
+        "batches": [
+          {
+            "label_counts": [
+              1523,
+              1523
+            ],
+            "losses": {
+              "classification": 1.0955979824066162,
+              "bbox_regression": 0.810441792011261,
+              "bbox_ctrness": 0.7118288278579712
+            },
+            "optimizer_step_passed": true
+          },
+          {
+            "label_counts": [
+              10,
+              0
+            ],
+            "losses": {
+              "classification": 1.1141517162322998,
+              "bbox_regression": 0.41068902611732483,
+              "bbox_ctrness": 0.6205243468284607
+            },
+            "optimizer_step_passed": true
+          }
+        ],
+        "max_allocated_gib": 2.128112316131592,
+        "max_reserved_gib": 2.384765625,
+        "elapsed_seconds": 3.9923560000024736,
+        "single_photo_float32_inference_passed": true,
+        "candidate_detections": 601,
+        "weights_sha256": "99b0c9b7cfb1527d782db86b91d207f00547c792fb4103fc612b651d0a07b9e7",
+        "checkpoint_saved": false,
+        "test_evaluated": false,
+        "note": "Capacity and numerical smoke check, not training accuracy. Fresh official initialization must be used for the actual experiment."
+      }
+    },
+    "launch_arguments": [
+      "--run-name",
+      "pipe_fcos_v1_960",
+      "--image-size",
+      "960",
+      "--batch-size",
+      "2",
+      "--epochs",
+      "12",
+      "--patience",
+      "4",
+      "--learning-rate",
+      "0.0001",
+      "--architecture",
+      "FCOSResNet50FPN",
+      "--pretrained",
+      "--box-nms-threshold",
+      "0.3",
+      "--selection-metric",
+      "exact_count_accuracy"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "manifest_dir": "data/processed_v2",
+  "output_dir": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\pipe_center_v5_crop_exact",
+  "image_size": 512,
+  "batch_size": 16,
+  "epochs": 15,
+  "learning_rate": 5e-05,
+  "weight_decay": 0.0001,
+  "num_workers": 4,
+  "patience": 5,
+  "seed": 42,
+  "device": "cuda",
+  "init_checkpoint": "runs\\pipe_center_v4_float32\\candidate.pt",
+  "selection_metric": "exact_count_accuracy",
+  "architecture": "ResNet18CenterNet",
+  "pretrained": false,
+  "encoder_lr_factor": 0.1,
+  "inference_precision": "float32",
+  "validation_batch_size": 1,
+  "crop_probability": 0.5,
+  "crop_min_scale": 0.5
+}

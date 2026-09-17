@@ -1,0 +1,21 @@
+{
+  "run": "pipe_detector_v8_960",
+  "status": "planned",
+  "image_size": 960,
+  "batch_size": 2,
+  "initial_checkpoint": "runs/pipe_detector_v7_finetune/best.pt",
+  "learning_rate": 2e-05,
+  "backbone_learning_rate": 2e-06,
+  "epochs_max": 6,
+  "patience": 2,
+  "nms_iou": 0.2,
+  "optimizer_reset": true,
+  "selection_metric": "exact_count_accuracy",
+  "train_manifest": "data/processed_v2/train.jsonl",
+  "validation_manifest": "data/processed_v2/val.jsonl",
+  "annotation_revision_applied": false,
+  "hypothesis": "Adapt the detector to higher-resolution small pipe ends after an unadapted comparison lowered overall and dense-scene error but lost exact-count accuracy.",
+  "rationale": "960px MAE 6.3296 versus 8.3529; 501+ MAE 26.3377 versus 47.2857. Exact accuracy fell 29.8048% to 27.4024%; preserve existing reference and assess adaptation.",
+  "stop_policy": "One bounded resolution adaptation, six epochs maximum with two stale epochs. Compare exact counts AND MAE/density errors. No automatic production promotion or further epoch extensions.",
+  "test_evaluated": false
+}

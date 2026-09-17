@@ -1,0 +1,2 @@
+epoch,train_loss,images,threshold,exact_count_accuracy,within_one_accuracy,mean_absolute_error,root_mean_squared_error,mean_signed_error,total_true,total_predicted,seconds
+1,1.3528009057044983,2,0.08999999999999998,0.5,0.5,10.0,14.142135623730951,10.0,34,54,1.4933955000014976

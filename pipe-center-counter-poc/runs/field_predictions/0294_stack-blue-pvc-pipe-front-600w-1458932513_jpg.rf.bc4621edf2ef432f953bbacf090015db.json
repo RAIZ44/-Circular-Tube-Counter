@@ -1,0 +1,153 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\stack-blue-pvc-pipe-front-600w-1458932513_jpg.rf.bc4621edf2ef432f953bbacf090015db.jpg",
+  "detected_count": 21,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 347.75,
+      "y": 35.75,
+      "confidence": 0.76123046875
+    },
+    {
+      "x": 307.125,
+      "y": 177.125,
+      "confidence": 0.7080078125
+    },
+    {
+      "x": 108.875,
+      "y": 55.25,
+      "confidence": 0.60595703125
+    },
+    {
+      "x": 276.25,
+      "y": 29.25,
+      "confidence": 0.6044921875
+    },
+    {
+      "x": 398.125,
+      "y": 100.75,
+      "confidence": 0.59619140625
+    },
+    {
+      "x": 399.75,
+      "y": 100.75,
+      "confidence": 0.59619140625
+    },
+    {
+      "x": 242.125,
+      "y": 143.0,
+      "confidence": 0.5732421875
+    },
+    {
+      "x": 169.0,
+      "y": 147.875,
+      "confidence": 0.53173828125
+    },
+    {
+      "x": 128.375,
+      "y": 212.875,
+      "confidence": 0.52001953125
+    },
+    {
+      "x": 380.25,
+      "y": 203.125,
+      "confidence": 0.5068359375
+    },
+    {
+      "x": 221.0,
+      "y": 208.0,
+      "confidence": 0.449462890625
+    },
+    {
+      "x": 34.125,
+      "y": 320.125,
+      "confidence": 0.435546875
+    },
+    {
+      "x": 35.75,
+      "y": 214.5,
+      "confidence": 0.434814453125
+    },
+    {
+      "x": 196.625,
+      "y": 248.625,
+      "confidence": 0.371337890625
+    },
+    {
+      "x": 74.75,
+      "y": 144.625,
+      "confidence": 0.32421875
+    },
+    {
+      "x": 201.5,
+      "y": 61.75,
+      "confidence": 0.308837890625
+    },
+    {
+      "x": 3.25,
+      "y": 154.375,
+      "confidence": 0.304443359375
+    },
+    {
+      "x": 196.625,
+      "y": 56.875,
+      "confidence": 0.298583984375
+    },
+    {
+      "x": 63.375,
+      "y": 146.25,
+      "confidence": 0.29736328125
+    },
+    {
+      "x": 178.75,
+      "y": 58.5,
+      "confidence": 0.28076171875
+    },
+    {
+      "x": 209.625,
+      "y": 60.125,
+      "confidence": 0.275146484375
+    }
+  ],
+  "geometry": {
+    "detected_count": 21,
+    "possible_gap_count": 0,
+    "possible_gap_points": [],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 7,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 5,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 5,
+        "possible_gaps": 0
+      },
+      {
+        "row": 5,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 6,
+        "detected": 1,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": -2.2457425658950716,
+    "nearest_neighbor_spacing": 60.671502783432025,
+    "horizontal_spacing": 72.05001166316481
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0294_stack-blue-pvc-pipe-front-600w-1458932513_jpg.rf.bc4621edf2ef432f953bbacf090015db_count_21.jpg"
+}

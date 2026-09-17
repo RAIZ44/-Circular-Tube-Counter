@@ -1,0 +1,11 @@
+{
+  "images": 1332,
+  "threshold": 0.42999999999999977,
+  "exact_count_accuracy": 0.2980480480480481,
+  "within_one_accuracy": 0.4594594594594595,
+  "mean_absolute_error": 8.352852852852854,
+  "root_mean_squared_error": 29.71887803588338,
+  "mean_signed_error": -2.160660660660661,
+  "total_true": 206171,
+  "total_predicted": 203293
+}

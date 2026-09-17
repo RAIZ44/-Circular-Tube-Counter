@@ -1,0 +1,211 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\IMG-20200515-WA0125_jpg.rf.820bff5a0166c00fc4999ea8c5b1bb39.jpg",
+  "detected_count": 31,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 410.0,
+      "y": 322.5,
+      "confidence": 0.78857421875
+    },
+    {
+      "x": 275.0,
+      "y": 300.0,
+      "confidence": 0.77880859375
+    },
+    {
+      "x": 375.0,
+      "y": 272.5,
+      "confidence": 0.7646484375
+    },
+    {
+      "x": 457.5,
+      "y": 272.5,
+      "confidence": 0.74853515625
+    },
+    {
+      "x": 207.5,
+      "y": 297.5,
+      "confidence": 0.7421875
+    },
+    {
+      "x": 425.0,
+      "y": 217.5,
+      "confidence": 0.7158203125
+    },
+    {
+      "x": 377.5,
+      "y": 362.5,
+      "confidence": 0.7080078125
+    },
+    {
+      "x": 337.5,
+      "y": 320.0,
+      "confidence": 0.70703125
+    },
+    {
+      "x": 505.0,
+      "y": 387.5,
+      "confidence": 0.705078125
+    },
+    {
+      "x": 242.5,
+      "y": 340.0,
+      "confidence": 0.70361328125
+    },
+    {
+      "x": 167.5,
+      "y": 212.5,
+      "confidence": 0.70166015625
+    },
+    {
+      "x": 492.5,
+      "y": 320.0,
+      "confidence": 0.69677734375
+    },
+    {
+      "x": 555.0,
+      "y": 350.0,
+      "confidence": 0.6923828125
+    },
+    {
+      "x": 250.0,
+      "y": 212.5,
+      "confidence": 0.69091796875
+    },
+    {
+      "x": 545.0,
+      "y": 250.0,
+      "confidence": 0.6826171875
+    },
+    {
+      "x": 330.0,
+      "y": 217.5,
+      "confidence": 0.67822265625
+    },
+    {
+      "x": 150.0,
+      "y": 260.0,
+      "confidence": 0.67626953125
+    },
+    {
+      "x": 447.5,
+      "y": 355.0,
+      "confidence": 0.6611328125
+    },
+    {
+      "x": 577.5,
+      "y": 305.0,
+      "confidence": 0.6591796875
+    },
+    {
+      "x": 305.0,
+      "y": 355.0,
+      "confidence": 0.65673828125
+    },
+    {
+      "x": 305.0,
+      "y": 392.5,
+      "confidence": 0.6494140625
+    },
+    {
+      "x": 372.5,
+      "y": 400.0,
+      "confidence": 0.638671875
+    },
+    {
+      "x": 372.5,
+      "y": 402.5,
+      "confidence": 0.638671875
+    },
+    {
+      "x": 242.5,
+      "y": 380.0,
+      "confidence": 0.61279296875
+    },
+    {
+      "x": 230.0,
+      "y": 255.0,
+      "confidence": 0.61083984375
+    },
+    {
+      "x": 230.0,
+      "y": 257.5,
+      "confidence": 0.61083984375
+    },
+    {
+      "x": 437.5,
+      "y": 392.5,
+      "confidence": 0.5771484375
+    },
+    {
+      "x": 305.0,
+      "y": 262.5,
+      "confidence": 0.55810546875
+    },
+    {
+      "x": 187.5,
+      "y": 347.5,
+      "confidence": 0.54052734375
+    },
+    {
+      "x": 140.0,
+      "y": 310.0,
+      "confidence": 0.5048828125
+    },
+    {
+      "x": 630.0,
+      "y": 375.0,
+      "confidence": 0.310546875
+    }
+  ],
+  "geometry": {
+    "detected_count": 31,
+    "possible_gap_count": 3,
+    "possible_gap_points": [
+      [
+        485.0,
+        233.75
+      ],
+      [
+        517.5,
+        288.75
+      ],
+      [
+        567.5,
+        381.25
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 5,
+        "possible_gaps": 1
+      },
+      {
+        "row": 2,
+        "detected": 7,
+        "possible_gaps": 1
+      },
+      {
+        "row": 3,
+        "detected": 7,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 7,
+        "possible_gaps": 1
+      },
+      {
+        "row": 5,
+        "detected": 5,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": 3.8140748342903543,
+    "nearest_neighbor_spacing": 48.023431780746364,
+    "horizontal_spacing": 65.4380766027626
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0158_IMG-20200515-WA0125_jpg.rf.820bff5a0166c00fc4999ea8c5b1bb39_count_31.jpg"
+}

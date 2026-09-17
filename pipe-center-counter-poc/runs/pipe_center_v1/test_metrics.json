@@ -1,0 +1,15 @@
+{
+  "images": 1330,
+  "threshold": 0.27499999999999997,
+  "exact_count_accuracy": 0.1774436090225564,
+  "within_one_accuracy": 0.36541353383458647,
+  "mean_absolute_error": 8.730827067669173,
+  "root_mean_squared_error": 22.76569111029409,
+  "mean_signed_error": -1.6526315789473685,
+  "total_true": 189028,
+  "total_predicted": 186830,
+  "threshold_source": "checkpoint_validation_threshold",
+  "heatmap_loss": 0.750814506641232,
+  "checkpoint": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\pipe_center_v1\\best.pt",
+  "manifest": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\test.jsonl"
+}

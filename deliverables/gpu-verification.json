@@ -1,0 +1,10 @@
+{
+  "torch": "2.11.0+cu128",
+  "cuda_runtime": "12.8",
+  "cuda_available": true,
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "memory_gib": 31.84,
+  "tests_passed": 9,
+  "gpu_training_check": "2 epochs, 4 train / 2 val images, 512 px, batch 2, CUDA AMP + GradScaler",
+  "full_training_run": false
+}

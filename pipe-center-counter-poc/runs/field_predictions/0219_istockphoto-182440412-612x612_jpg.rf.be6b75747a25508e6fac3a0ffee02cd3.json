@@ -1,0 +1,97 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\istockphoto-182440412-612x612_jpg.rf.be6b75747a25508e6fac3a0ffee02cd3.jpg",
+  "detected_count": 10,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 42.25,
+      "y": 282.75,
+      "confidence": 0.79345703125
+    },
+    {
+      "x": 188.5,
+      "y": 274.625,
+      "confidence": 0.74560546875
+    },
+    {
+      "x": 354.25,
+      "y": 219.375,
+      "confidence": 0.74462890625
+    },
+    {
+      "x": 334.75,
+      "y": 360.75,
+      "confidence": 0.67724609375
+    },
+    {
+      "x": 211.25,
+      "y": 173.875,
+      "confidence": 0.62060546875
+    },
+    {
+      "x": 211.25,
+      "y": 175.5,
+      "confidence": 0.62060546875
+    },
+    {
+      "x": 126.75,
+      "y": 177.125,
+      "confidence": 0.57275390625
+    },
+    {
+      "x": 399.75,
+      "y": 242.125,
+      "confidence": 0.438232421875
+    },
+    {
+      "x": 95.875,
+      "y": 266.5,
+      "confidence": 0.41064453125
+    },
+    {
+      "x": 95.875,
+      "y": 268.125,
+      "confidence": 0.41064453125
+    }
+  ],
+  "geometry": {
+    "detected_count": 10,
+    "possible_gap_count": 2,
+    "possible_gap_points": [
+      [
+        169.0,
+        175.5
+      ],
+      [
+        142.1875,
+        271.375
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 3,
+        "possible_gaps": 1
+      },
+      {
+        "row": 2,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 4,
+        "possible_gaps": 1
+      },
+      {
+        "row": 4,
+        "detected": 1,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": 4.014175695411026,
+    "nearest_neighbor_spacing": 50.87054648812022,
+    "horizontal_spacing": 49.668422011851725
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0219_istockphoto-182440412-612x612_jpg.rf.be6b75747a25508e6fac3a0ffee02cd3_count_10.jpg"
+}

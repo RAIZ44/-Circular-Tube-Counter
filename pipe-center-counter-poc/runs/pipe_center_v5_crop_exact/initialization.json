@@ -1,0 +1,6 @@
+{
+  "checkpoint": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\pipe_center_v4_float32\\candidate.pt",
+  "sha256": "00c375a2c55e222bc1a5eadc859d8fdf61d5619e96209a6346eee7091b2bc942",
+  "parent_epoch": 21,
+  "optimizer_reset": true
+}

@@ -1,0 +1,727 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\IMG-20200513-WA0025_jpg.rf.11bf764b7bc7c959c2e6690ad00d1188.jpg",
+  "detected_count": 88,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 497.5,
+      "y": 90.0,
+      "confidence": 0.8154296875
+    },
+    {
+      "x": 392.5,
+      "y": 97.5,
+      "confidence": 0.8076171875
+    },
+    {
+      "x": 395.0,
+      "y": 97.5,
+      "confidence": 0.8076171875
+    },
+    {
+      "x": 165.0,
+      "y": 387.5,
+      "confidence": 0.806640625
+    },
+    {
+      "x": 452.5,
+      "y": 295.0,
+      "confidence": 0.80224609375
+    },
+    {
+      "x": 267.5,
+      "y": 385.0,
+      "confidence": 0.79296875
+    },
+    {
+      "x": 340.0,
+      "y": 215.0,
+      "confidence": 0.791015625
+    },
+    {
+      "x": 180.0,
+      "y": 125.0,
+      "confidence": 0.7802734375
+    },
+    {
+      "x": 365.0,
+      "y": 350.0,
+      "confidence": 0.77978515625
+    },
+    {
+      "x": 125.0,
+      "y": 252.5,
+      "confidence": 0.77587890625
+    },
+    {
+      "x": 462.5,
+      "y": 427.5,
+      "confidence": 0.775390625
+    },
+    {
+      "x": 532.5,
+      "y": 217.5,
+      "confidence": 0.77392578125
+    },
+    {
+      "x": 72.5,
+      "y": 97.5,
+      "confidence": 0.7734375
+    },
+    {
+      "x": 237.5,
+      "y": 260.0,
+      "confidence": 0.76416015625
+    },
+    {
+      "x": 532.5,
+      "y": 345.0,
+      "confidence": 0.76220703125
+    },
+    {
+      "x": 22.5,
+      "y": 555.0,
+      "confidence": 0.72998046875
+    },
+    {
+      "x": 50.0,
+      "y": 600.0,
+      "confidence": 0.724609375
+    },
+    {
+      "x": 35.0,
+      "y": 220.0,
+      "confidence": 0.67138671875
+    },
+    {
+      "x": 82.5,
+      "y": 622.5,
+      "confidence": 0.66064453125
+    },
+    {
+      "x": 75.0,
+      "y": 490.0,
+      "confidence": 0.65576171875
+    },
+    {
+      "x": 45.0,
+      "y": 360.0,
+      "confidence": 0.64404296875
+    },
+    {
+      "x": 277.5,
+      "y": 507.5,
+      "confidence": 0.64013671875
+    },
+    {
+      "x": 185.0,
+      "y": 497.5,
+      "confidence": 0.6357421875
+    },
+    {
+      "x": 225.0,
+      "y": 32.5,
+      "confidence": 0.5673828125
+    },
+    {
+      "x": 245.0,
+      "y": 32.5,
+      "confidence": 0.55859375
+    },
+    {
+      "x": 370.0,
+      "y": 472.5,
+      "confidence": 0.537109375
+    },
+    {
+      "x": 370.0,
+      "y": 475.0,
+      "confidence": 0.537109375
+    },
+    {
+      "x": 17.5,
+      "y": 592.5,
+      "confidence": 0.5341796875
+    },
+    {
+      "x": 222.5,
+      "y": 50.0,
+      "confidence": 0.52978515625
+    },
+    {
+      "x": 272.5,
+      "y": 87.5,
+      "confidence": 0.51904296875
+    },
+    {
+      "x": 240.0,
+      "y": 77.5,
+      "confidence": 0.513671875
+    },
+    {
+      "x": 252.5,
+      "y": 92.5,
+      "confidence": 0.513671875
+    },
+    {
+      "x": 215.0,
+      "y": 27.5,
+      "confidence": 0.5078125
+    },
+    {
+      "x": 265.0,
+      "y": 67.5,
+      "confidence": 0.494140625
+    },
+    {
+      "x": 237.5,
+      "y": 87.5,
+      "confidence": 0.49169921875
+    },
+    {
+      "x": 260.0,
+      "y": 45.0,
+      "confidence": 0.48828125
+    },
+    {
+      "x": 210.0,
+      "y": 37.5,
+      "confidence": 0.488037109375
+    },
+    {
+      "x": 247.5,
+      "y": 82.5,
+      "confidence": 0.4794921875
+    },
+    {
+      "x": 260.0,
+      "y": 92.5,
+      "confidence": 0.477783203125
+    },
+    {
+      "x": 250.0,
+      "y": 50.0,
+      "confidence": 0.472412109375
+    },
+    {
+      "x": 240.0,
+      "y": 47.5,
+      "confidence": 0.462646484375
+    },
+    {
+      "x": 212.5,
+      "y": 52.5,
+      "confidence": 0.45654296875
+    },
+    {
+      "x": 265.0,
+      "y": 102.5,
+      "confidence": 0.4541015625
+    },
+    {
+      "x": 250.0,
+      "y": 75.0,
+      "confidence": 0.452880859375
+    },
+    {
+      "x": 252.5,
+      "y": 37.5,
+      "confidence": 0.4521484375
+    },
+    {
+      "x": 242.5,
+      "y": 102.5,
+      "confidence": 0.451416015625
+    },
+    {
+      "x": 235.0,
+      "y": 60.0,
+      "confidence": 0.450927734375
+    },
+    {
+      "x": 232.5,
+      "y": 80.0,
+      "confidence": 0.44921875
+    },
+    {
+      "x": 255.0,
+      "y": 82.5,
+      "confidence": 0.447265625
+    },
+    {
+      "x": 235.0,
+      "y": 35.0,
+      "confidence": 0.44580078125
+    },
+    {
+      "x": 220.0,
+      "y": 62.5,
+      "confidence": 0.44580078125
+    },
+    {
+      "x": 15.0,
+      "y": 37.5,
+      "confidence": 0.439697265625
+    },
+    {
+      "x": 257.5,
+      "y": 102.5,
+      "confidence": 0.43896484375
+    },
+    {
+      "x": 262.5,
+      "y": 80.0,
+      "confidence": 0.43798828125
+    },
+    {
+      "x": 100.0,
+      "y": 10.0,
+      "confidence": 0.43798828125
+    },
+    {
+      "x": 245.0,
+      "y": 57.5,
+      "confidence": 0.431884765625
+    },
+    {
+      "x": 7.5,
+      "y": 55.0,
+      "confidence": 0.431396484375
+    },
+    {
+      "x": 227.5,
+      "y": 67.5,
+      "confidence": 0.427001953125
+    },
+    {
+      "x": 250.0,
+      "y": 102.5,
+      "confidence": 0.42626953125
+    },
+    {
+      "x": 45.0,
+      "y": 15.0,
+      "confidence": 0.42578125
+    },
+    {
+      "x": 217.5,
+      "y": 40.0,
+      "confidence": 0.4228515625
+    },
+    {
+      "x": 255.0,
+      "y": 70.0,
+      "confidence": 0.419921875
+    },
+    {
+      "x": 110.0,
+      "y": 25.0,
+      "confidence": 0.41748046875
+    },
+    {
+      "x": 250.0,
+      "y": 65.0,
+      "confidence": 0.40966796875
+    },
+    {
+      "x": 230.0,
+      "y": 45.0,
+      "confidence": 0.40478515625
+    },
+    {
+      "x": 10.0,
+      "y": 77.5,
+      "confidence": 0.40380859375
+    },
+    {
+      "x": 12.5,
+      "y": 97.5,
+      "confidence": 0.3994140625
+    },
+    {
+      "x": 275.0,
+      "y": 97.5,
+      "confidence": 0.39892578125
+    },
+    {
+      "x": 267.5,
+      "y": 92.5,
+      "confidence": 0.39599609375
+    },
+    {
+      "x": 15.0,
+      "y": 15.0,
+      "confidence": 0.393310546875
+    },
+    {
+      "x": 62.5,
+      "y": 15.0,
+      "confidence": 0.39306640625
+    },
+    {
+      "x": 275.0,
+      "y": 120.0,
+      "confidence": 0.39111328125
+    },
+    {
+      "x": 267.5,
+      "y": 112.5,
+      "confidence": 0.389892578125
+    },
+    {
+      "x": 245.0,
+      "y": 95.0,
+      "confidence": 0.38720703125
+    },
+    {
+      "x": 27.5,
+      "y": 27.5,
+      "confidence": 0.38720703125
+    },
+    {
+      "x": 270.0,
+      "y": 75.0,
+      "confidence": 0.379150390625
+    },
+    {
+      "x": 255.0,
+      "y": 110.0,
+      "confidence": 0.376708984375
+    },
+    {
+      "x": 205.0,
+      "y": 50.0,
+      "confidence": 0.37451171875
+    },
+    {
+      "x": 257.5,
+      "y": 60.0,
+      "confidence": 0.36962890625
+    },
+    {
+      "x": 262.5,
+      "y": 117.5,
+      "confidence": 0.35205078125
+    },
+    {
+      "x": 2.5,
+      "y": 25.0,
+      "confidence": 0.346923828125
+    },
+    {
+      "x": 612.5,
+      "y": 72.5,
+      "confidence": 0.337890625
+    },
+    {
+      "x": 10.0,
+      "y": 625.0,
+      "confidence": 0.33447265625
+    },
+    {
+      "x": 230.0,
+      "y": 52.5,
+      "confidence": 0.32421875
+    },
+    {
+      "x": 267.5,
+      "y": 125.0,
+      "confidence": 0.318359375
+    },
+    {
+      "x": 280.0,
+      "y": 130.0,
+      "confidence": 0.29443359375
+    },
+    {
+      "x": 5.0,
+      "y": 5.0,
+      "confidence": 0.28271484375
+    },
+    {
+      "x": 55.0,
+      "y": 2.5,
+      "confidence": 0.2822265625
+    }
+  ],
+  "geometry": {
+    "detected_count": 88,
+    "possible_gap_count": 22,
+    "possible_gap_points": [
+      [
+        22.5,
+        15.0
+      ],
+      [
+        30.0,
+        15.0
+      ],
+      [
+        37.5,
+        15.0
+      ],
+      [
+        53.75,
+        15.0
+      ],
+      [
+        10.833333333333332,
+        25.833333333333336
+      ],
+      [
+        19.166666666666664,
+        26.666666666666664
+      ],
+      [
+        217.5,
+        35.0
+      ],
+      [
+        213.75,
+        50.0
+      ],
+      [
+        221.25,
+        52.5
+      ],
+      [
+        237.5,
+        55.0
+      ],
+      [
+        227.5,
+        61.25
+      ],
+      [
+        242.5,
+        62.5
+      ],
+      [
+        234.375,
+        68.125
+      ],
+      [
+        241.25,
+        68.75
+      ],
+      [
+        248.125,
+        69.375
+      ],
+      [
+        256.25,
+        77.5
+      ],
+      [
+        245.0,
+        90.0
+      ],
+      [
+        252.5,
+        95.625
+      ],
+      [
+        260.0,
+        96.25
+      ],
+      [
+        267.5,
+        96.875
+      ],
+      [
+        261.25,
+        111.25
+      ],
+      [
+        268.75,
+        118.75
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 3,
+        "possible_gaps": 4
+      },
+      {
+        "row": 4,
+        "detected": 4,
+        "possible_gaps": 2
+      },
+      {
+        "row": 5,
+        "detected": 6,
+        "possible_gaps": 1
+      },
+      {
+        "row": 6,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 7,
+        "detected": 6,
+        "possible_gaps": 1
+      },
+      {
+        "row": 8,
+        "detected": 4,
+        "possible_gaps": 2
+      },
+      {
+        "row": 9,
+        "detected": 4,
+        "possible_gaps": 2
+      },
+      {
+        "row": 10,
+        "detected": 4,
+        "possible_gaps": 3
+      },
+      {
+        "row": 11,
+        "detected": 6,
+        "possible_gaps": 1
+      },
+      {
+        "row": 12,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 13,
+        "detected": 6,
+        "possible_gaps": 1
+      },
+      {
+        "row": 14,
+        "detected": 6,
+        "possible_gaps": 3
+      },
+      {
+        "row": 15,
+        "detected": 4,
+        "possible_gaps": 0
+      },
+      {
+        "row": 16,
+        "detected": 2,
+        "possible_gaps": 1
+      },
+      {
+        "row": 17,
+        "detected": 2,
+        "possible_gaps": 1
+      },
+      {
+        "row": 18,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 19,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 20,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 21,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 22,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 23,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 24,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 25,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 26,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 27,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 28,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 29,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 30,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 31,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 32,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 33,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 34,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 35,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 36,
+        "detected": 2,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": 0.0,
+    "nearest_neighbor_spacing": 9.013878188659973,
+    "horizontal_spacing": 7.5
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0147_IMG-20200513-WA0025_jpg.rf.11bf764b7bc7c959c2e6690ad00d1188_count_88.jpg"
+}

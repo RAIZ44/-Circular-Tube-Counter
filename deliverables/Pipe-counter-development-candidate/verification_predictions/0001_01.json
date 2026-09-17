@@ -1,0 +1,110 @@
+{
+  "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\01.jpg",
+  "detected_count": 19,
+  "threshold": 0.3250000000000002,
+  "inference_precision": "float32",
+  "centers": [
+    {
+      "x": 305.0,
+      "y": 220.0,
+      "confidence": 0.9375021457672119
+    },
+    {
+      "x": 295.0,
+      "y": 435.0,
+      "confidence": 0.9325908422470093
+    },
+    {
+      "x": 407.5,
+      "y": 225.0,
+      "confidence": 0.9321008920669556
+    },
+    {
+      "x": 400.0,
+      "y": 452.5,
+      "confidence": 0.928091287612915
+    },
+    {
+      "x": 447.5,
+      "y": 572.5,
+      "confidence": 0.9205839037895203
+    },
+    {
+      "x": 357.5,
+      "y": 102.5,
+      "confidence": 0.9124999046325684
+    },
+    {
+      "x": 515.0,
+      "y": 482.5,
+      "confidence": 0.9005433320999146
+    },
+    {
+      "x": 250.0,
+      "y": 515.0,
+      "confidence": 0.8800586462020874
+    },
+    {
+      "x": 212.5,
+      "y": 405.0,
+      "confidence": 0.8410942554473877
+    },
+    {
+      "x": 350.0,
+      "y": 545.0,
+      "confidence": 0.8395418524742126
+    },
+    {
+      "x": 172.5,
+      "y": 487.5,
+      "confidence": 0.7282520532608032
+    },
+    {
+      "x": 465.0,
+      "y": 352.5,
+      "confidence": 0.7225008606910706
+    },
+    {
+      "x": 260.0,
+      "y": 332.5,
+      "confidence": 0.6583500504493713
+    },
+    {
+      "x": 47.5,
+      "y": 477.5,
+      "confidence": 0.5552021265029907
+    },
+    {
+      "x": 352.5,
+      "y": 335.0,
+      "confidence": 0.4712230861186981
+    },
+    {
+      "x": 15.0,
+      "y": 467.5,
+      "confidence": 0.4429655969142914
+    },
+    {
+      "x": 352.5,
+      "y": 355.0,
+      "confidence": 0.42219629883766174
+    },
+    {
+      "x": 22.5,
+      "y": 410.0,
+      "confidence": 0.3954819142818451
+    },
+    {
+      "x": 12.5,
+      "y": 345.0,
+      "confidence": 0.3458632826805115
+    }
+  ],
+  "geometry": {
+    "detected_count": 19,
+    "possible_gap_count": 0,
+    "possible_gap_points": [],
+    "rows": []
+  },
+  "rendered_image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\verification_predictions\\0001_01_count_19.jpg"
+}

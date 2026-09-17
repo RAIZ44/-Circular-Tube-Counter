@@ -1,0 +1,73 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\stacks-pvc-pipes-construction-site-selective-focus-49772931_jpg.rf.8aedca670afb851b92021bfb533184d4.jpg",
+  "detected_count": 7,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 61.75,
+      "y": 302.25,
+      "confidence": 0.685546875
+    },
+    {
+      "x": 321.75,
+      "y": 273.0,
+      "confidence": 0.65673828125
+    },
+    {
+      "x": 100.75,
+      "y": 251.875,
+      "confidence": 0.654296875
+    },
+    {
+      "x": 281.125,
+      "y": 199.875,
+      "confidence": 0.62548828125
+    },
+    {
+      "x": 216.125,
+      "y": 334.75,
+      "confidence": 0.5986328125
+    },
+    {
+      "x": 191.75,
+      "y": 225.875,
+      "confidence": 0.5771484375
+    },
+    {
+      "x": 146.25,
+      "y": 310.375,
+      "confidence": 0.52685546875
+    }
+  ],
+  "geometry": {
+    "detected_count": 7,
+    "possible_gap_count": 1,
+    "possible_gap_points": [
+      [
+        234.0,
+        291.6875
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 3,
+        "possible_gaps": 1
+      },
+      {
+        "row": 3,
+        "detected": 1,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": -12.022276686183519,
+    "nearest_neighbor_spacing": 74.00443398878205,
+    "horizontal_spacing": 92.83030194609373
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0296_stacks-pvc-pipes-construction-site-selective-focus-49772931_jpg.rf.8aedca670afb851b92021bfb533184d4_count_7.jpg"
+}

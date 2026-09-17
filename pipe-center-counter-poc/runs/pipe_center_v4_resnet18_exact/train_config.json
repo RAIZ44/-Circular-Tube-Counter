@@ -1,0 +1,18 @@
+{
+  "manifest_dir": "data/processed_v2",
+  "output_dir": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\pipe_center_v4_resnet18_exact",
+  "image_size": 512,
+  "batch_size": 16,
+  "epochs": 30,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.0001,
+  "num_workers": 4,
+  "patience": 6,
+  "seed": 42,
+  "device": "cuda",
+  "init_checkpoint": null,
+  "selection_metric": "exact_count_accuracy",
+  "architecture": "ResNet18CenterNet",
+  "pretrained": true,
+  "encoder_lr_factor": 0.1
+}

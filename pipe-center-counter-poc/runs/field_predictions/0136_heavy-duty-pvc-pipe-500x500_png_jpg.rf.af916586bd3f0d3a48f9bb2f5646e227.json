@@ -1,0 +1,221 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\heavy-duty-pvc-pipe-500x500_png_jpg.rf.af916586bd3f0d3a48f9bb2f5646e227.jpg",
+  "detected_count": 30,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 334.75,
+      "y": 139.75,
+      "confidence": 0.83447265625
+    },
+    {
+      "x": 264.875,
+      "y": 143.0,
+      "confidence": 0.83349609375
+    },
+    {
+      "x": 118.625,
+      "y": 294.125,
+      "confidence": 0.82666015625
+    },
+    {
+      "x": 43.875,
+      "y": 297.375,
+      "confidence": 0.77099609375
+    },
+    {
+      "x": 190.125,
+      "y": 151.125,
+      "confidence": 0.75146484375
+    },
+    {
+      "x": 68.25,
+      "y": 351.0,
+      "confidence": 0.736328125
+    },
+    {
+      "x": 105.625,
+      "y": 78.0,
+      "confidence": 0.7197265625
+    },
+    {
+      "x": 92.625,
+      "y": 234.0,
+      "confidence": 0.71728515625
+    },
+    {
+      "x": 21.125,
+      "y": 349.375,
+      "confidence": 0.71630859375
+    },
+    {
+      "x": 32.5,
+      "y": 73.125,
+      "confidence": 0.708984375
+    },
+    {
+      "x": 393.25,
+      "y": 139.75,
+      "confidence": 0.705078125
+    },
+    {
+      "x": 65.0,
+      "y": 237.25,
+      "confidence": 0.69970703125
+    },
+    {
+      "x": 130.0,
+      "y": 235.625,
+      "confidence": 0.68994140625
+    },
+    {
+      "x": 133.25,
+      "y": 349.375,
+      "confidence": 0.685546875
+    },
+    {
+      "x": 17.875,
+      "y": 238.875,
+      "confidence": 0.6845703125
+    },
+    {
+      "x": 94.25,
+      "y": 347.75,
+      "confidence": 0.6435546875
+    },
+    {
+      "x": 121.875,
+      "y": 393.25,
+      "confidence": 0.6201171875
+    },
+    {
+      "x": 123.5,
+      "y": 139.75,
+      "confidence": 0.61572265625
+    },
+    {
+      "x": 74.75,
+      "y": 292.5,
+      "confidence": 0.615234375
+    },
+    {
+      "x": 48.75,
+      "y": 396.5,
+      "confidence": 0.61181640625
+    },
+    {
+      "x": 71.5,
+      "y": 24.375,
+      "confidence": 0.58154296875
+    },
+    {
+      "x": 97.5,
+      "y": 182.0,
+      "confidence": 0.5791015625
+    },
+    {
+      "x": 11.375,
+      "y": 130.0,
+      "confidence": 0.54296875
+    },
+    {
+      "x": 61.75,
+      "y": 128.375,
+      "confidence": 0.5341796875
+    },
+    {
+      "x": 76.375,
+      "y": 396.5,
+      "confidence": 0.509765625
+    },
+    {
+      "x": 4.875,
+      "y": 295.75,
+      "confidence": 0.46240234375
+    },
+    {
+      "x": 29.25,
+      "y": 180.375,
+      "confidence": 0.431396484375
+    },
+    {
+      "x": 147.875,
+      "y": 151.125,
+      "confidence": 0.3115234375
+    },
+    {
+      "x": 128.375,
+      "y": 27.625,
+      "confidence": 0.307373046875
+    },
+    {
+      "x": 4.875,
+      "y": 240.5,
+      "confidence": 0.27685546875
+    }
+  ],
+  "geometry": {
+    "detected_count": 30,
+    "possible_gap_count": 3,
+    "possible_gap_points": [
+      [
+        69.0625,
+        75.5625
+      ],
+      [
+        227.5,
+        147.0625
+      ],
+      [
+        299.8125,
+        141.375
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 2,
+        "possible_gaps": 1
+      },
+      {
+        "row": 3,
+        "detected": 8,
+        "possible_gaps": 2
+      },
+      {
+        "row": 4,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 5,
+        "detected": 5,
+        "possible_gaps": 0
+      },
+      {
+        "row": 6,
+        "detected": 4,
+        "possible_gaps": 0
+      },
+      {
+        "row": 7,
+        "detected": 4,
+        "possible_gaps": 0
+      },
+      {
+        "row": 8,
+        "detected": 3,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": -1.9112721384382862,
+    "nearest_neighbor_spacing": 40.64191974287951,
+    "horizontal_spacing": 42.226495217419995
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0136_heavy-duty-pvc-pipe-500x500_png_jpg.rf.af916586bd3f0d3a48f9bb2f5646e227_count_30.jpg"
+}

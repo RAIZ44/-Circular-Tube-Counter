@@ -1,0 +1,27 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\gray-pvc-sewer-pipes-wooden-floor-background-gray-pvc-sewer-pipes-wooden-floor-background-copy-space-134196469_jpg.rf.e30c40b47023653efcd42b1107c495f9.jpg",
+  "detected_count": 2,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 295.75,
+      "y": 318.5,
+      "confidence": 0.396728515625
+    },
+    {
+      "x": 294.125,
+      "y": 315.25,
+      "confidence": 0.384033203125
+    }
+  ],
+  "geometry": {
+    "detected_count": 2,
+    "possible_gap_count": 0,
+    "possible_gap_points": [],
+    "rows": [],
+    "row_angle_degrees": 0.0,
+    "nearest_neighbor_spacing": null,
+    "horizontal_spacing": null
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0134_gray-pvc-sewer-pipes-wooden-floor-background-gray-pvc-sewer-pipes-wooden-floor-background-copy-space-134196469_jpg.rf.e30c40b47023653efcd42b1107c495f9_count_2.jpg"
+}

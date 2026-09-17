@@ -1,0 +1,113 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\steel-pipes-front-view-2-14039802_jpg.rf.2fb2a63d6a8cf891d760dcb2dbfe80d1.jpg",
+  "detected_count": 15,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 97.5,
+      "y": 326.625,
+      "confidence": 0.6298828125
+    },
+    {
+      "x": 78.0,
+      "y": 82.875,
+      "confidence": 0.625
+    },
+    {
+      "x": 123.5,
+      "y": 217.75,
+      "confidence": 0.53125
+    },
+    {
+      "x": 160.875,
+      "y": 91.0,
+      "confidence": 0.51708984375
+    },
+    {
+      "x": 216.125,
+      "y": 221.0,
+      "confidence": 0.495361328125
+    },
+    {
+      "x": 375.375,
+      "y": 349.375,
+      "confidence": 0.48974609375
+    },
+    {
+      "x": 178.75,
+      "y": 328.25,
+      "confidence": 0.486572265625
+    },
+    {
+      "x": 29.25,
+      "y": 14.625,
+      "confidence": 0.470458984375
+    },
+    {
+      "x": 277.875,
+      "y": 342.875,
+      "confidence": 0.46337890625
+    },
+    {
+      "x": 113.75,
+      "y": 11.375,
+      "confidence": 0.462890625
+    },
+    {
+      "x": 258.375,
+      "y": 94.25,
+      "confidence": 0.442626953125
+    },
+    {
+      "x": 26.0,
+      "y": 310.375,
+      "confidence": 0.434814453125
+    },
+    {
+      "x": 40.625,
+      "y": 204.75,
+      "confidence": 0.409423828125
+    },
+    {
+      "x": 39.0,
+      "y": 198.25,
+      "confidence": 0.366943359375
+    },
+    {
+      "x": 17.875,
+      "y": 81.25,
+      "confidence": 0.330322265625
+    }
+  ],
+  "geometry": {
+    "detected_count": 15,
+    "possible_gap_count": 0,
+    "possible_gap_points": [],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 4,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 4,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 5,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": 4.914164221194805,
+    "nearest_neighbor_spacing": 79.93943019561748,
+    "horizontal_spacing": 83.79748551533982
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0297_steel-pipes-front-view-2-14039802_jpg.rf.2fb2a63d6a8cf891d760dcb2dbfe80d1_count_15.jpg"
+}

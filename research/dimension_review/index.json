@@ -1,0 +1,162 @@
+[
+  {
+    "index": 0,
+    "sha256": "c0045741b1161409a9a093e88d21be8eccdadf6d70b5f7149a385cf7f784bbe8",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\00.jpg",
+    "labels": 99,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\1688080036_jpg.rf.e60a763809ab77e4e6ef6f63f01faefb.jpg",
+    "split": "train"
+  },
+  {
+    "index": 1,
+    "sha256": "1b782a062315d4b4ed8dc6c370a3cdcff69d833c74ee2cd515232954d8ccbcd8",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\01.jpg",
+    "labels": 79,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1688022511_jpg.rf.8289930627738ee115025db40aa920d0.jpg",
+    "split": "train"
+  },
+  {
+    "index": 2,
+    "sha256": "e0e073e357c5313a42a98c2f42cf3d7725ea78ca98423237957efbaaab0696e4",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\02.jpg",
+    "labels": 0,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1687947413_jpg.rf.bbdf680fa619626a3cca38860b02c7c8.jpg",
+    "split": "train"
+  },
+  {
+    "index": 3,
+    "sha256": "35f3ea86836ef538f9cedcea662744cbb2723cec42e7599d16c6edf2faf74857",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\03.jpg",
+    "labels": 93,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1688028765_jpg.rf.561959c03492a1f63556895dfb81ae14.jpg",
+    "split": "train"
+  },
+  {
+    "index": 4,
+    "sha256": "44071160b6f16c6b2245dc0cda7dd1de4498c0259c44af664c4d5694f0d6a3a7",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\04.jpg",
+    "labels": 11,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\1715316933469_jpg.rf.0ca5797aab453ca71afeab596e666f12.jpg",
+    "split": "train"
+  },
+  {
+    "index": 5,
+    "sha256": "1a9c74cbe30eb298d0b68c9901d865d87674998c2a318bfda4247b82d9e1f245",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\05.jpg",
+    "labels": 98,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1688079354_jpg.rf.8b7f551927153267a2fb9d994eefcd9c.jpg",
+    "split": "train"
+  },
+  {
+    "index": 6,
+    "sha256": "17e55d264d5c2aeeff6308b8106e964a2d34d6f0ac8284c56830d746119e7cf8",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\06.jpg",
+    "labels": 0,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1688011305_jpg.rf.b69508da636a562ad695aca4db850204.jpg",
+    "split": "train"
+  },
+  {
+    "index": 7,
+    "sha256": "aee80834bd0118f9ca16d6615a5d0f223a28b5472fcc54181abe92fb9a316272",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\07.jpg",
+    "labels": 0,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1687990385_jpg.rf.27bf00568fc40eb1cc6b3ddeb8656b6f.jpg",
+    "split": "train"
+  },
+  {
+    "index": 8,
+    "sha256": "7c011163b40b7836ce45b2f73d636a5187d61624e1d0f481707aef590c1481bd",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\08.jpg",
+    "labels": 0,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\1687947379_jpg.rf.588becabf39f3e713cda2b9748de8c35.jpg",
+    "split": "train"
+  },
+  {
+    "index": 9,
+    "sha256": "467c9559bc5db7f5eab6608cd1f97658c3a66b0cbbe4f54492c4422c573a07dd",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\09.jpg",
+    "labels": 0,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1687990340_jpg.rf.4be3422d2a91aac23a178d6ae854bef3.jpg",
+    "split": "train"
+  },
+  {
+    "index": 10,
+    "sha256": "a3a760e9482923738ab2274234e90a9bf29e315e00e7017ad2863d73143e5a7c",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\10.jpg",
+    "labels": 0,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1687947395_jpg.rf.f0a4cac63f169f0836e71748113883df.jpg",
+    "split": "train"
+  },
+  {
+    "index": 11,
+    "sha256": "396c94b865b1a50080b39cf4f9be095d85d4feb0d914a671895164db9a7a4b74",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\11.jpg",
+    "labels": 12,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\1715316947162_jpg.rf.540c27c4a217fa160197d1db9c1ca760.jpg",
+    "split": "train"
+  },
+  {
+    "index": 12,
+    "sha256": "653041e49ac6fbfb0bf2daa37003715975f3061e9ce137e3aef78556977cb05e",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\12.jpg",
+    "labels": 11,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\1715316895842_jpg.rf.3849816c60ad33d7fdda7d22331e916a.jpg",
+    "split": "train"
+  },
+  {
+    "index": 13,
+    "sha256": "b6bbf218ae1a70aeb23e35b4be6495fa76ee722718519dfe1f241f8653ca6820",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\13.jpg",
+    "labels": 0,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1688018374_jpg.rf.f58e1438fc762ad7fcdec1b35d99f28d.jpg",
+    "split": "train"
+  },
+  {
+    "index": 14,
+    "sha256": "7eb88a65d81e8690a389921ba7d84420bbe21f00689d417325be1d04f37a485e",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\14.jpg",
+    "labels": 100,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1688019484_jpg.rf.5785d98639f9ab0c6bd0e2196d084714.jpg",
+    "split": "train"
+  },
+  {
+    "index": 15,
+    "sha256": "48fe78cef232f8299bb0e9206216fbaefcac6a69f368edeaf04d0c554217b071",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\15.jpg",
+    "labels": 39,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1688022467_jpg.rf.cd01b5157ca26eaeabd5797597ff94aa.jpg",
+    "split": "train"
+  },
+  {
+    "index": 16,
+    "sha256": "f1c55575c980a98777d879869aeb876e6554ef944b77bac94b77f025fbb54bf2",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\16.jpg",
+    "labels": 100,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1688019460_jpg.rf.cf6407577c846d2d3eea6fcfc7720ca4.jpg",
+    "split": "train"
+  },
+  {
+    "index": 17,
+    "sha256": "dd962a9dd03741a32a6ef59cfb3a99bcfeaa0d1f06095b2f89171dea0e7d3e2d",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\17.jpg",
+    "labels": 82,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\1688022579_jpg.rf.963ce8af632190c1f13513de350a3604.jpg",
+    "split": "val"
+  },
+  {
+    "index": 18,
+    "sha256": "ca9acbb94b5bcce0edcd5310e388a5a314027c2e6c461fc2d1d41c31fd808760",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\18.jpg",
+    "labels": 12,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\1715316968720_jpg.rf.88140a5c85a788b159279508ec36d8ef.jpg",
+    "split": "val"
+  },
+  {
+    "index": 19,
+    "sha256": "b84ab0958e22cb9f1eea1bcd5e13c3ba1dbbb9bf5a6dbd09af1ba4408fe6b4f1",
+    "file": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\work\\dimension_review\\19.jpg",
+    "labels": 0,
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\1687990413_jpg.rf.e41ce1c00017be2e002e0289c20af5b6.jpg",
+    "split": "val"
+  }
+]

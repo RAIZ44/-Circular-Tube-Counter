@@ -1,0 +1,31 @@
+Detector CUDA experiment: train=10650 val=1332 size=640
+Epoch 1/8 batch 1/5325 loss=2.17304 elapsed=10.1s
+Epoch 1/8 batch 100/5325 loss=1.36349 elapsed=18.7s
+Traceback (most recent call last):
+  File "C:\Users\Owner\Projects\Pipe Counter New\pipe-center-counter-poc\scripts\train_detector.py", line 137, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "C:\Users\Owner\Projects\Pipe Counter New\pipe-center-counter-poc\scripts\train_detector.py", line 92, in main
+    for step,(images,targets) in enumerate(train_loader,1):
+                                 ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Owner\Projects\Pipe Counter New\.venv\Lib\site-packages\torch\utils\data\dataloader.py", line 741, in __next__
+    data = self._next_data()
+  File "C:\Users\Owner\Projects\Pipe Counter New\.venv\Lib\site-packages\torch\utils\data\dataloader.py", line 1548, in _next_data
+    return self._process_data(data, worker_id)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Owner\Projects\Pipe Counter New\.venv\Lib\site-packages\torch\utils\data\dataloader.py", line 1586, in _process_data
+    data.reraise()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\Owner\Projects\Pipe Counter New\.venv\Lib\site-packages\torch\_utils.py", line 785, in reraise
+    raise exception
+ValueError: Caught ValueError in DataLoader worker process 2.
+Original Traceback (most recent call last):
+  File "C:\Users\Owner\Projects\Pipe Counter New\.venv\Lib\site-packages\torch\utils\data\_utils\worker.py", line 358, in _worker_loop
+    data = fetcher.fetch(index)  # type: ignore[possibly-undefined]
+  File "C:\Users\Owner\Projects\Pipe Counter New\.venv\Lib\site-packages\torch\utils\data\_utils\fetch.py", line 54, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+            ~~~~~~~~~~~~^^^^^
+  File "C:\Users\Owner\Projects\Pipe Counter New\pipe-center-counter-poc\src\pipe_counter\detection.py", line 50, in __getitem__
+    raise ValueError('Image size differs from annotation metadata')
+ValueError: Image size differs from annotation metadata
+

@@ -1,0 +1,63 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\google_95_jpg.rf.72a754015486cef93851a94daf995d44.jpg",
+  "detected_count": 7,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 630.0,
+      "y": 550.0,
+      "confidence": 0.736328125
+    },
+    {
+      "x": 215.0,
+      "y": 565.0,
+      "confidence": 0.736328125
+    },
+    {
+      "x": 345.0,
+      "y": 565.0,
+      "confidence": 0.7255859375
+    },
+    {
+      "x": 485.0,
+      "y": 565.0,
+      "confidence": 0.7099609375
+    },
+    {
+      "x": 750.0,
+      "y": 560.0,
+      "confidence": 0.66064453125
+    },
+    {
+      "x": 65.0,
+      "y": 565.0,
+      "confidence": 0.6455078125
+    },
+    {
+      "x": 940.0,
+      "y": 480.0,
+      "confidence": 0.619140625
+    }
+  ],
+  "geometry": {
+    "detected_count": 7,
+    "possible_gap_count": 0,
+    "possible_gap_points": [],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 6,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": -1.0809241866606887,
+    "nearest_neighbor_spacing": 130.0,
+    "horizontal_spacing": 139.97508675129308
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0133_google_95_jpg.rf.72a754015486cef93851a94daf995d44_count_7.jpg"
+}

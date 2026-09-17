@@ -1,0 +1,164 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\underground-orange-plastic-pipes-stack-construction-site-44599204_jpg.rf.027a1dab6c05660f1a06b9f642b87861.jpg",
+  "detected_count": 17,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 219.375,
+      "y": 92.625,
+      "confidence": 0.77685546875
+    },
+    {
+      "x": 271.375,
+      "y": 84.5,
+      "confidence": 0.76806640625
+    },
+    {
+      "x": 313.625,
+      "y": 87.75,
+      "confidence": 0.671875
+    },
+    {
+      "x": 299.0,
+      "y": 121.875,
+      "confidence": 0.66357421875
+    },
+    {
+      "x": 372.125,
+      "y": 347.75,
+      "confidence": 0.65283203125
+    },
+    {
+      "x": 243.75,
+      "y": 126.75,
+      "confidence": 0.64208984375
+    },
+    {
+      "x": 120.25,
+      "y": 182.0,
+      "confidence": 0.5712890625
+    },
+    {
+      "x": 281.125,
+      "y": 328.25,
+      "confidence": 0.5517578125
+    },
+    {
+      "x": 115.375,
+      "y": 378.625,
+      "confidence": 0.52490234375
+    },
+    {
+      "x": 229.125,
+      "y": 260.0,
+      "confidence": 0.487548828125
+    },
+    {
+      "x": 34.125,
+      "y": 388.375,
+      "confidence": 0.44775390625
+    },
+    {
+      "x": 55.25,
+      "y": 52.0,
+      "confidence": 0.440185546875
+    },
+    {
+      "x": 42.25,
+      "y": 188.5,
+      "confidence": 0.43896484375
+    },
+    {
+      "x": 303.875,
+      "y": 276.25,
+      "confidence": 0.392578125
+    },
+    {
+      "x": 68.25,
+      "y": 292.5,
+      "confidence": 0.37109375
+    },
+    {
+      "x": 390.0,
+      "y": 282.75,
+      "confidence": 0.336669921875
+    },
+    {
+      "x": 154.375,
+      "y": 138.125,
+      "confidence": 0.292724609375
+    }
+  ],
+  "geometry": {
+    "detected_count": 17,
+    "possible_gap_count": 5,
+    "possible_gap_points": [
+      [
+        121.875,
+        281.6666666666667
+      ],
+      [
+        175.5,
+        270.8333333333333
+      ],
+      [
+        179.5625,
+        370.90625
+      ],
+      [
+        243.75,
+        363.1875
+      ],
+      [
+        307.9375,
+        355.46875
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 5,
+        "detected": 3,
+        "possible_gaps": 2
+      },
+      {
+        "row": 6,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 7,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 8,
+        "detected": 3,
+        "possible_gaps": 3
+      }
+    ],
+    "row_angle_degrees": -6.84277341263094,
+    "nearest_neighbor_spacing": 56.75880988886219,
+    "horizontal_spacing": 63.859356059382606
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0302_underground-orange-plastic-pipes-stack-construction-site-44599204_jpg.rf.027a1dab6c05660f1a06b9f642b87861_count_17.jpg"
+}

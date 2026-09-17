@@ -1,0 +1,88 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\black-plastic-pipes-water-supply-black-plastic-pipes-water-supply-sewerage-prepared-installation-repair-214123050_jpg.rf.95d581801fb5ef891d1b80a6199a5ed4.jpg",
+  "detected_count": 9,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 399.75,
+      "y": 125.125,
+      "confidence": 0.61669921875
+    },
+    {
+      "x": 364.0,
+      "y": 128.375,
+      "confidence": 0.5849609375
+    },
+    {
+      "x": 227.5,
+      "y": 26.0,
+      "confidence": 0.5068359375
+    },
+    {
+      "x": 165.75,
+      "y": 56.875,
+      "confidence": 0.481201171875
+    },
+    {
+      "x": 264.875,
+      "y": 53.625,
+      "confidence": 0.4150390625
+    },
+    {
+      "x": 188.5,
+      "y": 367.25,
+      "confidence": 0.376708984375
+    },
+    {
+      "x": 94.25,
+      "y": 341.25,
+      "confidence": 0.334228515625
+    },
+    {
+      "x": 286.0,
+      "y": 136.5,
+      "confidence": 0.328857421875
+    },
+    {
+      "x": 105.625,
+      "y": 60.125,
+      "confidence": 0.3173828125
+    }
+  ],
+  "geometry": {
+    "detected_count": 9,
+    "possible_gap_count": 1,
+    "possible_gap_points": [
+      [
+        141.375,
+        354.25
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 4,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 2,
+        "possible_gaps": 1
+      }
+    ],
+    "row_angle_degrees": 12.461755920553795,
+    "nearest_neighbor_spacing": 60.21277376935894,
+    "horizontal_spacing": 42.45559552436055
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0118_black-plastic-pipes-water-supply-black-plastic-pipes-water-supply-sewerage-prepared-installation-repair-214123050_jpg.rf.95d581801fb5ef891d1b80a6199a5ed4_count_9.jpg"
+}

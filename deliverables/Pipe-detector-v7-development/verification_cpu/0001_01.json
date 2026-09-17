@@ -1,0 +1,10 @@
+{
+  "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-detector-v7-development\\regression_examples\\01.jpg",
+  "detected_count": 0,
+  "threshold": 0.42999999999999977,
+  "inference_precision": "float32",
+  "boxes": [],
+  "scores": [],
+  "at_detection_limit": false,
+  "production_approved": false
+}

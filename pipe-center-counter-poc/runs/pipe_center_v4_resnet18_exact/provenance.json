@@ -1,0 +1,20 @@
+{
+  "started_at": "2026-09-16T04:02:20.876012+00:00",
+  "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+  "torch": "2.11.0+cu128",
+  "cuda": "12.8",
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "manifest_sha256": {
+    "train": "c3415d9ce317c165ee63e8c3060968b6483b374b808c1a665ff9f8412bfe3e6e",
+    "val": "58acadee7f2ba73095ae0fb0819bf5ce36b201a0fbc7ef04a44a9ade7caf0f87",
+    "test": "eb2bcfe5f53f78835fd55b245f7085d6402c7f3ab42e880f61e67579b5fe2f52"
+  },
+  "test_policy": "Reserved. First run trains and validates only; select a candidate before test evaluation.",
+  "architecture": "ResNet18CenterNet",
+  "pretraining": {
+    "source": "https://download.pytorch.org/models/resnet18-f37072fd.pth",
+    "sha256": "f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec",
+    "dataset": "ImageNet-1K",
+    "note": "External generic pretraining; no pipe validation/test labels used for fitting."
+  }
+}

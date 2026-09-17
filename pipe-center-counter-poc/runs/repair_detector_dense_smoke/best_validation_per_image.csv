@@ -1,0 +1,3 @@
+image,true_count,predicted_count,error,split_group
+C:\Users\Owner\Projects\Pipe Counter New\pipe-datasets\1_firts_train.v2-v2.coco\train\HDPE-Pipe-Storage-22_jpg.rf.d65aae68aa78f95561ae65e6cf986458.jpg,19,20,1,9311355b900cbd838cea377dab3615a9b8622575e6d040c7059885978640d96e
+C:\Users\Owner\Projects\Pipe Counter New\pipe-datasets\4-train.v4i.coco\train\HDPE-Pipe-Storage-22_jpg.rf.170234b276e869fc65fa4644d1ad4708.jpg,19,20,1,9311355b900cbd838cea377dab3615a9b8622575e6d040c7059885978640d96e

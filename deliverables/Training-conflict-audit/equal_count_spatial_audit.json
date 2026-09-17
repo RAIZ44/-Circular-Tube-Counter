@@ -1,0 +1,708 @@
+{
+  "method": "Ranking only: symmetric mean best-box IoU, not one-to-one label matching or correctness certification.",
+  "pairs": [
+    {
+      "sha256": "b24c8c92d27bfc13f6bad5255e354a1403562cc174a1c0a0104a8d21404d2582",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\images-13_jpeg_jpg.rf.0286bcf20a89c1fdab323800d76bc900.jpg",
+      "split_group": "2a5f43b270fc0bc219897b72b38572b08e26ab9fcbf709ef745c3f4e4e63d60a",
+      "count": 1,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.33527078272603567,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ],
+      "panel": "spatial_00.jpg"
+    },
+    {
+      "sha256": "7e6ce18e7e7346a3f1e28c21e638303f4705f5066181f695fa43df266b1d0c25",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\images-2_jpeg_jpg.rf.f54074efea912d0a876f1663b8d7d479.jpg",
+      "split_group": "906d66f44134b86317fc26b832dfb16b45478fd81b04f9422461802aba800285",
+      "count": 1,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.3941159377315943,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ],
+      "panel": "spatial_01.jpg"
+    },
+    {
+      "sha256": "65097f0e1e2881df02462708d809a71873a442e1734c9c389119655d89d92f4b",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\images-1_jpeg_jpg.rf.9b087e6e85912529f56aa4d04403f4d3.jpg",
+      "split_group": "b63f8a83555a2658a98e6476eaed8885f7472be95b1f5bdb66c1c92db889e65d",
+      "count": 1,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.454959359285571,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ],
+      "panel": "spatial_02.jpg"
+    },
+    {
+      "sha256": "4cf89d0c1b8fe25d0a7ec790f07070c283125774d47b3224a95d952877212440",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\images-3_jpeg_jpg.rf.8f0cf143d2bd13e2766aa42be6a5de29.jpg",
+      "split_group": "f3905ee14fc22cfc7f57c9e32fe640febe3fb1e10f7fce912eeb3988d977db5a",
+      "count": 1,
+      "variant_indices": [
+        2,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.4825109839816703,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ],
+      "panel": "spatial_03.jpg"
+    },
+    {
+      "sha256": "1957d65c43c11fa7e827de30d3ea173cdd40b58198f60a6f54727c9c88fd6398",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\images-16_jpeg_jpg.rf.28e191a74936bf50ebb5dc249bf76efd.jpg",
+      "split_group": "1319a483347115ca73d705b1e884c13ebf1e5e3161e943fedc40b46a0227bc78",
+      "count": 1,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.5022723759884945,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "2b12f4e0264ee9dcde6a3e94a686ecd84dba0b12decbbd70c234724a810b2962",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\images-14_jpeg_jpg.rf.cfa3bf5f43a3fb621923bf3641f954d5.jpg",
+      "split_group": "492d8cf115d84de23e970d21de8413450047d1d22a13b0b16f06d4ac896dd2d8",
+      "count": 1,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.5229131217466619,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "de359d5f49e23c0c05c49d1eab06696b80ed640e5339b53738c34b1d93f4bd12",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\images-10_jpeg_jpg.rf.dc3e68e988dd159849ce800a7f14bad2.jpg",
+      "split_group": "e3720844f384d6f24d6ed72ed36620e2299ac71bbcdd121c8c65426b98795d0a",
+      "count": 1,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.5471966191603557,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "443f9fea18e51488f8332db65fa200a6b536e78fcdd0b0c765852c091b0bf9a2",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\images-9_jpeg_jpg.rf.aa44b4750e2cd8689c42d4823fb572f5.jpg",
+      "split_group": "e366bc2f9c88cb78dbe02beba290ea21f299495e4868d052db06551a4e9d164c",
+      "count": 1,
+      "variant_indices": [
+        2,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.5707101943733942,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "b6d628bb621fb57ed93fd192152680bf20f504bf3ff67ba7aa2d33dc58754323",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\images-15_jpeg_jpg.rf.ab9449e36bca72b612ae831f0248af21.jpg",
+      "split_group": "f8817ce8df96f45bf7ef255243e4660fd2b8f6d3f5b1a16f84f33dead46e449d",
+      "count": 1,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.6107256063353278,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "e1e331906974570905f962070927bef4453f8144ae1a19a812b37fbd97eb5767",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\images-5-_jpg.rf.3a9623cd36cafaefc1265d9a49a5be4b.jpg",
+      "split_group": "6de43b78df1f1bd9a189a3f082a2004ee95e40cb52b71bafaee3e038cf0dd2de",
+      "count": 32,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.7530473780375572,
+      "metadata_sizes": [
+        [
+          416,
+          416
+        ],
+        [
+          416,
+          416
+        ]
+      ]
+    },
+    {
+      "sha256": "398e372466e2de71f954bffdc1e9f57652f748394c489d1e129470e7ccff3c9e",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4207_JPG_jpg.rf.8c3a573ef5dbc368ede69edfd4ddd207.jpg",
+      "split_group": "357a23f30535dbde1da4d2b2289c8e7dbce659b628e58a68181a200919341220",
+      "count": 50,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.8063465305841083,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "399a6e059f057b586e0eb4cab6c71ef1f1e21aaed54cf934684d70c61d24db9e",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\images-19_jpeg_jpg.rf.c95312df3d2a26869eebb3b13135a420.jpg",
+      "split_group": "eaa44bba07c9df4e914419fc29c27cbd32f27b553ec9efe4aa418c9d7dc0e5b8",
+      "count": 1,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.8279810461274066,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "794292ebde340a13586d25f2f43dbff25be0d675098f7e9160a4e2e5cf1e7eac",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\test_003_jpg.rf.95edc2a94d1995ed8a4c80d6058aecff.jpg",
+      "split_group": "d2a8ea3efe6e6c749f2eb27ada09f90716e2bbd14dbb01e3064e169755551645",
+      "count": 59,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.89536948337786,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "637ce387af0bf71c2ec2d09d0dae18f58bc700b4e4d0f3ab91f12054b098aa7a",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4227_JPG_jpg.rf.8d37f77d6bef1f18a5303e0c96e5a273.jpg",
+      "split_group": "657b4097bd1f7aedca7d6970178147d04ab507017b4e520d4d6bb0393fe2b06e",
+      "count": 50,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9431773831975169,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "9cb21494523e2c146b824f73f7ce5c448eeca9204bc4e00c7dabf86c154e2f59",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\plastic-pipes-stock-finished-products-stacked-packs-131823294_jpg.rf.2645929ba53dc6e967b5b56794b56cfc.jpg",
+      "split_group": "f37bba9363afb3a1547c79d70b654f986b3205dc81b052d989a52a0f26660d1d",
+      "count": 86,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9656905362911431,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "d09817dd79a8cc717348270c1f74713aa2ccf3494610d001fc24eb2afb9b44e3",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1319044732-612x612_jpg.rf.cc9dc287a6ed42a8ef032e7a042af14e.jpg",
+      "split_group": "979fbaccda22aa8ed0b02dca7428e36836a87eba21b85960525bac7b80412137",
+      "count": 9,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9660248621395806,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "bdbb646695be7c9b756f1a63993e8fe9c2e917d1d4d07b359773ebf2ba22730d",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-174900278-612x612_jpg.rf.a25236c0062318f16ae6cca55ce5032d.jpg",
+      "split_group": "e0bb57b51c2e487af03b70a0557b26b2db43307df57e2ba8f92aab4ac05ec785",
+      "count": 32,
+      "variant_indices": [
+        2,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9698271134183367,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "d27d4ce87b1513ca9fc691ea5292c69d0ab72e956eb878b85d145967c96fa758",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\pvc-pipes-500x500_jpg.rf.b251ec9e3626309a2f185baa05fcc158.jpg",
+      "split_group": "e5236a405c3b1784eb34680c65e8c497632dca88ca53bc2a5dc0d1b9dfacbecd",
+      "count": 55,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9742861834486783,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "c32825e52e3ec10a9a750b7adb6fc9e64015ebcf5ea170826e8ff55d352e2d6f",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1311058937-612x612_jpg.rf.d019a3645e0f6b2bb7b11e74dc0daa63.jpg",
+      "split_group": "e2b85df136c42beb8dbe9e5ec9ff85c9509e50b1c1ef0c7166f52cf5c48766e8",
+      "count": 70,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9753228691236698,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "76fb7d27a5b11cb843442832977365121f00b8786a9b21f28bec1cf48ca634a0",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\pvc-pipes-heap-stacked-construction-site-close-up-44171647_jpg.rf.d2e13ac3125d7690b4e306c83a431ab2.jpg",
+      "split_group": "8f9a01155fe9c7299883d915ad710c3f681aa9f91bb8fa4e1683e321659f07bf",
+      "count": 21,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.977583076522062,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "37e9ee5a00a4380e1c535bbe4e6a4099ea76ec1304c3948373afa5d1986aa1f6",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\istockphoto-1356133828-612x612_jpg.rf.69968e3ab1b46e053b88891eacbeba0a.jpg",
+      "split_group": "c404f0039a731ac8895768825170d901a159d0e8070abc075e3d53bb8c5121ba",
+      "count": 10,
+      "variant_indices": [
+        2,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9832985581798811,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "bd7b9f508fc108a04a32f1f853f13fbc476d777681388e0e6ce273526160f6ec",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\heavy-duty-pvc-pipe-500x500_png_jpg.rf.e73c12ea003561d05f440c657834a4f1.jpg",
+      "split_group": "473e5143749e12978d096a809f280bc19c7506428bc7fb80363c43aed1652748",
+      "count": 33,
+      "variant_indices": [
+        2,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9859989974342156,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "a3968eb999e6e3aa8f56a7d8759ac232d91b0e418e18ad514fad5afbaead5d7b",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4259_JPG_jpg.rf.2eb69ed1f801657248a2bf5d77632d38.jpg",
+      "split_group": "583e1f2655af960e869cef4cdc510df2d38fae87be8f6d13aecd3b192144311a",
+      "count": 50,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9884234925426034,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "fbce7c40e3b41aa85d14aeed7e9a3db18140f17693ae28d7e66f50e7102760fa",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\there-wide-range-sizes-thicknesses-colors-addition-novel-type-pipeline-has-entered-scene-recent-years-flexible-104782382_jpg.rf.1ea82fb5360fcb24bfcde0f00a27b021.jpg",
+      "split_group": "940aa012902323072e8f9e5d206434a77f38db7ea3c1366d43dd76d5d318a97e",
+      "count": 2,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9901307920752035,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "29d8343c3f0bf0fd7f58dd5fc71c7492ac367a3d45663009a0f6a62ea922a53a",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\istockphoto-1278775269-612x612_jpg.rf.3b29a5aeebddc8e605e7e73d07700141.jpg",
+      "split_group": "0a91b10984540514d837ed356df6e59e9a9c86d47da80a737b6618851e345c43",
+      "count": 1,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.991304347826047,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "d2402c8acd92ca5e5f307f771fc4f81c36f01667010a31793834c326ddec52ef",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\istockphoto-1305734724-612x612_jpg.rf.2e42b1e4b63d79cbdfe579e2ea698f61.jpg",
+      "split_group": "1bc63c6ac8b7127d1988758cc65c6a453e94a1f50dd26fe32244cd3506521ab6",
+      "count": 1,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9919999999999721,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "825773317568dd3242e6d8545140e685a5d146ce6e67a130875bd518755bcd1c",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\water-pipes-large-diameter-water-pipes-city-water-supply-water-pipes-large-diameter-water-pipes-city-water-supply-216959185_jpg.rf.39f4141fc0c177399c2ee9d1fd23214f.jpg",
+      "split_group": "cebe841679f1a497d7be494fc2b62202e440b6ef82294f2a2b4b7dcfeedc97f5",
+      "count": 3,
+      "variant_indices": [
+        2,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9931146766693247,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "77ed193749db9a0817395f7e561896a35c0c098d2119b7fcd56a7e3458f62028",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\Pipes_1_esi-Jakarta_jpg.rf.81509ab37e0b70145e5f262078ef3541.jpg",
+      "split_group": "abdc708cbfd79c60d01d578c4b08531d59d81b06b417e1161247c5b77a021159",
+      "count": 45,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9953965583668479,
+      "metadata_sizes": [
+        [
+          1145,
+          618
+        ],
+        [
+          1145,
+          618
+        ]
+      ]
+    },
+    {
+      "sha256": "76de3540c465398957a086d6161fea66a3e31cb734067f4ad6890335c073e04a",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\black-plastic-pipes-water-supply-black-plastic-pipes-water-supply-sewerage-prepared-installation-repair-216332831_jpg.rf.b0e55e5fe0d38715b6d6ff3961d677e7.jpg",
+      "split_group": "863aaeac9def44564e91b45267c011f7eb2acdf124b179f08d25c6cf28ee30fc",
+      "count": 6,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9954748374511192,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "bab7c33d97eb1a6321d8786b5cffd003f9e64d7e9fdcc1250a9d7dd991325bf1",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\istockphoto-1304074453-612x612_jpg.rf.7875f9ebac30a4cba4b4059c42e5e471.jpg",
+      "split_group": "53ba435c874c41bbc3139682b472b52e54da4d55c58d0acf8c968da715e7e150",
+      "count": 1,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9958677685950316,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "246ff9ed885107370485a9ec811db3f598a3b509ca0e4c0153f7ea0565162ba9",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\164_jpg.rf.d1b4b22ebf973c33cb721e3ba60312c5.jpg",
+      "split_group": "5c0c437c8a739bdec7c4259822c81d86962774743e521aeb936602b38210d7b6",
+      "count": 21,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9975471201402565,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "1d6c62fcba6fedfc201aa4a9ac21b1172d7acdfa243629f6c0a9879365dd6ff2",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1329790152-612x612_jpg.rf.9a8eba75b490dffdb35c0884239974df.jpg",
+      "split_group": "10e67c230af5b0b0cabfd06d347cb9d932760e763bc785a37e361c175ed418b3",
+      "count": 1,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.9977401129943425,
+      "metadata_sizes": [
+        [
+          640,
+          640
+        ],
+        [
+          640,
+          640
+        ]
+      ]
+    },
+    {
+      "sha256": "96fbb5a7808847753dee001740969cd5515efa5beb0975bd99383c0957b51fbe",
+      "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\81_jpeg.rf.b883f6c37ddf5b0216558afd22edf882.jpg",
+      "split_group": "3b1cfda650e1242fd452fee470fbe0f73d463420d1957922c6647c0e3e6b1e5c",
+      "count": 243,
+      "variant_indices": [
+        1,
+        0
+      ],
+      "mean_bidirectional_best_iou": 0.999954013695313,
+      "metadata_sizes": [
+        [
+          960,
+          1280
+        ],
+        [
+          960,
+          1280
+        ]
+      ]
+    }
+  ],
+  "visual_review": {
+    "cases_reviewed": 4,
+    "selection": "Lowest agreement from four distinct training groups.",
+    "finding": "All four reviewed cases mark the same single visible pipe end, with different box tightness/extent. No gross rotation or translation fault was established. This does not certify the remaining records.",
+    "labels_changed": false
+  }
+}

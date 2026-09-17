@@ -1,0 +1,13 @@
+{
+  "started_at": "2026-09-16T02:39:44.084267+00:00",
+  "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+  "torch": "2.11.0+cu128",
+  "cuda": "12.8",
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "manifest_sha256": {
+    "train": "c3415d9ce317c165ee63e8c3060968b6483b374b808c1a665ff9f8412bfe3e6e",
+    "val": "58acadee7f2ba73095ae0fb0819bf5ce36b201a0fbc7ef04a44a9ade7caf0f87",
+    "test": "eb2bcfe5f53f78835fd55b245f7085d6402c7f3ab42e880f61e67579b5fe2f52"
+  },
+  "test_policy": "Reserved. First run trains and validates only; select a candidate before test evaluation."
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "file": "regression_examples/00.jpg",
+    "sha256": "0854ea03a6045d79e138d427fd1777cff1cdc4431eab93f925f0f3df09e1f528",
+    "validation_index": 0,
+    "split_group": "9311355b900cbd838cea377dab3615a9b8622575e6d040c7059885978640d96e",
+    "expected_prediction": 20,
+    "existing_label_count": 19,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/01.jpg",
+    "sha256": "b84ab0958e22cb9f1eea1bcd5e13c3ba1dbbb9bf5a6dbd09af1ba4408fe6b4f1",
+    "validation_index": 684,
+    "split_group": "afff3933d305e31bf2247f4082d492a944eb1750017bf470bfa856211642b832",
+    "expected_prediction": 0,
+    "existing_label_count": 0,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/02.jpg",
+    "sha256": "fc2c96072a65fa75276be1620cfa59fe96da86a76074cad646dfd614db358346",
+    "validation_index": 13,
+    "split_group": "fdbcb7854bb59279833eaf365aa00f2607111408577ca988127187769146ea25",
+    "expected_prediction": 8,
+    "existing_label_count": 7,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/03.jpg",
+    "sha256": "b472df05042afca6672240141f46b7d8f8a9c23784865eaf15af9716a5af7172",
+    "validation_index": 2,
+    "split_group": "55718b7db68a498a72062d2b52867e9573604c5410103d502c61d4190f31b85c",
+    "expected_prediction": 70,
+    "existing_label_count": 73,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/04.jpg",
+    "sha256": "57bb1b265959ceb8eec123b630367b8fb9ba77bebad9b23a35277b7eca7b1160",
+    "validation_index": 5,
+    "split_group": "972b2a60b747ed1b540640ab8894a580b3e31ca08fcd5888d7c7563edc794a1e",
+    "expected_prediction": 200,
+    "existing_label_count": 200,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/05.jpg",
+    "sha256": "9a3a3642680bf88d12fbaed69dd991639ce0374c65a56a1ff17e314ab9dbc771",
+    "validation_index": 8,
+    "split_group": "6b2cd3092b9a6958391768783dfc5ff77b0642baedcf92caa61af6c1e7df7419",
+    "expected_prediction": 563,
+    "existing_label_count": 575,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/06.jpg",
+    "sha256": "dd962a9dd03741a32a6ef59cfb3a99bcfeaa0d1f06095b2f89171dea0e7d3e2d",
+    "validation_index": 24,
+    "split_group": "9ae640fc96884d26e2c88f1c7ccfd346a20f5d12d7731e52a3bb702a506ed2c3",
+    "expected_prediction": 107,
+    "existing_label_count": 82,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/07.jpg",
+    "sha256": "ca9acbb94b5bcce0edcd5310e388a5a314027c2e6c461fc2d1d41c31fd808760",
+    "validation_index": 27,
+    "split_group": "c5b1a0112c0abd18b406df3b224d69f0d840766bbdb00b65948428d3fb70e924",
+    "expected_prediction": 12,
+    "existing_label_count": 12,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/08.jpg",
+    "sha256": "89ace2aab47d0d9f69e4547409d06aea17989ff1465983ed215ccabc8962b473",
+    "validation_index": 634,
+    "split_group": "b1fc83d397899e4bc3774232345556c7fc166a9a7bf1daf7ceef7d4894e0544d",
+    "expected_prediction": 899,
+    "existing_label_count": 1121,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/09.jpg",
+    "sha256": "d5e95fa81f73929c2c8dde87379619c3e5a674f0ea74d1e951d5c51010ecf764",
+    "validation_index": 10,
+    "split_group": "685dfc7b4f41ccef770f49358189f071aba424961a0d7454c5d15a3833a8fed2",
+    "expected_prediction": 207,
+    "existing_label_count": 210,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/10.jpg",
+    "sha256": "d1ddc37a74cef79ddd3d22566e59e42836a3aef1848b82562bad7caf8eed3541",
+    "validation_index": 15,
+    "split_group": "5d7f59791b512e027a2ab680438d388b2efb9166eabdca901cbf843b40d4cd65",
+    "expected_prediction": 50,
+    "existing_label_count": 50,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/11.jpg",
+    "sha256": "67f45cedd6719058d1b95e7b31485b8d8ec5a6dc6d8c6140e9454d4cc9d8c971",
+    "validation_index": 19,
+    "split_group": "280339e6b3fa98ebe970674330afc27bde2c90c9b38133f235106115e5493e7a",
+    "expected_prediction": 50,
+    "existing_label_count": 54,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/12.jpg",
+    "sha256": "b8a286eda698628c1c7957366e4c4505b7d60a57f14069036580e75084230979",
+    "validation_index": 22,
+    "split_group": "6793f9df379f93c562c232bedee6de8e45447ac0c241260895dc428e5ae794ca",
+    "expected_prediction": 46,
+    "existing_label_count": 50,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/13.jpg",
+    "sha256": "7d1aaa1b5e0e610da9939920b3710a09ea97adfe80f4577eb496bc89c5608977",
+    "validation_index": 26,
+    "split_group": "a396bfd5fdbae039f657b7b58b13b5969baf8e553ca8f32f4cab22af4b04b639",
+    "expected_prediction": 117,
+    "existing_label_count": 101,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/14.jpg",
+    "sha256": "2b4075cc209727085b2f998b6d36431aa97e7c12fa51ca58cf1eec113d34f72f",
+    "validation_index": 28,
+    "split_group": "0593e34b7a9048ed8cbe83efed4400728701fcb0936844adbb2bccb06558efb8",
+    "expected_prediction": 355,
+    "existing_label_count": 348,
+    "note": "Development regression fixture, not an independent accuracy case."
+  },
+  {
+    "file": "regression_examples/15.jpg",
+    "sha256": "07b0e4c591466a5d1377fe6ad9c9ac33ad867cc122ef3276361edaaff6e89af4",
+    "validation_index": 31,
+    "split_group": "563563fdc192cf179265a5dd2c8733a31b092bc9746f3c5ca761b32017d82586",
+    "expected_prediction": 141,
+    "existing_label_count": 162,
+    "note": "Development regression fixture, not an independent accuracy case."
+  }
+]

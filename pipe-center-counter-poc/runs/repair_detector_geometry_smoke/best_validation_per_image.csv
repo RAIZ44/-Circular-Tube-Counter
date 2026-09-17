@@ -1,0 +1,5 @@
+image,true_count,predicted_count,error,split_group
+C:\Users\Owner\Projects\Pipe Counter New\pipe-datasets\1_firts_train.v2-v2.coco\valid\1688022579_jpg.rf.963ce8af632190c1f13513de350a3604.jpg,82,3,-79,9ae640fc96884d26e2c88f1c7ccfd346a20f5d12d7731e52a3bb702a506ed2c3
+C:\Users\Owner\Projects\Pipe Counter New\pipe-datasets\2_second_train.v4i.coco\train\1715316968720_jpg.rf.88140a5c85a788b159279508ec36d8ef.jpg,12,4,-8,c5b1a0112c0abd18b406df3b224d69f0d840766bbdb00b65948428d3fb70e924
+C:\Users\Owner\Projects\Pipe Counter New\pipe-datasets\1_firts_train.v2-v2.coco\train\1687990413_jpg.rf.e41ce1c00017be2e002e0289c20af5b6.jpg,0,0,0,afff3933d305e31bf2247f4082d492a944eb1750017bf470bfa856211642b832
+C:\Users\Owner\Projects\Pipe Counter New\pipe-datasets\1_firts_train.v2-v2.coco\train\HDPE-Pipe-Storage-22_jpg.rf.d65aae68aa78f95561ae65e6cf986458.jpg,19,1,-18,9311355b900cbd838cea377dab3615a9b8622575e6d040c7059885978640d96e

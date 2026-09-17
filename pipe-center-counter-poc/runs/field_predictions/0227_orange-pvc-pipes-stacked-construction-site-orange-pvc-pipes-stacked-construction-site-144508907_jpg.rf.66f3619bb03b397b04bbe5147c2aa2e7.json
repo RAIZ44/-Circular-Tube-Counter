@@ -1,0 +1,171 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\orange-pvc-pipes-stacked-construction-site-orange-pvc-pipes-stacked-construction-site-144508907_jpg.rf.66f3619bb03b397b04bbe5147c2aa2e7.jpg",
+  "detected_count": 22,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 281.125,
+      "y": 167.375,
+      "confidence": 0.73388671875
+    },
+    {
+      "x": 346.125,
+      "y": 113.75,
+      "confidence": 0.7138671875
+    },
+    {
+      "x": 40.625,
+      "y": 52.0,
+      "confidence": 0.6923828125
+    },
+    {
+      "x": 125.125,
+      "y": 143.0,
+      "confidence": 0.6826171875
+    },
+    {
+      "x": 162.5,
+      "y": 339.625,
+      "confidence": 0.68115234375
+    },
+    {
+      "x": 206.375,
+      "y": 144.625,
+      "confidence": 0.6796875
+    },
+    {
+      "x": 386.75,
+      "y": 30.875,
+      "confidence": 0.65576171875
+    },
+    {
+      "x": 388.375,
+      "y": 30.875,
+      "confidence": 0.65576171875
+    },
+    {
+      "x": 344.5,
+      "y": 261.625,
+      "confidence": 0.6064453125
+    },
+    {
+      "x": 289.25,
+      "y": 238.875,
+      "confidence": 0.57080078125
+    },
+    {
+      "x": 164.125,
+      "y": 74.75,
+      "confidence": 0.5703125
+    },
+    {
+      "x": 394.875,
+      "y": 162.5,
+      "confidence": 0.56494140625
+    },
+    {
+      "x": 339.625,
+      "y": 53.625,
+      "confidence": 0.556640625
+    },
+    {
+      "x": 391.625,
+      "y": 94.25,
+      "confidence": 0.50048828125
+    },
+    {
+      "x": 245.375,
+      "y": 126.75,
+      "confidence": 0.484619140625
+    },
+    {
+      "x": 94.25,
+      "y": 406.25,
+      "confidence": 0.463134765625
+    },
+    {
+      "x": 208.0,
+      "y": 245.375,
+      "confidence": 0.443359375
+    },
+    {
+      "x": 115.375,
+      "y": 52.0,
+      "confidence": 0.42236328125
+    },
+    {
+      "x": 286.0,
+      "y": 39.0,
+      "confidence": 0.362060546875
+    },
+    {
+      "x": 217.75,
+      "y": 69.875,
+      "confidence": 0.298828125
+    },
+    {
+      "x": 242.125,
+      "y": 240.5,
+      "confidence": 0.28955078125
+    },
+    {
+      "x": 78.0,
+      "y": 352.625,
+      "confidence": 0.27587890625
+    }
+  ],
+  "geometry": {
+    "detected_count": 22,
+    "possible_gap_count": 3,
+    "possible_gap_points": [
+      [
+        295.75,
+        120.25
+      ],
+      [
+        338.0,
+        164.9375
+      ],
+      [
+        120.25,
+        346.125
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 8,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 5,
+        "possible_gaps": 1
+      },
+      {
+        "row": 3,
+        "detected": 2,
+        "possible_gaps": 1
+      },
+      {
+        "row": 4,
+        "detected": 4,
+        "possible_gaps": 0
+      },
+      {
+        "row": 5,
+        "detected": 2,
+        "possible_gaps": 1
+      },
+      {
+        "row": 6,
+        "detected": 1,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": -1.9749340108819766,
+    "nearest_neighbor_spacing": 53.797072411052255,
+    "horizontal_spacing": 50.51308081215587
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0227_orange-pvc-pipes-stacked-construction-site-orange-pvc-pipes-stacked-construction-site-144508907_jpg.rf.66f3619bb03b397b04bbe5147c2aa2e7_count_22.jpg"
+}

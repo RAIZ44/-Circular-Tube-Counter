@@ -1,0 +1,39 @@
+{
+  "evaluation_set": "validation_only",
+  "test_accessed": false,
+  "grid": 2,
+  "inference_precision": "float32",
+  "checkpoint": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\pipe_center_v5_crop_exact\\best.pt",
+  "optimized_for_mae": {
+    "images": 1332,
+    "threshold": 0.22500000000000012,
+    "exact_count_accuracy": 0.14264264264264265,
+    "within_one_accuracy": 0.28903903903903905,
+    "mean_absolute_error": 10.664414414414415,
+    "root_mean_squared_error": 32.32528691557391,
+    "mean_signed_error": -0.8175675675675675,
+    "total_true": 206171,
+    "total_predicted": 205082
+  },
+  "optimized_for_exact_count": {
+    "images": 1332,
+    "threshold": 0.22500000000000012,
+    "exact_count_accuracy": 0.14264264264264265,
+    "within_one_accuracy": 0.28903903903903905,
+    "mean_absolute_error": 10.664414414414415,
+    "root_mean_squared_error": 32.32528691557391,
+    "mean_signed_error": -0.8175675675675675,
+    "total_true": 206171,
+    "total_predicted": 205082
+  },
+  "errors": {
+    "images": 1332,
+    "exact_count_accuracy": 0.14264264264264265,
+    "within_one_accuracy": 0.28903903903903905,
+    "mean_absolute_error": 10.664414414414415,
+    "mean_signed_error": -0.8175675675675675,
+    "absolute_error_p95": 36.450000000000045,
+    "absolute_error_max": 704
+  },
+  "note": "Context overlaps; each detection is assigned to one half-open core region. Experimental crop mode, not production inference."
+}

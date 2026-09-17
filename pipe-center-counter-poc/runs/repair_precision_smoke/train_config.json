@@ -1,0 +1,20 @@
+{
+  "manifest_dir": "data/smoke_v2",
+  "output_dir": "runs/repair_precision_smoke",
+  "image_size": 128,
+  "batch_size": 2,
+  "epochs": 1,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.0001,
+  "num_workers": 0,
+  "patience": 8,
+  "seed": 42,
+  "device": "cuda",
+  "init_checkpoint": null,
+  "selection_metric": "exact_count_accuracy",
+  "architecture": "ResNet18CenterNet",
+  "pretrained": true,
+  "encoder_lr_factor": 0.1,
+  "inference_precision": "float32",
+  "validation_batch_size": 1
+}

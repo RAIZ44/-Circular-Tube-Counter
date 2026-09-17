@@ -1,0 +1,212 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\Picture1_jpg.rf.1255582ba935bf01859bea2d64e14615.jpg",
+  "detected_count": 25,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 169.0,
+      "y": 282.75,
+      "confidence": 0.85400390625
+    },
+    {
+      "x": 221.0,
+      "y": 281.125,
+      "confidence": 0.84423828125
+    },
+    {
+      "x": 66.625,
+      "y": 372.125,
+      "confidence": 0.8427734375
+    },
+    {
+      "x": 63.375,
+      "y": 325.0,
+      "confidence": 0.84228515625
+    },
+    {
+      "x": 60.125,
+      "y": 276.25,
+      "confidence": 0.8359375
+    },
+    {
+      "x": 188.5,
+      "y": 318.5,
+      "confidence": 0.8359375
+    },
+    {
+      "x": 222.625,
+      "y": 354.25,
+      "confidence": 0.8173828125
+    },
+    {
+      "x": 240.5,
+      "y": 316.875,
+      "confidence": 0.80908203125
+    },
+    {
+      "x": 172.25,
+      "y": 355.875,
+      "confidence": 0.80810546875
+    },
+    {
+      "x": 21.125,
+      "y": 352.625,
+      "confidence": 0.74853515625
+    },
+    {
+      "x": 188.5,
+      "y": 390.0,
+      "confidence": 0.74072265625
+    },
+    {
+      "x": 149.5,
+      "y": 78.0,
+      "confidence": 0.73779296875
+    },
+    {
+      "x": 354.25,
+      "y": 214.5,
+      "confidence": 0.7060546875
+    },
+    {
+      "x": 238.875,
+      "y": 388.375,
+      "confidence": 0.70458984375
+    },
+    {
+      "x": 22.75,
+      "y": 394.875,
+      "confidence": 0.69677734375
+    },
+    {
+      "x": 17.875,
+      "y": 305.5,
+      "confidence": 0.67236328125
+    },
+    {
+      "x": 16.25,
+      "y": 264.875,
+      "confidence": 0.67138671875
+    },
+    {
+      "x": 302.25,
+      "y": 201.5,
+      "confidence": 0.6259765625
+    },
+    {
+      "x": 398.125,
+      "y": 225.875,
+      "confidence": 0.59326171875
+    },
+    {
+      "x": 69.875,
+      "y": 404.625,
+      "confidence": 0.57080078125
+    },
+    {
+      "x": 282.75,
+      "y": 123.5,
+      "confidence": 0.56689453125
+    },
+    {
+      "x": 256.75,
+      "y": 352.625,
+      "confidence": 0.449462890625
+    },
+    {
+      "x": 277.875,
+      "y": 399.75,
+      "confidence": 0.426513671875
+    },
+    {
+      "x": 185.25,
+      "y": 258.375,
+      "confidence": 0.34423828125
+    },
+    {
+      "x": 258.375,
+      "y": 277.875,
+      "confidence": 0.32373046875
+    }
+  ],
+  "geometry": {
+    "detected_count": 25,
+    "possible_gap_count": 7,
+    "possible_gap_points": [
+      [
+        114.5625,
+        279.5
+      ],
+      [
+        105.08333333333334,
+        322.83333333333337
+      ],
+      [
+        146.79166666666666,
+        320.66666666666663
+      ],
+      [
+        71.5,
+        353.70833333333337
+      ],
+      [
+        121.875,
+        354.7916666666667
+      ],
+      [
+        107.25,
+        378.08333333333337
+      ],
+      [
+        147.875,
+        384.0416666666667
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 6,
+        "possible_gaps": 1
+      },
+      {
+        "row": 5,
+        "detected": 4,
+        "possible_gaps": 2
+      },
+      {
+        "row": 6,
+        "detected": 4,
+        "possible_gaps": 2
+      },
+      {
+        "row": 7,
+        "detected": 5,
+        "possible_gaps": 2
+      },
+      {
+        "row": 8,
+        "detected": 1,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": 3.416588191771344,
+    "nearest_neighbor_spacing": 40.625,
+    "horizontal_spacing": 44.47491471587619
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0243_Picture1_jpg.rf.1255582ba935bf01859bea2d64e14615_count_25.jpg"
+}

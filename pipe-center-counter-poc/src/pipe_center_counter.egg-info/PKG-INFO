@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: pipe-center-counter
+Version: 0.2.0
+Summary: Center-heatmap POC for counting stacked pipe ends
+Requires-Python: >=3.10
+Requires-Dist: numpy<3,>=1.26
+Requires-Dist: opencv-python>=4.8
+Requires-Dist: torch>=2.5
+Requires-Dist: tqdm>=4.66
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Provides-Extra: intel-inference
+Requires-Dist: openvino>=2025.0; extra == "intel-inference"

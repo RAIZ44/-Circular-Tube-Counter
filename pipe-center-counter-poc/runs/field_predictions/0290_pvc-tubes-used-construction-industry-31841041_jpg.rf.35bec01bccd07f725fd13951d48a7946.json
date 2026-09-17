@@ -1,0 +1,254 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\pvc-tubes-used-construction-industry-31841041_jpg.rf.35bec01bccd07f725fd13951d48a7946.jpg",
+  "detected_count": 30,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 333.125,
+      "y": 55.25,
+      "confidence": 0.8427734375
+    },
+    {
+      "x": 225.875,
+      "y": 255.125,
+      "confidence": 0.814453125
+    },
+    {
+      "x": 380.25,
+      "y": 34.125,
+      "confidence": 0.80615234375
+    },
+    {
+      "x": 69.875,
+      "y": 120.25,
+      "confidence": 0.76416015625
+    },
+    {
+      "x": 359.125,
+      "y": 284.375,
+      "confidence": 0.76025390625
+    },
+    {
+      "x": 128.375,
+      "y": 120.25,
+      "confidence": 0.7578125
+    },
+    {
+      "x": 45.5,
+      "y": 43.875,
+      "confidence": 0.73095703125
+    },
+    {
+      "x": 100.75,
+      "y": 47.125,
+      "confidence": 0.72998046875
+    },
+    {
+      "x": 99.125,
+      "y": 48.75,
+      "confidence": 0.72998046875
+    },
+    {
+      "x": 331.5,
+      "y": 112.125,
+      "confidence": 0.72216796875
+    },
+    {
+      "x": 307.125,
+      "y": 234.0,
+      "confidence": 0.62890625
+    },
+    {
+      "x": 248.625,
+      "y": 364.0,
+      "confidence": 0.62646484375
+    },
+    {
+      "x": 100.75,
+      "y": 170.625,
+      "confidence": 0.548828125
+    },
+    {
+      "x": 43.875,
+      "y": 165.75,
+      "confidence": 0.5380859375
+    },
+    {
+      "x": 21.125,
+      "y": 115.375,
+      "confidence": 0.5361328125
+    },
+    {
+      "x": 380.25,
+      "y": 370.5,
+      "confidence": 0.52587890625
+    },
+    {
+      "x": 146.25,
+      "y": 50.375,
+      "confidence": 0.5146484375
+    },
+    {
+      "x": 21.125,
+      "y": 123.5,
+      "confidence": 0.50830078125
+    },
+    {
+      "x": 310.375,
+      "y": 377.0,
+      "confidence": 0.48486328125
+    },
+    {
+      "x": 367.25,
+      "y": 406.25,
+      "confidence": 0.47314453125
+    },
+    {
+      "x": 225.875,
+      "y": 396.5,
+      "confidence": 0.470458984375
+    },
+    {
+      "x": 126.75,
+      "y": 9.75,
+      "confidence": 0.45361328125
+    },
+    {
+      "x": 295.75,
+      "y": 61.75,
+      "confidence": 0.395263671875
+    },
+    {
+      "x": 268.125,
+      "y": 300.625,
+      "confidence": 0.388671875
+    },
+    {
+      "x": 8.125,
+      "y": 42.25,
+      "confidence": 0.35986328125
+    },
+    {
+      "x": 154.375,
+      "y": 261.625,
+      "confidence": 0.348876953125
+    },
+    {
+      "x": 149.5,
+      "y": 170.625,
+      "confidence": 0.34033203125
+    },
+    {
+      "x": 71.5,
+      "y": 6.5,
+      "confidence": 0.3271484375
+    },
+    {
+      "x": 178.75,
+      "y": 229.125,
+      "confidence": 0.30224609375
+    },
+    {
+      "x": 383.5,
+      "y": 237.25,
+      "confidence": 0.29248046875
+    }
+  ],
+  "geometry": {
+    "detected_count": 30,
+    "possible_gap_count": 10,
+    "possible_gap_points": [
+      [
+        196.08333333333334,
+        54.16666666666667
+      ],
+      [
+        245.91666666666666,
+        57.95833333333333
+      ],
+      [
+        179.15625,
+        118.21875
+      ],
+      [
+        229.9375,
+        116.1875
+      ],
+      [
+        280.71875,
+        114.15625
+      ],
+      [
+        242.9375,
+        231.5625
+      ],
+      [
+        270.2916666666667,
+        264.875
+      ],
+      [
+        314.7083333333333,
+        274.625
+      ],
+      [
+        273.0,
+        399.75
+      ],
+      [
+        320.125,
+        403.0
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 7,
+        "possible_gaps": 2
+      },
+      {
+        "row": 3,
+        "detected": 5,
+        "possible_gaps": 3
+      },
+      {
+        "row": 4,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 5,
+        "detected": 3,
+        "possible_gaps": 1
+      },
+      {
+        "row": 6,
+        "detected": 3,
+        "possible_gaps": 2
+      },
+      {
+        "row": 7,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 8,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 9,
+        "detected": 2,
+        "possible_gaps": 2
+      }
+    ],
+    "row_angle_degrees": 2.7348349361129984,
+    "nearest_neighbor_spacing": 45.062630027551656,
+    "horizontal_spacing": 53.79652836355926
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0290_pvc-tubes-used-construction-industry-31841041_jpg.rf.35bec01bccd07f725fd13951d48a7946_count_30.jpg"
+}

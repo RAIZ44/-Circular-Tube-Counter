@@ -1,0 +1,312 @@
+{
+  "created_at": "2026-09-16T19:16:34.707075+00:00",
+  "bundled_source": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-detector-v7-development\\src\\pipe_counter\\detection.py",
+  "fixture_count": 16,
+  "test_evaluated": false,
+  "production_ready": false,
+  "environment": {
+    "torch": "2.11.0+cu128",
+    "cuda_runtime": "12.8",
+    "gpu": "NVIDIA GeForce RTX 5090",
+    "threads": 4,
+    "cudnn_allow_tf32": true,
+    "cuda_matmul_allow_tf32": false
+  },
+  "cli_checks": {
+    "cuda": {
+      "matching_counts": 16,
+      "checks": [
+        {
+          "fixture": "regression_examples/00.jpg",
+          "expected": 20,
+          "actual": 20,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/01.jpg",
+          "expected": 0,
+          "actual": 0,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/02.jpg",
+          "expected": 8,
+          "actual": 8,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/03.jpg",
+          "expected": 70,
+          "actual": 70,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/04.jpg",
+          "expected": 200,
+          "actual": 200,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/05.jpg",
+          "expected": 563,
+          "actual": 563,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/06.jpg",
+          "expected": 107,
+          "actual": 107,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/07.jpg",
+          "expected": 12,
+          "actual": 12,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/08.jpg",
+          "expected": 899,
+          "actual": 899,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/09.jpg",
+          "expected": 207,
+          "actual": 207,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/10.jpg",
+          "expected": 50,
+          "actual": 50,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/11.jpg",
+          "expected": 50,
+          "actual": 50,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/12.jpg",
+          "expected": 46,
+          "actual": 46,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/13.jpg",
+          "expected": 117,
+          "actual": 117,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/14.jpg",
+          "expected": 355,
+          "actual": 355,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/15.jpg",
+          "expected": 141,
+          "actual": 141,
+          "matches": true
+        }
+      ]
+    },
+    "cpu": {
+      "matching_counts": 15,
+      "checks": [
+        {
+          "fixture": "regression_examples/00.jpg",
+          "expected": 20,
+          "actual": 20,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/01.jpg",
+          "expected": 0,
+          "actual": 0,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/02.jpg",
+          "expected": 8,
+          "actual": 8,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/03.jpg",
+          "expected": 70,
+          "actual": 70,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/04.jpg",
+          "expected": 200,
+          "actual": 200,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/05.jpg",
+          "expected": 563,
+          "actual": 563,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/06.jpg",
+          "expected": 107,
+          "actual": 107,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/07.jpg",
+          "expected": 12,
+          "actual": 12,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/08.jpg",
+          "expected": 899,
+          "actual": 899,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/09.jpg",
+          "expected": 207,
+          "actual": 207,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/10.jpg",
+          "expected": 50,
+          "actual": 50,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/11.jpg",
+          "expected": 50,
+          "actual": 51,
+          "matches": false
+        },
+        {
+          "fixture": "regression_examples/12.jpg",
+          "expected": 46,
+          "actual": 46,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/13.jpg",
+          "expected": 117,
+          "actual": 117,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/14.jpg",
+          "expected": 355,
+          "actual": 355,
+          "matches": true
+        },
+        {
+          "fixture": "regression_examples/15.jpg",
+          "expected": 141,
+          "actual": 141,
+          "matches": true
+        }
+      ]
+    }
+  },
+  "all_weights_and_inference_settings_identical_to_parent": true,
+  "cuda_warm_inference_ms": {
+    "median": 37.94414999720175,
+    "max": 54.893800006539095,
+    "sample_count": 16,
+    "per_image": [
+      38.86149999743793,
+      50.365699993562885,
+      48.51369999960298,
+      37.621600000420585,
+      35.44770000007702,
+      47.6423000000068,
+      36.24459999991814,
+      37.850000000617,
+      36.6894000035245,
+      35.70190000027651,
+      38.038299993786495,
+      54.893800006539095,
+      38.75580000021728,
+      37.42000000056578,
+      35.30279999540653,
+      49.21219999960158
+    ],
+    "scope": "One synchronized forward pass per fixture after three warmups; includes model normalization/resize, excludes decoding, tensor creation, startup and output writing. Local RTX 5090 only; not an Azure SLA."
+  },
+  "cross_device_diagnostic": {
+    "fixture": "regression_examples/11.jpg",
+    "cpu_count": 51,
+    "gpu_runs": [
+      {
+        "device": "cuda",
+        "cudnn_allow_tf32": true,
+        "repeat": 0,
+        "count": 50,
+        "scores_nearest_threshold": [
+          0.429934561252594,
+          0.4349234402179718,
+          0.42250552773475647,
+          0.34147635102272034,
+          0.5204009413719177
+        ]
+      },
+      {
+        "device": "cuda",
+        "cudnn_allow_tf32": true,
+        "repeat": 1,
+        "count": 50,
+        "scores_nearest_threshold": [
+          0.429934561252594,
+          0.4349234402179718,
+          0.42250552773475647,
+          0.34147635102272034,
+          0.5204009413719177
+        ]
+      },
+      {
+        "device": "cuda",
+        "cudnn_allow_tf32": false,
+        "repeat": 0,
+        "count": 51,
+        "scores_nearest_threshold": [
+          0.43020957708358765,
+          0.4323597252368927,
+          0.4215918183326721,
+          0.34132930636405945,
+          0.5219042301177979
+        ]
+      },
+      {
+        "device": "cuda",
+        "cudnn_allow_tf32": false,
+        "repeat": 1,
+        "count": 51,
+        "scores_nearest_threshold": [
+          0.43020957708358765,
+          0.4323597252368927,
+          0.4215918183326721,
+          0.34132930636405945,
+          0.5219042301177979
+        ]
+      }
+    ],
+    "interpretation": "A CPU/GPU count difference exists near the confidence threshold. Do not claim cross-device count parity. Keep saved CUDA reference behavior and validate any target runtime before release."
+  },
+  "runtime_pin_check": {
+    "initial_cudnn_allow_tf32": false,
+    "runner_cudnn_allow_tf32": true,
+    "runner_cuda_matmul_allow_tf32": false,
+    "fixture": "regression_examples/11.jpg",
+    "count": 50,
+    "passed": true
+  },
+  "runner_sha256": "38bead5aecf04897d5441d37410b444c592aa2a464ecc37dc999aa908f4ed121"
+}

@@ -1,0 +1,210 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\cast-iron-pipe_jpg.rf.9ac7f93fa2396ce806c6acc6a8ddfff4.jpg",
+  "detected_count": 30,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 162.5,
+      "y": 50.375,
+      "confidence": 0.81640625
+    },
+    {
+      "x": 305.5,
+      "y": 146.25,
+      "confidence": 0.8154296875
+    },
+    {
+      "x": 237.25,
+      "y": 234.0,
+      "confidence": 0.8134765625
+    },
+    {
+      "x": 160.875,
+      "y": 237.25,
+      "confidence": 0.81005859375
+    },
+    {
+      "x": 268.125,
+      "y": 323.375,
+      "confidence": 0.80712890625
+    },
+    {
+      "x": 208.0,
+      "y": 143.0,
+      "confidence": 0.7958984375
+    },
+    {
+      "x": 237.25,
+      "y": 50.375,
+      "confidence": 0.79150390625
+    },
+    {
+      "x": 354.25,
+      "y": 326.625,
+      "confidence": 0.783203125
+    },
+    {
+      "x": 325.0,
+      "y": 50.375,
+      "confidence": 0.78076171875
+    },
+    {
+      "x": 160.875,
+      "y": 351.0,
+      "confidence": 0.76806640625
+    },
+    {
+      "x": 297.375,
+      "y": 237.25,
+      "confidence": 0.767578125
+    },
+    {
+      "x": 40.625,
+      "y": 53.625,
+      "confidence": 0.75390625
+    },
+    {
+      "x": 123.5,
+      "y": 144.625,
+      "confidence": 0.720703125
+    },
+    {
+      "x": 212.875,
+      "y": 334.75,
+      "confidence": 0.69482421875
+    },
+    {
+      "x": 102.375,
+      "y": 52.0,
+      "confidence": 0.65869140625
+    },
+    {
+      "x": 60.125,
+      "y": 269.75,
+      "confidence": 0.6240234375
+    },
+    {
+      "x": 63.375,
+      "y": 152.75,
+      "confidence": 0.623046875
+    },
+    {
+      "x": 303.875,
+      "y": 390.0,
+      "confidence": 0.5771484375
+    },
+    {
+      "x": 63.375,
+      "y": 375.375,
+      "confidence": 0.5458984375
+    },
+    {
+      "x": 250.25,
+      "y": 393.25,
+      "confidence": 0.533203125
+    },
+    {
+      "x": 105.625,
+      "y": 243.75,
+      "confidence": 0.456787109375
+    },
+    {
+      "x": 398.125,
+      "y": 325.0,
+      "confidence": 0.453125
+    },
+    {
+      "x": 347.75,
+      "y": 139.75,
+      "confidence": 0.447998046875
+    },
+    {
+      "x": 94.25,
+      "y": 362.375,
+      "confidence": 0.446533203125
+    },
+    {
+      "x": 401.375,
+      "y": 136.5,
+      "confidence": 0.416015625
+    },
+    {
+      "x": 19.5,
+      "y": 157.625,
+      "confidence": 0.414306640625
+    },
+    {
+      "x": 352.625,
+      "y": 391.625,
+      "confidence": 0.406494140625
+    },
+    {
+      "x": 401.375,
+      "y": 240.5,
+      "confidence": 0.40283203125
+    },
+    {
+      "x": 9.75,
+      "y": 273.0,
+      "confidence": 0.371337890625
+    },
+    {
+      "x": 24.375,
+      "y": 393.25,
+      "confidence": 0.333251953125
+    }
+  ],
+  "geometry": {
+    "detected_count": 30,
+    "possible_gap_count": 4,
+    "possible_gap_points": [
+      [
+        256.75,
+        144.625
+      ],
+      [
+        349.375,
+        238.875
+      ],
+      [
+        125.66666666666666,
+        381.33333333333337
+      ],
+      [
+        187.95833333333331,
+        387.29166666666663
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 5,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 7,
+        "possible_gaps": 1
+      },
+      {
+        "row": 3,
+        "detected": 7,
+        "possible_gaps": 1
+      },
+      {
+        "row": 4,
+        "detected": 6,
+        "possible_gaps": 0
+      },
+      {
+        "row": 5,
+        "detected": 5,
+        "possible_gaps": 2
+      }
+    ],
+    "row_angle_degrees": -3.4682292589171477,
+    "nearest_neighbor_spacing": 53.72339457815375,
+    "horizontal_spacing": 53.72339457815383
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0121_cast-iron-pipe_jpg.rf.9ac7f93fa2396ce806c6acc6a8ddfff4_count_30.jpg"
+}

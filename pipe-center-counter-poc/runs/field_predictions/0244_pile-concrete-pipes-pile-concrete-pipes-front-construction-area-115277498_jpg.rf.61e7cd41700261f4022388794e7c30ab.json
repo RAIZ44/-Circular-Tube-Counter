@@ -1,0 +1,153 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\pile-concrete-pipes-pile-concrete-pipes-front-construction-area-115277498_jpg.rf.61e7cd41700261f4022388794e7c30ab.jpg",
+  "detected_count": 23,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 341.25,
+      "y": 242.125,
+      "confidence": 0.8359375
+    },
+    {
+      "x": 276.25,
+      "y": 243.75,
+      "confidence": 0.80859375
+    },
+    {
+      "x": 82.875,
+      "y": 245.375,
+      "confidence": 0.79638671875
+    },
+    {
+      "x": 315.25,
+      "y": 164.125,
+      "confidence": 0.7939453125
+    },
+    {
+      "x": 146.25,
+      "y": 245.375,
+      "confidence": 0.7880859375
+    },
+    {
+      "x": 281.125,
+      "y": 84.5,
+      "confidence": 0.78759765625
+    },
+    {
+      "x": 212.875,
+      "y": 245.375,
+      "confidence": 0.7802734375
+    },
+    {
+      "x": 212.875,
+      "y": 86.125,
+      "confidence": 0.759765625
+    },
+    {
+      "x": 380.25,
+      "y": 167.375,
+      "confidence": 0.74658203125
+    },
+    {
+      "x": 69.875,
+      "y": 94.25,
+      "confidence": 0.74609375
+    },
+    {
+      "x": 247.0,
+      "y": 165.75,
+      "confidence": 0.740234375
+    },
+    {
+      "x": 141.375,
+      "y": 89.375,
+      "confidence": 0.73583984375
+    },
+    {
+      "x": 40.625,
+      "y": 175.5,
+      "confidence": 0.7197265625
+    },
+    {
+      "x": 182.0,
+      "y": 167.375,
+      "confidence": 0.7021484375
+    },
+    {
+      "x": 352.625,
+      "y": 87.75,
+      "confidence": 0.69921875
+    },
+    {
+      "x": 16.25,
+      "y": 94.25,
+      "confidence": 0.64794921875
+    },
+    {
+      "x": 24.375,
+      "y": 243.75,
+      "confidence": 0.583984375
+    },
+    {
+      "x": 113.75,
+      "y": 173.875,
+      "confidence": 0.57666015625
+    },
+    {
+      "x": 403.0,
+      "y": 86.125,
+      "confidence": 0.436279296875
+    },
+    {
+      "x": 394.875,
+      "y": 238.875,
+      "confidence": 0.414794921875
+    },
+    {
+      "x": 3.25,
+      "y": 175.5,
+      "confidence": 0.305419921875
+    },
+    {
+      "x": 368.875,
+      "y": 338.0,
+      "confidence": 0.2978515625
+    },
+    {
+      "x": 325.0,
+      "y": 339.625,
+      "confidence": 0.29248046875
+    }
+  ],
+  "geometry": {
+    "detected_count": 23,
+    "possible_gap_count": 0,
+    "possible_gap_points": [],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 7,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 7,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 7,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 2,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": -1.3639275316029187,
+    "nearest_neighbor_spacing": 58.5225650924496,
+    "horizontal_spacing": 65.02026330753156
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0244_pile-concrete-pipes-pile-concrete-pipes-front-construction-area-115277498_jpg.rf.61e7cd41700261f4022388794e7c30ab_count_23.jpg"
+}

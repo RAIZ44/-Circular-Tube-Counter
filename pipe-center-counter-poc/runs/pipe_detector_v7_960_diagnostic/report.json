@@ -1,0 +1,185 @@
+{
+  "evaluation": "validation_only",
+  "test_evaluated": false,
+  "baseline": {
+    "images": 1332,
+    "threshold": 0.42999999999999977,
+    "exact_count_accuracy": 0.2980480480480481,
+    "within_one_accuracy": 0.4594594594594595,
+    "mean_absolute_error": 8.352852852852854,
+    "root_mean_squared_error": 29.71887803588338,
+    "mean_signed_error": -2.160660660660661,
+    "total_true": 206171,
+    "total_predicted": 203293
+  },
+  "fixed_threshold_960": {
+    "images": 1332,
+    "threshold": 0.42999999999999977,
+    "exact_count_accuracy": 0.25900900900900903,
+    "within_one_accuracy": 0.4542042042042042,
+    "mean_absolute_error": 6.392642642642643,
+    "root_mean_squared_error": 19.3723394957227,
+    "mean_signed_error": 0.6734234234234234,
+    "total_true": 206171,
+    "total_predicted": 207068
+  },
+  "calibrated_960": {
+    "images": 1332,
+    "threshold": 0.4699999999999998,
+    "exact_count_accuracy": 0.27402402402402404,
+    "within_one_accuracy": 0.4519519519519519,
+    "mean_absolute_error": 6.32957957957958,
+    "root_mean_squared_error": 20.09300821129029,
+    "mean_signed_error": -0.6824324324324325,
+    "total_true": 206171,
+    "total_predicted": 205262
+  },
+  "by_density": {
+    "0-10": {
+      "baseline": {
+        "images": 169,
+        "threshold": 0.42999999999999977,
+        "exact_count_accuracy": 0.6094674556213018,
+        "within_one_accuracy": 0.8461538461538461,
+        "mean_absolute_error": 0.6390532544378699,
+        "root_mean_squared_error": 1.1966422450849266,
+        "mean_signed_error": 0.41420118343195267,
+        "total_true": 846,
+        "total_predicted": 916
+      },
+      "higher_resolution": {
+        "images": 169,
+        "threshold": 0.4699999999999998,
+        "exact_count_accuracy": 0.5443786982248521,
+        "within_one_accuracy": 0.8224852071005917,
+        "mean_absolute_error": 0.8165680473372781,
+        "root_mean_squared_error": 1.5499570522776833,
+        "mean_signed_error": 0.6272189349112426,
+        "total_true": 846,
+        "total_predicted": 952
+      }
+    },
+    "11-50": {
+      "baseline": {
+        "images": 410,
+        "threshold": 0.42999999999999977,
+        "exact_count_accuracy": 0.3780487804878049,
+        "within_one_accuracy": 0.5780487804878048,
+        "mean_absolute_error": 2.9804878048780488,
+        "root_mean_squared_error": 6.573412819651675,
+        "mean_signed_error": 1.1560975609756097,
+        "total_true": 12339,
+        "total_predicted": 12813
+      },
+      "higher_resolution": {
+        "images": 410,
+        "threshold": 0.4699999999999998,
+        "exact_count_accuracy": 0.35121951219512193,
+        "within_one_accuracy": 0.5463414634146342,
+        "mean_absolute_error": 3.0951219512195123,
+        "root_mean_squared_error": 6.823381609243752,
+        "mean_signed_error": 1.5829268292682928,
+        "total_true": 12339,
+        "total_predicted": 12988
+      }
+    },
+    "51-100": {
+      "baseline": {
+        "images": 187,
+        "threshold": 0.42999999999999977,
+        "exact_count_accuracy": 0.3850267379679144,
+        "within_one_accuracy": 0.5828877005347594,
+        "mean_absolute_error": 4.192513368983957,
+        "root_mean_squared_error": 10.594116013979036,
+        "mean_signed_error": 0.18181818181818182,
+        "total_true": 13929,
+        "total_predicted": 13963
+      },
+      "higher_resolution": {
+        "images": 187,
+        "threshold": 0.4699999999999998,
+        "exact_count_accuracy": 0.3048128342245989,
+        "within_one_accuracy": 0.5508021390374331,
+        "mean_absolute_error": 4.903743315508021,
+        "root_mean_squared_error": 15.548612744832576,
+        "mean_signed_error": 1.4598930481283423,
+        "total_true": 13929,
+        "total_predicted": 14202
+      }
+    },
+    "101-250": {
+      "baseline": {
+        "images": 250,
+        "threshold": 0.42999999999999977,
+        "exact_count_accuracy": 0.132,
+        "within_one_accuracy": 0.26,
+        "mean_absolute_error": 9.96,
+        "root_mean_squared_error": 31.62328256206177,
+        "mean_signed_error": 4.544,
+        "total_true": 40977,
+        "total_predicted": 42113
+      },
+      "higher_resolution": {
+        "images": 250,
+        "threshold": 0.4699999999999998,
+        "exact_count_accuracy": 0.128,
+        "within_one_accuracy": 0.296,
+        "mean_absolute_error": 8.552,
+        "root_mean_squared_error": 23.42938326119576,
+        "mean_signed_error": 1.936,
+        "total_true": 40977,
+        "total_predicted": 41461
+      }
+    },
+    "251-500": {
+      "baseline": {
+        "images": 239,
+        "threshold": 0.42999999999999977,
+        "exact_count_accuracy": 0.13389121338912133,
+        "within_one_accuracy": 0.2301255230125523,
+        "mean_absolute_error": 12.05439330543933,
+        "root_mean_squared_error": 21.264325715083345,
+        "mean_signed_error": -4.146443514644352,
+        "total_true": 87173,
+        "total_predicted": 86182
+      },
+      "higher_resolution": {
+        "images": 239,
+        "threshold": 0.4699999999999998,
+        "exact_count_accuracy": 0.14644351464435146,
+        "within_one_accuracy": 0.22594142259414227,
+        "mean_absolute_error": 8.121338912133892,
+        "root_mean_squared_error": 13.73737533779827,
+        "mean_signed_error": -2.0292887029288704,
+        "total_true": 87173,
+        "total_predicted": 86688
+      }
+    },
+    "501-10000": {
+      "baseline": {
+        "images": 77,
+        "threshold": 0.42999999999999977,
+        "exact_count_accuracy": 0.025974025974025976,
+        "within_one_accuracy": 0.03896103896103896,
+        "mean_absolute_error": 47.285714285714285,
+        "root_mean_squared_error": 100.60950614764356,
+        "mean_signed_error": -46.76623376623377,
+        "total_true": 50907,
+        "total_predicted": 47306
+      },
+      "higher_resolution": {
+        "images": 77,
+        "threshold": 0.4699999999999998,
+        "exact_count_accuracy": 0.06493506493506493,
+        "within_one_accuracy": 0.1038961038961039,
+        "mean_absolute_error": 26.337662337662337,
+        "root_mean_squared_error": 61.44641842827243,
+        "mean_signed_error": -25.142857142857142,
+        "total_true": 50907,
+        "total_predicted": 48971
+      }
+    }
+  },
+  "elapsed_seconds": 78.20557809999445,
+  "meets_predeclared_adaptation_rule": true
+}

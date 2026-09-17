@@ -1,0 +1,336 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\P1070730_JPG_jpg.rf.bf28ae65dcfacc5aaac563ef7c4c1dfb.jpg",
+  "detected_count": 46,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 352.5,
+      "y": 165.0,
+      "confidence": 0.77783203125
+    },
+    {
+      "x": 260.0,
+      "y": 257.5,
+      "confidence": 0.763671875
+    },
+    {
+      "x": 252.5,
+      "y": 167.5,
+      "confidence": 0.75634765625
+    },
+    {
+      "x": 330.0,
+      "y": 537.5,
+      "confidence": 0.75634765625
+    },
+    {
+      "x": 400.0,
+      "y": 372.5,
+      "confidence": 0.7548828125
+    },
+    {
+      "x": 412.5,
+      "y": 160.0,
+      "confidence": 0.73974609375
+    },
+    {
+      "x": 415.0,
+      "y": 455.0,
+      "confidence": 0.73779296875
+    },
+    {
+      "x": 350.0,
+      "y": 352.5,
+      "confidence": 0.73388671875
+    },
+    {
+      "x": 392.5,
+      "y": 272.5,
+      "confidence": 0.72900390625
+    },
+    {
+      "x": 285.0,
+      "y": 162.5,
+      "confidence": 0.72412109375
+    },
+    {
+      "x": 260.0,
+      "y": 437.5,
+      "confidence": 0.72412109375
+    },
+    {
+      "x": 202.5,
+      "y": 170.0,
+      "confidence": 0.7099609375
+    },
+    {
+      "x": 222.5,
+      "y": 492.5,
+      "confidence": 0.68212890625
+    },
+    {
+      "x": 230.0,
+      "y": 252.5,
+      "confidence": 0.6796875
+    },
+    {
+      "x": 357.5,
+      "y": 260.0,
+      "confidence": 0.6787109375
+    },
+    {
+      "x": 282.5,
+      "y": 507.5,
+      "confidence": 0.6748046875
+    },
+    {
+      "x": 285.0,
+      "y": 345.0,
+      "confidence": 0.671875
+    },
+    {
+      "x": 180.0,
+      "y": 247.5,
+      "confidence": 0.6552734375
+    },
+    {
+      "x": 132.5,
+      "y": 175.0,
+      "confidence": 0.6455078125
+    },
+    {
+      "x": 405.0,
+      "y": 552.5,
+      "confidence": 0.64501953125
+    },
+    {
+      "x": 157.5,
+      "y": 172.5,
+      "confidence": 0.63818359375
+    },
+    {
+      "x": 342.5,
+      "y": 442.5,
+      "confidence": 0.62451171875
+    },
+    {
+      "x": 232.5,
+      "y": 415.0,
+      "confidence": 0.6240234375
+    },
+    {
+      "x": 185.0,
+      "y": 402.5,
+      "confidence": 0.60009765625
+    },
+    {
+      "x": 162.5,
+      "y": 317.5,
+      "confidence": 0.57666015625
+    },
+    {
+      "x": 165.0,
+      "y": 452.5,
+      "confidence": 0.5654296875
+    },
+    {
+      "x": 205.0,
+      "y": 460.0,
+      "confidence": 0.5546875
+    },
+    {
+      "x": 30.0,
+      "y": 175.0,
+      "confidence": 0.546875
+    },
+    {
+      "x": 137.5,
+      "y": 310.0,
+      "confidence": 0.53369140625
+    },
+    {
+      "x": 55.0,
+      "y": 292.5,
+      "confidence": 0.5302734375
+    },
+    {
+      "x": 142.5,
+      "y": 435.0,
+      "confidence": 0.52978515625
+    },
+    {
+      "x": 67.5,
+      "y": 175.0,
+      "confidence": 0.5263671875
+    },
+    {
+      "x": 122.5,
+      "y": 245.0,
+      "confidence": 0.5263671875
+    },
+    {
+      "x": 62.5,
+      "y": 400.0,
+      "confidence": 0.52587890625
+    },
+    {
+      "x": 107.5,
+      "y": 425.0,
+      "confidence": 0.515625
+    },
+    {
+      "x": 217.5,
+      "y": 335.0,
+      "confidence": 0.51416015625
+    },
+    {
+      "x": 65.0,
+      "y": 235.0,
+      "confidence": 0.51220703125
+    },
+    {
+      "x": 100.0,
+      "y": 240.0,
+      "confidence": 0.47900390625
+    },
+    {
+      "x": 117.5,
+      "y": 380.0,
+      "confidence": 0.474365234375
+    },
+    {
+      "x": 205.0,
+      "y": 320.0,
+      "confidence": 0.473876953125
+    },
+    {
+      "x": 90.0,
+      "y": 302.5,
+      "confidence": 0.4521484375
+    },
+    {
+      "x": 92.5,
+      "y": 410.0,
+      "confidence": 0.445556640625
+    },
+    {
+      "x": 175.0,
+      "y": 377.5,
+      "confidence": 0.435546875
+    },
+    {
+      "x": 122.5,
+      "y": 352.5,
+      "confidence": 0.41796875
+    },
+    {
+      "x": 60.0,
+      "y": 360.0,
+      "confidence": 0.408447265625
+    },
+    {
+      "x": 312.5,
+      "y": 255.0,
+      "confidence": 0.29736328125
+    }
+  ],
+  "geometry": {
+    "detected_count": 46,
+    "possible_gap_count": 8,
+    "possible_gap_points": [
+      [
+        318.75,
+        163.75
+      ],
+      [
+        251.25,
+        340.0
+      ],
+      [
+        317.5,
+        348.75
+      ],
+      [
+        138.75,
+        406.25
+      ],
+      [
+        301.25,
+        440.0
+      ],
+      [
+        378.75,
+        448.75
+      ],
+      [
+        252.5,
+        500.0
+      ],
+      [
+        367.5,
+        545.0
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 3,
+        "possible_gaps": 1
+      },
+      {
+        "row": 2,
+        "detected": 4,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 9,
+        "possible_gaps": 0
+      },
+      {
+        "row": 5,
+        "detected": 8,
+        "possible_gaps": 2
+      },
+      {
+        "row": 6,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 7,
+        "detected": 4,
+        "possible_gaps": 0
+      },
+      {
+        "row": 8,
+        "detected": 7,
+        "possible_gaps": 3
+      },
+      {
+        "row": 9,
+        "detected": 4,
+        "possible_gaps": 0
+      },
+      {
+        "row": 10,
+        "detected": 2,
+        "possible_gaps": 1
+      },
+      {
+        "row": 11,
+        "detected": 2,
+        "possible_gaps": 1
+      }
+    ],
+    "row_angle_degrees": 8.426969021480673,
+    "nearest_neighbor_spacing": 35.531676008879735,
+    "horizontal_spacing": 36.4539794460037
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0231_P1070730_JPG_jpg.rf.bf28ae65dcfacc5aaac563ef7c4c1dfb_count_46.jpg"
+}

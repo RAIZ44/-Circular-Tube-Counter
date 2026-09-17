@@ -1,0 +1,3 @@
+epoch,train_loss,val_loss,threshold,exact_count_accuracy,within_one_accuracy,mean_absolute_error,mean_signed_error,learning_rate
+1,6.992539882659912,5.389957427978516,0.1,0.0,0.0,17.0,-17.0,0.0003
+2,7.3482911586761475,5.33057165145874,0.1,0.0,0.0,17.0,-17.0,0.0003

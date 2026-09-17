@@ -1,0 +1,13 @@
+{
+  "manifest_dir": "data\\smoke_v2",
+  "output_dir": "runs\\repair_smoke_cuda",
+  "image_size": 512,
+  "batch_size": 2,
+  "epochs": 2,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.0001,
+  "num_workers": 0,
+  "patience": 8,
+  "seed": 42,
+  "device": "cuda"
+}

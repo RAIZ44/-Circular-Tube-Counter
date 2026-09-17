@@ -1,0 +1,113 @@
+[
+  {
+    "key": "c5e3df976a6a",
+    "sha256": "c5e3df976a6aec6385cda1777d8f0077692907c1cf3b155a5a8335dd75c098f3",
+    "split": "train",
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\images-8-2-_jpg.rf.91cae6b513ee2fe369aeab330892c49c.jpg",
+    "export_counts": [
+      360,
+      531
+    ],
+    "retained_count": 531
+  },
+  {
+    "key": "480b109c94c3",
+    "sha256": "480b109c94c32a71f5726e3441d7d31479e0bc17bcf25e6ebf64b811cf8de257",
+    "split": "train",
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\download-12-2-_jpg.rf.8d32aab62b00017effba6a45311e0e37.jpg",
+    "export_counts": [
+      7,
+      68
+    ],
+    "retained_count": 68
+  },
+  {
+    "key": "c87ec4fa24bd",
+    "sha256": "c87ec4fa24bd890d332408fdffca18a14bc2ea85ad457904ea3c3ec110bba909",
+    "split": "train",
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\rigid-pvc-pipes-of-160-mm-500x500_jpg.rf.9cd9c7a5147dc7e28912b5d3a5ac0724.jpg",
+    "export_counts": [
+      137,
+      167
+    ],
+    "retained_count": 167
+  },
+  {
+    "key": "e25ed895df0d",
+    "sha256": "e25ed895df0dc5c2d14277c047751b037c809d5ad6e4f3fda9195efc9f47f5fe",
+    "split": "train",
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\3498739_jpg.rf.713c9758ec2581e019612e943926d6a9.jpg",
+    "export_counts": [
+      19,
+      41,
+      43
+    ],
+    "retained_count": 43
+  },
+  {
+    "key": "401f4474ff4c",
+    "sha256": "401f4474ff4cc942773ad47381aa63865234089731ce3ea44a35c7965776e1a3",
+    "split": "train",
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\3498739_jpg.rf.a09ccd48c8e43dbf3222872211cdd66e.jpg",
+    "export_counts": [
+      19,
+      41
+    ],
+    "retained_count": 41
+  },
+  {
+    "key": "22bb033b2436",
+    "sha256": "22bb033b24369b36924fb46bcfcbc63978adae568582bac93031ed1a58c8c9fb",
+    "split": "val",
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\wholesale-sewer-pipes-stacked-shelves-composition-building-materials-composition-building-materials-sewer-pipes-stacked-159604109_jpg.rf.9b4b6907a6856312780cf980079fb4b8.jpg",
+    "export_counts": [
+      19,
+      34
+    ],
+    "retained_count": 34
+  },
+  {
+    "key": "028d6a064f02",
+    "sha256": "028d6a064f02098ccdb60ff174896f15543dc34c42bdac28396862149d23e323",
+    "split": "train",
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\blue-pvc-pipes-close-up-78411287_jpg.rf.d7dd47291877f392a30caf221dc97ab5.jpg",
+    "export_counts": [
+      66,
+      81
+    ],
+    "retained_count": 81
+  },
+  {
+    "key": "7f7cc87ed700",
+    "sha256": "7f7cc87ed700256243aff21d47d3dc30a84a9a17979463c9b8ca5632d7053e04",
+    "split": "train",
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1251439699-612x612_jpg.rf.152b67d26a348ed25e994496fe511236.jpg",
+    "export_counts": [
+      50,
+      61
+    ],
+    "retained_count": 61
+  },
+  {
+    "key": "7cdd1081440b",
+    "sha256": "7cdd1081440bcb168352b6a61be0aac346ac814ffc815ee50994732d69290810",
+    "split": "train",
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\MS-Pipes_jpg.rf.c69371087192051b6390456a6e3a5adb.jpg",
+    "export_counts": [
+      80,
+      91
+    ],
+    "retained_count": 91
+  },
+  {
+    "key": "45912b6a0a5c",
+    "sha256": "45912b6a0a5c7186fd319c2616bb5acd3ab16fa041b4659b3c54023e65a2ce32",
+    "split": "train",
+    "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\cast-iron-pipe_jpg.rf.4bc45c2d68ec8a5f83cdc723fc5e66b5.jpg",
+    "export_counts": [
+      18,
+      28
+    ],
+    "retained_count": 28
+  }
+]

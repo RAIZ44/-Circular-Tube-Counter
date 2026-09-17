@@ -1,0 +1,15 @@
+{
+  "architecture": "FCOSResNet50FPN",
+  "pretrained_weights_sha256": "99b0c9b7cfb1527d782db86b91d207f00547c792fb4103fc612b651d0a07b9e7",
+  "official_pretrained_load_passed": true,
+  "positive_and_empty_batch_optimizer_step_passed": true,
+  "losses": {
+    "classification": 1.093428373336792,
+    "bbox_regression": 0.8728426694869995,
+    "bbox_ctrness": 0.9898185729980469
+  },
+  "device": "cpu",
+  "image_size": 128,
+  "gpu_dense_smoke_pending": true,
+  "note": "CPU integration check only; no dataset training or accuracy evaluation."
+}

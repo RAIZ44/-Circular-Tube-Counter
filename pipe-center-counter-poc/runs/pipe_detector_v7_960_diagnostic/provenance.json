@@ -1,0 +1,14 @@
+{
+  "started_at": "2026-09-16T21:42:04.564530+00:00",
+  "checkpoint_sha256": "fe60f3ce4c904d4ee383d2be93235d6e877b8aed376faa5ac162b75498c61916",
+  "validation_manifest_sha256": "58acadee7f2ba73095ae0fb0819bf5ce36b201a0fbc7ef04a44a9ade7caf0f87",
+  "image_size": 960,
+  "baseline_image_size": 640,
+  "weights_changed": false,
+  "labels_changed": false,
+  "test_evaluated": false,
+  "cudnn_allow_tf32": true,
+  "cuda_matmul_allow_tf32": false,
+  "hypothesis": "More pixels may recover small distant/dense pipe ends missed by the 640px detector.",
+  "decision_rule": "Consider bounded adaptation only if exact accuracy improves at least 2 percentage points, or 501+ MAE improves at least 20% with no overall-MAE regression. Reject unadapted larger input otherwise; no automatic promotion."
+}

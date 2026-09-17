@@ -1,0 +1,163 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\pvc-pipes-500x500_jpg.rf.47260c895a151597e79107e85d2d5d4a.jpg",
+  "detected_count": 21,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 69.875,
+      "y": 154.375,
+      "confidence": 0.8173828125
+    },
+    {
+      "x": 71.5,
+      "y": 45.5,
+      "confidence": 0.798828125
+    },
+    {
+      "x": 42.25,
+      "y": 156.0,
+      "confidence": 0.794921875
+    },
+    {
+      "x": 97.5,
+      "y": 43.875,
+      "confidence": 0.7587890625
+    },
+    {
+      "x": 97.5,
+      "y": 149.5,
+      "confidence": 0.7509765625
+    },
+    {
+      "x": 42.25,
+      "y": 48.75,
+      "confidence": 0.74853515625
+    },
+    {
+      "x": 100.75,
+      "y": 383.5,
+      "confidence": 0.70751953125
+    },
+    {
+      "x": 121.875,
+      "y": 42.25,
+      "confidence": 0.68603515625
+    },
+    {
+      "x": 14.625,
+      "y": 162.5,
+      "confidence": 0.68310546875
+    },
+    {
+      "x": 299.0,
+      "y": 368.875,
+      "confidence": 0.65185546875
+    },
+    {
+      "x": 16.25,
+      "y": 53.625,
+      "confidence": 0.6416015625
+    },
+    {
+      "x": 120.25,
+      "y": 146.25,
+      "confidence": 0.6376953125
+    },
+    {
+      "x": 375.375,
+      "y": 131.625,
+      "confidence": 0.6357421875
+    },
+    {
+      "x": 56.875,
+      "y": 375.375,
+      "confidence": 0.59765625
+    },
+    {
+      "x": 287.625,
+      "y": 120.25,
+      "confidence": 0.5107421875
+    },
+    {
+      "x": 14.625,
+      "y": 383.5,
+      "confidence": 0.49169921875
+    },
+    {
+      "x": 110.5,
+      "y": 79.625,
+      "confidence": 0.4658203125
+    },
+    {
+      "x": 87.75,
+      "y": 81.25,
+      "confidence": 0.431396484375
+    },
+    {
+      "x": 316.875,
+      "y": 190.125,
+      "confidence": 0.421630859375
+    },
+    {
+      "x": 151.125,
+      "y": 164.125,
+      "confidence": 0.308349609375
+    },
+    {
+      "x": 39.0,
+      "y": 89.375,
+      "confidence": 0.293212890625
+    }
+  ],
+  "geometry": {
+    "detected_count": 21,
+    "possible_gap_count": 1,
+    "possible_gap_points": [
+      [
+        63.375,
+        85.3125
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 5,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 3,
+        "possible_gaps": 1
+      },
+      {
+        "row": 3,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 6,
+        "possible_gaps": 0
+      },
+      {
+        "row": 5,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 6,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 7,
+        "detected": 4,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": -4.219095349248455,
+    "nearest_neighbor_spacing": 27.672752844630402,
+    "horizontal_spacing": 26.978942848237878
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0287_pvc-pipes-500x500_jpg.rf.47260c895a151597e79107e85d2d5d4a_count_21.jpg"
+}

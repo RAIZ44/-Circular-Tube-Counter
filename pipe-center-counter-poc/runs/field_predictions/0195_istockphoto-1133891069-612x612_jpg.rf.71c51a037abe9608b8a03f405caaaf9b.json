@@ -1,0 +1,217 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\istockphoto-1133891069-612x612_jpg.rf.71c51a037abe9608b8a03f405caaaf9b.jpg",
+  "detected_count": 28,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 107.25,
+      "y": 48.75,
+      "confidence": 0.87744140625
+    },
+    {
+      "x": 183.625,
+      "y": 97.5,
+      "confidence": 0.86181640625
+    },
+    {
+      "x": 144.625,
+      "y": 69.875,
+      "confidence": 0.857421875
+    },
+    {
+      "x": 182.0,
+      "y": 40.625,
+      "confidence": 0.85546875
+    },
+    {
+      "x": 217.75,
+      "y": 66.625,
+      "confidence": 0.84619140625
+    },
+    {
+      "x": 146.25,
+      "y": 19.5,
+      "confidence": 0.82861328125
+    },
+    {
+      "x": 110.5,
+      "y": 105.625,
+      "confidence": 0.8251953125
+    },
+    {
+      "x": 76.375,
+      "y": 141.375,
+      "confidence": 0.81591796875
+    },
+    {
+      "x": 69.875,
+      "y": 24.375,
+      "confidence": 0.81201171875
+    },
+    {
+      "x": 147.875,
+      "y": 131.625,
+      "confidence": 0.794921875
+    },
+    {
+      "x": 71.5,
+      "y": 81.25,
+      "confidence": 0.79345703125
+    },
+    {
+      "x": 183.625,
+      "y": 162.5,
+      "confidence": 0.78369140625
+    },
+    {
+      "x": 113.75,
+      "y": 165.75,
+      "confidence": 0.7626953125
+    },
+    {
+      "x": 214.5,
+      "y": 17.875,
+      "confidence": 0.7607421875
+    },
+    {
+      "x": 222.625,
+      "y": 120.25,
+      "confidence": 0.7451171875
+    },
+    {
+      "x": 250.25,
+      "y": 27.625,
+      "confidence": 0.69189453125
+    },
+    {
+      "x": 386.75,
+      "y": 321.75,
+      "confidence": 0.68505859375
+    },
+    {
+      "x": 292.5,
+      "y": 39.0,
+      "confidence": 0.6103515625
+    },
+    {
+      "x": 282.75,
+      "y": 162.5,
+      "confidence": 0.578125
+    },
+    {
+      "x": 108.875,
+      "y": 8.125,
+      "confidence": 0.52587890625
+    },
+    {
+      "x": 248.625,
+      "y": 84.5,
+      "confidence": 0.5185546875
+    },
+    {
+      "x": 360.75,
+      "y": 27.625,
+      "confidence": 0.47607421875
+    },
+    {
+      "x": 385.125,
+      "y": 92.625,
+      "confidence": 0.4697265625
+    },
+    {
+      "x": 323.375,
+      "y": 102.375,
+      "confidence": 0.44775390625
+    },
+    {
+      "x": 269.75,
+      "y": 105.625,
+      "confidence": 0.39306640625
+    },
+    {
+      "x": 178.75,
+      "y": 4.875,
+      "confidence": 0.388916015625
+    },
+    {
+      "x": 78.0,
+      "y": 323.375,
+      "confidence": 0.38720703125
+    },
+    {
+      "x": 346.125,
+      "y": 160.875,
+      "confidence": 0.278076171875
+    }
+  ],
+  "geometry": {
+    "detected_count": 28,
+    "possible_gap_count": 7,
+    "possible_gap_points": [
+      [
+        326.625,
+        33.3125
+      ],
+      [
+        181.1875,
+        68.25
+      ],
+      [
+        147.0625,
+        101.5625
+      ],
+      [
+        112.125,
+        136.5
+      ],
+      [
+        148.6875,
+        164.125
+      ],
+      [
+        216.66666666666669,
+        162.5
+      ],
+      [
+        249.70833333333334,
+        162.5
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 9,
+        "possible_gaps": 1
+      },
+      {
+        "row": 2,
+        "detected": 5,
+        "possible_gaps": 1
+      },
+      {
+        "row": 3,
+        "detected": 6,
+        "possible_gaps": 1
+      },
+      {
+        "row": 4,
+        "detected": 2,
+        "possible_gaps": 1
+      },
+      {
+        "row": 5,
+        "detected": 4,
+        "possible_gaps": 3
+      },
+      {
+        "row": 6,
+        "detected": 2,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": 0.0,
+    "nearest_neighbor_spacing": 44.412876180532315,
+    "horizontal_spacing": 39.0
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0195_istockphoto-1133891069-612x612_jpg.rf.71c51a037abe9608b8a03f405caaaf9b_count_28.jpg"
+}

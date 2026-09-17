@@ -1,0 +1,6 @@
+{
+  "checkpoint": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\repair_smoke_cuda\\best.pt",
+  "sha256": "5155b34ed25d32a3bc6cff251b6726220acb4b6edb0579319450dc4315b24961",
+  "parent_epoch": 2,
+  "optimizer_reset": true
+}

@@ -1,0 +1,16 @@
+{
+  "image_size": 960,
+  "batch_size": 2,
+  "training_labels": [
+    1523,
+    1523
+  ],
+  "loss": 1.9047410488128662,
+  "finite_loss_and_optimizer_step": true,
+  "max_allocated_gib": 8.546809673309326,
+  "max_reserved_gib": 9.5859375,
+  "elapsed_seconds": 0.696361700000125,
+  "checkpoint_saved": false,
+  "raw_data_changed": false,
+  "test_evaluated": false
+}

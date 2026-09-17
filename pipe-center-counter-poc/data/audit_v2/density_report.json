@@ -1,0 +1,73 @@
+{
+  "images": 13312,
+  "centers": 1934146,
+  "target_image_size": 512,
+  "counts_per_image": {
+    "p00": 0.0,
+    "p01": 1.0,
+    "p05": 3.0,
+    "p10": 8.0,
+    "p25": 24.0,
+    "p50": 70.0,
+    "p75": 215.0,
+    "p90": 412.0,
+    "p95": 518.0,
+    "p99": 714.8899999999994,
+    "p100": 1523.0
+  },
+  "original_box_min_dimension_px": {
+    "p00": 1.0,
+    "p01": 7.0,
+    "p05": 16.0,
+    "p10": 22.0,
+    "p25": 37.0,
+    "p50": 69.0,
+    "p75": 100.0,
+    "p90": 136.0,
+    "p95": 191.0,
+    "p99": 261.0,
+    "p100": 1449.0
+  },
+  "scaled_box_min_dimension_px": {
+    "p00": 0.11235461926706167,
+    "p01": 3.657142857142857,
+    "p05": 6.311518247250776,
+    "p10": 7.893235158766682,
+    "p25": 12.0,
+    "p50": 18.25,
+    "p75": 26.0,
+    "p90": 34.42065832714125,
+    "p95": 48.0,
+    "p99": 80.0,
+    "p100": 496.8
+  },
+  "sampled_nearest_center_spacing_px": {
+    "p00": 0.0,
+    "p01": 4.919875777317989,
+    "p05": 6.480413007221049,
+    "p10": 7.0710678118654755,
+    "p25": 9.153935364682546,
+    "p50": 13.986600730699365,
+    "p75": 21.054987532648884,
+    "p90": 28.560112044598146,
+    "p95": 41.973515238906195,
+    "p99": 74.10212048487568,
+    "p100": 268.31898353094016
+  },
+  "heatmap_collision_comparison": [
+    {
+      "stride": 2,
+      "images_with_same_pixel_centers": 358,
+      "excess_centers_on_occupied_pixels": 2861,
+      "center_collision_rate": 0.0014792058096958554
+    },
+    {
+      "stride": 4,
+      "images_with_same_pixel_centers": 569,
+      "excess_centers_on_occupied_pixels": 5657,
+      "center_collision_rate": 0.002924805056081599
+    }
+  ],
+  "audit_preview_count": 12,
+  "manual_audit_csv": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\audit_v2\\manual_label_audit.csv"
+}

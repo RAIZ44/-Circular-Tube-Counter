@@ -1,0 +1,67 @@
+{
+  "packaged_source": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\src\\pipe_counter\\__init__.py",
+  "regression_matches": 12,
+  "images": 12,
+  "results": [
+    {
+      "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\00.jpg",
+      "expected": 19,
+      "actual": 19
+    },
+    {
+      "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\01.jpg",
+      "expected": 19,
+      "actual": 19
+    },
+    {
+      "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\02.jpg",
+      "expected": 73,
+      "actual": 73
+    },
+    {
+      "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\03.jpg",
+      "expected": 73,
+      "actual": 73
+    },
+    {
+      "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\04.jpg",
+      "expected": 335,
+      "actual": 335
+    },
+    {
+      "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\05.jpg",
+      "expected": 197,
+      "actual": 197
+    },
+    {
+      "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\06.jpg",
+      "expected": 224,
+      "actual": 224
+    },
+    {
+      "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\07.jpg",
+      "expected": 453,
+      "actual": 453
+    },
+    {
+      "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\08.jpg",
+      "expected": 566,
+      "actual": 566
+    },
+    {
+      "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\09.jpg",
+      "expected": 437,
+      "actual": 437
+    },
+    {
+      "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\10.jpg",
+      "expected": 208,
+      "actual": 208
+    },
+    {
+      "image": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Pipe-counter-development-candidate\\regression_examples\\11.jpg",
+      "expected": 208,
+      "actual": 208
+    }
+  ]
+}

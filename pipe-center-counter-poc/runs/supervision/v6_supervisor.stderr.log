@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\Owner\Projects\Pipe Counter New\pipe-center-counter-poc\scripts\supervised_train.py", line 145, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Owner\Projects\Pipe Counter New\pipe-center-counter-poc\scripts\supervised_train.py", line 129, in main
+    raise RuntimeError(f"Training exited with code {result}; inspect training.log")
+RuntimeError: Training exited with code 1; inspect training.log

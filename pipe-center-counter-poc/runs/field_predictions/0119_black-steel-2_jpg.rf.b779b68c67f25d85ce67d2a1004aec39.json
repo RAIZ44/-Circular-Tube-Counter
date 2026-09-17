@@ -1,0 +1,16 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\black-steel-2_jpg.rf.b779b68c67f25d85ce67d2a1004aec39.jpg",
+  "detected_count": 0,
+  "threshold": 0.27499999999999997,
+  "centers": [],
+  "geometry": {
+    "detected_count": 0,
+    "possible_gap_count": 0,
+    "possible_gap_points": [],
+    "rows": [],
+    "row_angle_degrees": 0.0,
+    "nearest_neighbor_spacing": null,
+    "horizontal_spacing": null
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0119_black-steel-2_jpg.rf.b779b68c67f25d85ce67d2a1004aec39_count_0.jpg"
+}

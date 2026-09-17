@@ -1,0 +1,33 @@
+{
+  "images": 13312,
+  "splits": {
+    "train": 10650,
+    "val": 1332,
+    "test": 1330
+  },
+  "groups": 3363,
+  "largest_group": 43,
+  "missing_images": 0,
+  "overlap": {
+    "sha256": {
+      "train/val": 0,
+      "train/test": 0,
+      "val/test": 0
+    },
+    "source_keys": {
+      "train/val": 0,
+      "train/test": 0,
+      "val/test": 0
+    },
+    "perceptual_group": {
+      "train/val": 0,
+      "train/test": 0,
+      "val/test": 0
+    },
+    "split_group": {
+      "train/val": 0,
+      "train/test": 0,
+      "val/test": 0
+    }
+  }
+}

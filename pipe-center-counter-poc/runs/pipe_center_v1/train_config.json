@@ -1,0 +1,13 @@
+{
+  "manifest_dir": "data\\processed",
+  "output_dir": "runs\\pipe_center_v1",
+  "image_size": 512,
+  "batch_size": 4,
+  "epochs": 40,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.0001,
+  "num_workers": 0,
+  "patience": 8,
+  "seed": 42,
+  "device": "xpu"
+}

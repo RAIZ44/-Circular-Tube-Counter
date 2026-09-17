@@ -1,0 +1,3 @@
+image,true_count,predicted_count,error,split_group
+C:\Users\Owner\Projects\Pipe Counter New\pipe-datasets\4-train.v4i.coco\train\IMG_20211005_142354_1_jpg.rf.6f0541a52efb286c7d9e7710362fd953.jpg,14,14,0,2de77dcb07f131cbab81a50e4accf410e572a2943cf65ade70516ac6bd6f6784
+C:\Users\Owner\Projects\Pipe Counter New\pipe-datasets\3_third_train.v3i.coco\train\t-12h18n10t_jpg.rf.9e2e883fbabc949071b20db84eaf8b57.jpg,20,40,20,86ce360f6dac3272e3d927d7ff4743bdb5be6dbff1949eb0346f7a905d58f9b7

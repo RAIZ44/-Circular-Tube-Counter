@@ -1,0 +1,22 @@
+{
+  "created_at": "2026-09-16T19:19:22.823145+00:00",
+  "version": 1,
+  "operation": "Remove only exact repeated raw-source bounding boxes from training records, preserving the first copy.",
+  "original_manifest": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed_v2\\train.jsonl",
+  "original_manifest_sha256": "c3415d9ce317c165ee63e8c3060968b6483b374b808c1a665ff9f8412bfe3e6e",
+  "revised_manifest_sha256": "3a2bdb93e807c4561522f7d2eaa8bde2040291ec9ded67ba0e8576438a6813f7",
+  "images": 10650,
+  "affected_images": 49,
+  "annotations_before": 1529564,
+  "annotations_after": 1529155,
+  "removed_duplicates": 409,
+  "images_and_group_assignments_unchanged": true,
+  "source_audit": "C:\\Users\\Owner\\Documents\\Codex\\2026-09-15\\okay-look-though-my-folder-let\\outputs\\Training-duplicate-audit\\audit.json",
+  "source_audit_sha256": "a0dabbb993592dfbb0b5fb59aeb99baec15186b0d0ff43f3fc842a326f2fd516",
+  "geometry_override_overlap": [],
+  "applied_to_training_run": false,
+  "validation_or_test_labels_changed": false,
+  "raw_data_changed": false,
+  "frozen_manifests_changed": false,
+  "note": "Versioned training-only revision, staged for a future experiment. Do not use as a standalone manifest directory: validation and test deliberately remain in processed_v2. No accuracy improvement is claimed."
+}

@@ -1,0 +1,88 @@
+{
+  "image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\01_2_png_jpg.rf.0990f3743889e73f1a5cd44c776213c7.jpg",
+  "detected_count": 9,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 495.0,
+      "y": 365.0,
+      "confidence": 0.6519830226898193
+    },
+    {
+      "x": 385.0,
+      "y": 407.5,
+      "confidence": 0.6234840154647827
+    },
+    {
+      "x": 377.5,
+      "y": 585.0,
+      "confidence": 0.6145860552787781
+    },
+    {
+      "x": 595.0,
+      "y": 327.5,
+      "confidence": 0.6091465950012207
+    },
+    {
+      "x": 575.0,
+      "y": 485.0,
+      "confidence": 0.5792930722236633
+    },
+    {
+      "x": 482.5,
+      "y": 532.5,
+      "confidence": 0.5351954698562622
+    },
+    {
+      "x": 560.0,
+      "y": 417.5,
+      "confidence": 0.5175799131393433
+    },
+    {
+      "x": 460.0,
+      "y": 460.0,
+      "confidence": 0.4923470914363861
+    },
+    {
+      "x": 405.0,
+      "y": 337.5,
+      "confidence": 0.45835208892822266
+    }
+  ],
+  "geometry": {
+    "detected_count": 9,
+    "possible_gap_count": 0,
+    "possible_gap_points": [],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 3,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 1,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 2,
+        "possible_gaps": 0
+      },
+      {
+        "row": 5,
+        "detected": 1,
+        "possible_gaps": 0
+      }
+    ],
+    "row_angle_degrees": -11.784416361883403,
+    "nearest_neighbor_spacing": 75.91113225344488,
+    "horizontal_spacing": 102.9011028763147
+  },
+  "rendered_image": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\repair_prediction_check\\0000_01_2_png_jpg.rf.0990f3743889e73f1a5cd44c776213c7_count_9.jpg"
+}

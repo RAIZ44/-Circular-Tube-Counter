@@ -1,0 +1,15 @@
+{
+  "recorded_at": "2026-09-16T22:08:48.372444+00:00",
+  "user_request": "you can explore other model architectures as well to improve accuracy. The goal is 95% +",
+  "minimum_exact_count_accuracy": 0.95,
+  "metric": "exact_count_accuracy",
+  "metric_definition": "Fraction of photos where predicted count equals the correct count exactly.",
+  "interpretation_note": "User supplied 95%+; assistant explicitly stated the working interpretation as at least 95% exactly counted photos, consistent with prior progress reports. This is a target, not measured achievement.",
+  "architecture_exploration_authorized": true,
+  "fully_automatic": true,
+  "intended_scope": "Side-by-side pipes; nesting outside scope. Preserve existing labels while shape/partial-end choices remain unanswered.",
+  "evaluation_policy": "Select architectures/checkpoints/thresholds using frozen grouped validation; preserve reserved test until candidate selection. Verify labels and operating-domain suitability before any production claim.",
+  "production_ready": false,
+  "test_evaluated": false,
+  "supersedes": "Earlier provisional 99% target. Any older in-flight run status retaining 0.99 is historical and must not override this file."
+}

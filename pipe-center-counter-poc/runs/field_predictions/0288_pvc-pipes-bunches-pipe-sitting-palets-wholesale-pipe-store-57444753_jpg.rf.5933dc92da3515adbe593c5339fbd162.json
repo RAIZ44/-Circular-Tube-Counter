@@ -1,0 +1,298 @@
+{
+  "image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\pvc-pipes-bunches-pipe-sitting-palets-wholesale-pipe-store-57444753_jpg.rf.5933dc92da3515adbe593c5339fbd162.jpg",
+  "detected_count": 50,
+  "threshold": 0.27499999999999997,
+  "centers": [
+    {
+      "x": 159.25,
+      "y": 175.5,
+      "confidence": 0.916015625
+    },
+    {
+      "x": 230.75,
+      "y": 299.0,
+      "confidence": 0.90966796875
+    },
+    {
+      "x": 261.625,
+      "y": 177.125,
+      "confidence": 0.90771484375
+    },
+    {
+      "x": 263.25,
+      "y": 295.75,
+      "confidence": 0.9072265625
+    },
+    {
+      "x": 294.125,
+      "y": 177.125,
+      "confidence": 0.9052734375
+    },
+    {
+      "x": 229.125,
+      "y": 175.5,
+      "confidence": 0.9033203125
+    },
+    {
+      "x": 388.375,
+      "y": 290.875,
+      "confidence": 0.8994140625
+    },
+    {
+      "x": 152.75,
+      "y": 300.625,
+      "confidence": 0.896484375
+    },
+    {
+      "x": 120.25,
+      "y": 173.875,
+      "confidence": 0.8955078125
+    },
+    {
+      "x": 193.375,
+      "y": 300.625,
+      "confidence": 0.89404296875
+    },
+    {
+      "x": 354.25,
+      "y": 180.375,
+      "confidence": 0.8916015625
+    },
+    {
+      "x": 61.75,
+      "y": 35.75,
+      "confidence": 0.89111328125
+    },
+    {
+      "x": 295.75,
+      "y": 294.125,
+      "confidence": 0.88916015625
+    },
+    {
+      "x": 359.125,
+      "y": 290.875,
+      "confidence": 0.8876953125
+    },
+    {
+      "x": 143.0,
+      "y": 43.875,
+      "confidence": 0.8857421875
+    },
+    {
+      "x": 34.125,
+      "y": 170.625,
+      "confidence": 0.88525390625
+    },
+    {
+      "x": 326.625,
+      "y": 178.75,
+      "confidence": 0.884765625
+    },
+    {
+      "x": 195.0,
+      "y": 175.5,
+      "confidence": 0.88427734375
+    },
+    {
+      "x": 381.875,
+      "y": 180.375,
+      "confidence": 0.8837890625
+    },
+    {
+      "x": 30.875,
+      "y": 305.5,
+      "confidence": 0.88232421875
+    },
+    {
+      "x": 74.75,
+      "y": 303.875,
+      "confidence": 0.8818359375
+    },
+    {
+      "x": 115.375,
+      "y": 302.25,
+      "confidence": 0.88134765625
+    },
+    {
+      "x": 219.375,
+      "y": 52.0,
+      "confidence": 0.87890625
+    },
+    {
+      "x": 289.25,
+      "y": 58.5,
+      "confidence": 0.8779296875
+    },
+    {
+      "x": 186.875,
+      "y": 47.125,
+      "confidence": 0.8740234375
+    },
+    {
+      "x": 107.25,
+      "y": 40.625,
+      "confidence": 0.87255859375
+    },
+    {
+      "x": 329.875,
+      "y": 292.5,
+      "confidence": 0.87255859375
+    },
+    {
+      "x": 255.125,
+      "y": 53.625,
+      "confidence": 0.86767578125
+    },
+    {
+      "x": 76.375,
+      "y": 170.625,
+      "confidence": 0.86669921875
+    },
+    {
+      "x": 373.75,
+      "y": 69.875,
+      "confidence": 0.8662109375
+    },
+    {
+      "x": 325.0,
+      "y": 61.75,
+      "confidence": 0.86474609375
+    },
+    {
+      "x": 16.25,
+      "y": 30.875,
+      "confidence": 0.85693359375
+    },
+    {
+      "x": 390.0,
+      "y": 391.625,
+      "confidence": 0.85693359375
+    },
+    {
+      "x": 349.375,
+      "y": 66.625,
+      "confidence": 0.845703125
+    },
+    {
+      "x": 401.375,
+      "y": 73.125,
+      "confidence": 0.84423828125
+    },
+    {
+      "x": 364.0,
+      "y": 393.25,
+      "confidence": 0.83056640625
+    },
+    {
+      "x": 404.625,
+      "y": 182.0,
+      "confidence": 0.806640625
+    },
+    {
+      "x": 333.125,
+      "y": 394.875,
+      "confidence": 0.80322265625
+    },
+    {
+      "x": 300.625,
+      "y": 396.5,
+      "confidence": 0.77392578125
+    },
+    {
+      "x": 234.0,
+      "y": 401.375,
+      "confidence": 0.7080078125
+    },
+    {
+      "x": 268.125,
+      "y": 399.75,
+      "confidence": 0.67138671875
+    },
+    {
+      "x": 196.625,
+      "y": 403.0,
+      "confidence": 0.6279296875
+    },
+    {
+      "x": 160.875,
+      "y": 404.625,
+      "confidence": 0.62060546875
+    },
+    {
+      "x": 409.5,
+      "y": 386.75,
+      "confidence": 0.5625
+    },
+    {
+      "x": 104.0,
+      "y": 406.25,
+      "confidence": 0.496826171875
+    },
+    {
+      "x": 6.5,
+      "y": 167.375,
+      "confidence": 0.475341796875
+    },
+    {
+      "x": 409.5,
+      "y": 289.25,
+      "confidence": 0.47265625
+    },
+    {
+      "x": 65.0,
+      "y": 407.875,
+      "confidence": 0.437744140625
+    },
+    {
+      "x": 4.875,
+      "y": 307.125,
+      "confidence": 0.39501953125
+    },
+    {
+      "x": 21.125,
+      "y": 409.5,
+      "confidence": 0.300537109375
+    }
+  ],
+  "geometry": {
+    "detected_count": 50,
+    "possible_gap_count": 1,
+    "possible_gap_points": [
+      [
+        132.4375,
+        405.4375
+      ]
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "detected": 8,
+        "possible_gaps": 0
+      },
+      {
+        "row": 2,
+        "detected": 4,
+        "possible_gaps": 0
+      },
+      {
+        "row": 3,
+        "detected": 13,
+        "possible_gaps": 0
+      },
+      {
+        "row": 4,
+        "detected": 13,
+        "possible_gaps": 0
+      },
+      {
+        "row": 5,
+        "detected": 12,
+        "possible_gaps": 1
+      }
+    ],
+    "row_angle_degrees": 0.0,
+    "nearest_neighbor_spacing": 32.54059964106378,
+    "horizontal_spacing": 33.3125
+  },
+  "rendered_image": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\field_predictions\\0288_pvc-pipes-bunches-pipe-sitting-palets-wholesale-pipe-store-57444753_jpg.rf.5933dc92da3515adbe593c5339fbd162_count_50.jpg"
+}

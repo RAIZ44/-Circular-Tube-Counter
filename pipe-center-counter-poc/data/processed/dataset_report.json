@@ -1,0 +1,2427 @@
+{
+  "data_root": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets",
+  "target_classes": [
+    "pipe",
+    "tube"
+  ],
+  "coco_json_count": 10,
+  "source_reports": [
+    {
+      "json": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\_annotations.coco.json",
+      "categories": {
+        "0": "pipe",
+        "1": "tube"
+      },
+      "selected_category_ids": [
+        0,
+        1
+      ],
+      "records": 303,
+      "annotations": 23441,
+      "ignored_class_annotations": 0,
+      "invalid_annotations": 1,
+      "missing_images": [
+        "image-plastic-pipes-thermal-insulation-city-communications-pipe-laying-late-communications-water-pipes-plastic-pipes-image-201215361_jpg.rf.670d84747682e48a9cdff94ccb65f24f.jpg"
+      ],
+      "missing_image_count": 1
+    },
+    {
+      "json": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "categories": {
+        "0": "pipe",
+        "1": "tube"
+      },
+      "selected_category_ids": [
+        0,
+        1
+      ],
+      "records": 2375,
+      "annotations": 177089,
+      "ignored_class_annotations": 0,
+      "invalid_annotations": 12,
+      "missing_images": [
+        "wholesale-sewer-pipes-stacked-shelves-composition-building-materials-composition-building-materials-sewer-pipes-stacked-159604109_jpg.rf.0aea6cdb4182ebb42a3f2a9ab8d14b8d.jpg",
+        "image-plastic-pipes-thermal-insulation-city-communications-pipe-laying-late-communications-water-pipes-plastic-pipes-image-201215361_jpg.rf.5e58778711187c54dd453b39feee9105.jpg"
+      ],
+      "missing_image_count": 2
+    },
+    {
+      "json": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\_annotations.coco.json",
+      "categories": {
+        "0": "pipe",
+        "1": "tube"
+      },
+      "selected_category_ids": [
+        0,
+        1
+      ],
+      "records": 469,
+      "annotations": 38639,
+      "ignored_class_annotations": 0,
+      "invalid_annotations": 2,
+      "missing_images": [
+        "warehouse-finished-plastic-pipes-industrial-outdoors-storage-site-pvc-pipes-stacked-warehouse-warehouse-finished-plastic-188665173_jpg.rf.930a8eb45c7859e60abf83c2f74b54a0.jpg"
+      ],
+      "missing_image_count": 1
+    },
+    {
+      "json": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\_annotations.coco.json",
+      "categories": {
+        "0": "pipe-owdi",
+        "1": "tube"
+      },
+      "selected_category_ids": [
+        1
+      ],
+      "records": 506,
+      "annotations": 24441,
+      "ignored_class_annotations": 0,
+      "invalid_annotations": 0,
+      "missing_images": [
+        "picture-plastic-pipes-underground-communications-city-communications-city-sewer-pipe-laying-late-communications-water-pipes-189304950_jpg.rf.3ec1afe3f454963a01922d338c4654b5.jpg",
+        "image-plastic-pipes-thermal-insulation-city-communications-pipe-laying-late-communications-water-pipes-plastic-pipes-image-201215361_jpg.rf.455d01b815f344b8e701a8d547ea7f22.jpg",
+        "image-plastic-pipes-thermal-insulation-city-communications-pipe-laying-late-communications-water-pipes-plastic-pipes-image-201215361_jpg.rf.1f931e5356c6c1e94db4a6198f0199f9.jpg"
+      ],
+      "missing_image_count": 3
+    },
+    {
+      "json": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "categories": {
+        "0": "pipe-owdi",
+        "1": "tube"
+      },
+      "selected_category_ids": [
+        1
+      ],
+      "records": 2532,
+      "annotations": 112910,
+      "ignored_class_annotations": 0,
+      "invalid_annotations": 0,
+      "missing_images": [
+        "warehouse-finished-plastic-pipes-industrial-outdoors-storage-site-pvc-pipes-stacked-warehouse-warehouse-finished-plastic-188665173_jpg.rf.445fb37e2cf11046f010ed5308455c3b.jpg",
+        "warehouse-finished-plastic-pipes-industrial-outdoors-storage-site-pvc-pipes-stacked-warehouse-warehouse-finished-plastic-188665173_jpg.rf.0ed07c93d5c81e88987c1742a2a0a9d6.jpg",
+        "picture-plastic-pipes-underground-communications-city-communications-city-sewer-pipe-laying-late-communications-water-pipes-189304950_jpg.rf.386b951274dad2c2e674bf81b53401a9.jpg",
+        "warehouse-finished-plastic-pipes-industrial-outdoors-storage-site-pvc-pipes-stacked-warehouse-warehouse-finished-plastic-188665173_jpg.rf.3ef678a54aa4a91d8097cadcd4d75813.jpg",
+        "image-plastic-pipes-thermal-insulation-city-communications-pipe-laying-late-communications-water-pipes-plastic-pipes-image-201215361_jpg.rf.187438c12b148e0e0bd625f2030ca65d.jpg"
+      ],
+      "missing_image_count": 5
+    },
+    {
+      "json": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "categories": {
+        "0": "pipe-owdi",
+        "1": "tube"
+      },
+      "selected_category_ids": [
+        1
+      ],
+      "records": 684,
+      "annotations": 32406,
+      "ignored_class_annotations": 0,
+      "invalid_annotations": 0,
+      "missing_images": [
+        "warehouse-finished-plastic-pipes-industrial-outdoors-storage-site-pvc-pipes-stacked-warehouse-warehouse-finished-plastic-188665173_jpg.rf.b5f904831e65132edc1f0d320f4df381.jpg",
+        "warehouse-finished-plastic-pipes-industrial-outdoors-storage-site-pvc-pipes-stacked-warehouse-warehouse-finished-plastic-188665173_jpg.rf.45fdf3ef477744fd18c55adb61734e4f.jpg",
+        "image-plastic-pipes-thermal-insulation-city-communications-pipe-laying-late-communications-water-pipes-plastic-pipes-image-201215361_jpg.rf.97c9fc31a41a0847081c1adb9636f39e.jpg",
+        "picture-plastic-pipes-underground-communications-city-communications-city-sewer-pipe-laying-late-communications-water-pipes-189304950_jpg.rf.738063dfa5b0822671512b63efe3d727.jpg"
+      ],
+      "missing_image_count": 4
+    },
+    {
+      "json": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "categories": {
+        "0": "pipes",
+        "1": "tube"
+      },
+      "selected_category_ids": [
+        1
+      ],
+      "records": 2185,
+      "annotations": 143378,
+      "ignored_class_annotations": 0,
+      "invalid_annotations": 9,
+      "missing_images": [
+        "image-plastic-pipes-thermal-insulation-city-communications-pipe-laying-late-communications-water-pipes-plastic-pipes-image-201215361_jpg.rf.68787cc705700020c80bdd2482dd74ba.jpg",
+        "image-plastic-pipes-thermal-insulation-city-communications-pipe-laying-late-communications-water-pipes-plastic-pipes-image-201215361_jpg.rf.3ead4177fd7227a3ea9664a93ce738e2.jpg"
+      ],
+      "missing_image_count": 2
+    },
+    {
+      "json": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\_annotations.coco.json",
+      "categories": {
+        "0": "pipes",
+        "1": "tube"
+      },
+      "selected_category_ids": [
+        1
+      ],
+      "records": 205,
+      "annotations": 15789,
+      "ignored_class_annotations": 0,
+      "invalid_annotations": 0,
+      "missing_images": [],
+      "missing_image_count": 0
+    },
+    {
+      "json": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "categories": {
+        "0": "objects",
+        "1": "tube"
+      },
+      "selected_category_ids": [
+        1
+      ],
+      "records": 7326,
+      "annotations": 1423117,
+      "ignored_class_annotations": 0,
+      "invalid_annotations": 21,
+      "missing_images": [],
+      "missing_image_count": 0
+    },
+    {
+      "json": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\_annotations.coco.json",
+      "categories": {
+        "0": "objects",
+        "1": "tube"
+      },
+      "selected_category_ids": [
+        1
+      ],
+      "records": 963,
+      "annotations": 182921,
+      "ignored_class_annotations": 0,
+      "invalid_annotations": 2,
+      "missing_images": [],
+      "missing_image_count": 0
+    }
+  ],
+  "records_before_deduplication": 17548,
+  "unique_images": 13305,
+  "duplicate_copies_removed": 4243,
+  "annotation_conflict_count": 139,
+  "annotation_conflicts": [
+    {
+      "sha256": "d3793d63bc8a466d0200f1841b06e6487cbac2406afe32e8d27d0bd1f9204dfd",
+      "annotation_counts": [
+        52
+      ],
+      "selected_count": 52,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\2022_10_05_11_31_IMG_4311_JPG_jpg.rf.49e660c11ff278ba6b716f544bf81991.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_31_IMG_4311_JPG_jpg.rf.256d69e391888e1175b764f4b6b397e7.jpg"
+      ]
+    },
+    {
+      "sha256": "7f7cc87ed700256243aff21d47d3dc30a84a9a17979463c9b8ca5632d7053e04",
+      "annotation_counts": [
+        50,
+        61
+      ],
+      "selected_count": 61,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\istockphoto-1251439699-612x612_jpg.rf.b1f2d32943e73139b1e7cbd23cbbfc7c.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1251439699-612x612_jpg.rf.152b67d26a348ed25e994496fe511236.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1251439699-612x612_jpg.rf.98f5009adb46b30e60ebf646aec95b24.jpg"
+      ]
+    },
+    {
+      "sha256": "54753dc6173bf012af5e8ee54f2bb11e71780264d689ca6f0eef02686d3af07c",
+      "annotation_counts": [
+        91
+      ],
+      "selected_count": 91,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\afe4cc6dd7j_jpg.rf.b7f36791a831256188853920ce90ed54.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\Pipes_1_afe4cc6dd7j_jpg.rf.890dc85a0c2d7c5d578e496067a1b281.jpg"
+      ]
+    },
+    {
+      "sha256": "531eb5f6a50d61c71450f37c3b5562503f78d20a906a4de9747cbf0930de2333",
+      "annotation_counts": [
+        90,
+        92
+      ],
+      "selected_count": 92,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\pvc-conduit-pipes-stacked-darkened-centers-pvc-conduit-pipes-stacked-darkened-centers-edge-124020380_jpg.rf.550b6c330e2ca67ac94947ace6c4d337.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\pvc-conduit-pipes-stacked-darkened-centers-pvc-conduit-pipes-stacked-darkened-centers-edge-124020380_jpg.rf.55e01c61e36dc6954cfc0fdd50a68bc5.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\pvc-conduit-pipes-stacked-darkened-centers-pvc-conduit-pipes-stacked-darkened-centers-edge-124020380_jpg.rf.4002b0e5b15ba89ebcc6ca34d5d08a49.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\pvc-conduit-pipes-stacked-darkened-centers-pvc-conduit-pipes-stacked-darkened-centers-edge-124020380_jpg.rf.d88a18b5ab8e50cf84f00de343e66efe.jpg"
+      ]
+    },
+    {
+      "sha256": "a894f447da06a3a7ac5b65c1cc40ec04b2fb5543eeec3ddfd36b44b2b05c3ddd",
+      "annotation_counts": [
+        10,
+        13
+      ],
+      "selected_count": 13,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\product-jpeg-500x500_jpg.rf.8444630a3f52bd2143a10bf3993f0642.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\product-jpeg-500x500_jpg.rf.987206db4c6f5030122e5b79dc832530.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\product-jpeg-500x500_jpg.rf.31f5ad05d2fa964d8be7e48507c1d057.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\product-jpeg-500x500_jpg.rf.752328decd445d92c9dec288823cdd0b.jpg"
+      ]
+    },
+    {
+      "sha256": "4ddb9d1ccfe19267eaaac510c5a504b20485adc48a22ad8228b3dfd83707e501",
+      "annotation_counts": [
+        73,
+        76
+      ],
+      "selected_count": 76,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\istockphoto-1152976477-612x612_jpg.rf.069e365676c9d6c4ab56882838a4b0b2.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\istockphoto-1152976477-612x612_jpg.rf.425aea7861192949218f1f4279346c84.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1152976477-612x612_jpg.rf.a606cb1d1c544fd9482829b7b90d4c2c.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1152976477-612x612_jpg.rf.dc5ea9d550eab410fed5f9b2479df4f3.jpg"
+      ]
+    },
+    {
+      "sha256": "0675baffd5f768a149f01888354987c04268bf18e82ab080db97a060f269b8f6",
+      "annotation_counts": [
+        33,
+        41
+      ],
+      "selected_count": 41,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\istockphoto-532858864-612x612_jpg.rf.8784a000ade7328319916b9482ee2a36.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-532858864-612x612_jpg.rf.28ba03dd51d9457db9e46c266fd45775.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-532858864-612x612_jpg.rf.4f76093c18067dc0510bf43c5139d057.jpg"
+      ]
+    },
+    {
+      "sha256": "45912b6a0a5c7186fd319c2616bb5acd3ab16fa041b4659b3c54023e65a2ce32",
+      "annotation_counts": [
+        18,
+        28
+      ],
+      "selected_count": 28,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\cast-iron-pipe_jpg.rf.e3eff14fb594b00ed12c1644dac9fc91.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\cast-iron-pipe_jpg.rf.219b7bf8a2e5732605a2130fe7b23294.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\cast-iron-pipe_jpg.rf.4bc45c2d68ec8a5f83cdc723fc5e66b5.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\cast-iron-pipe_jpg.rf.05bea63ce8083d072655f99feac30788.jpg"
+      ]
+    },
+    {
+      "sha256": "5213f72b305c18197b815c3a20ae47365444cd1b2e7d24e25c31420eab068e31",
+      "annotation_counts": [
+        93,
+        95
+      ],
+      "selected_count": 95,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\texture-plastic-pipes-section-169679190_jpg.rf.02d0fa02f3cf4a4060419f7acca27c0c.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\texture-plastic-pipes-section-169679190_jpg.rf.17d3a7b1c9a4a61f84a1130c390c89d4.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\texture-plastic-pipes-section-169679190_jpg.rf.35d331234e16a846a4fbe8e61cb672c6.jpg"
+      ]
+    },
+    {
+      "sha256": "398e372466e2de71f954bffdc1e9f57652f748394c489d1e129470e7ccff3c9e",
+      "annotation_counts": [
+        50
+      ],
+      "selected_count": 50,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\2022_10_05_11_30_IMG_4207_JPG_jpg.rf.d3f45e33cc18b9018cb32dd44ad05388.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4207_JPG_jpg.rf.8c3a573ef5dbc368ede69edfd4ddd207.jpg"
+      ]
+    },
+    {
+      "sha256": "973abbb38ac56772a1de6c11839d5c95a2844e915a598efb4ad18fe814ff5d02",
+      "annotation_counts": [
+        192,
+        198
+      ],
+      "selected_count": 198,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\Counting-Input-2020-09-01-062944_jpg.rf.744b5da37cdd742c9ece061336db53aa.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\Counting-Input-2020-09-01-062944_jpg.rf.44773bc5c58ac4417914c596f3058742.jpg"
+      ]
+    },
+    {
+      "sha256": "da01ca18d926b7a76643c688f2ecbdd3626f57c5fce771fa1770f0fbebbaf7cb",
+      "annotation_counts": [
+        90,
+        91
+      ],
+      "selected_count": 91,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\diy_pvc_pipe_jpg.rf.f35db558352c5ec34d341d5ce1e52f53.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\diy_pvc_pipe_jpg.rf.cacff6c9bff920a43ca64657490b15f5.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\diy_pvc_pipe_jpg.rf.ab73a0744ac38e20da243bad9e4b00cd.jpg"
+      ]
+    },
+    {
+      "sha256": "246ff9ed885107370485a9ec811db3f598a3b509ca0e4c0153f7ea0565162ba9",
+      "annotation_counts": [
+        21
+      ],
+      "selected_count": 21,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\164_jpg.rf.f930ae3cf4c2e39ac1c803b102fc7075.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\164_jpg.rf.d1b4b22ebf973c33cb721e3ba60312c5.jpg"
+      ]
+    },
+    {
+      "sha256": "a69b6da2e4f4ac0f469b2538047adfa86c87e9dd22d2c6829f727be486a24ec3",
+      "annotation_counts": [
+        61,
+        62
+      ],
+      "selected_count": 62,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\pile-new-steel-pipes-construction-site-25248828_jpg.rf.e1e9dd7ffd3a023971331b694c98b8ce.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\pile-new-steel-pipes-construction-site-25248828_jpg.rf.602702d9a24e9f3b40f2ffaa21e86bb0.jpg"
+      ]
+    },
+    {
+      "sha256": "b09055698e3a9e25d44bc2e7e12a1ebee5013707ebc4753392ce89a5f2725c22",
+      "annotation_counts": [
+        7,
+        10
+      ],
+      "selected_count": 10,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\istockphoto-176062851-612x612_jpg.rf.cf437cbed7b0dfef39ed79c092cc391d.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-176062851-612x612_jpg.rf.07b144aa2cdb9ce44da2646eb2467b33.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-176062851-612x612_jpg.rf.34a49f5c53c47a6eca52f5d5b7ae6948.jpg"
+      ]
+    },
+    {
+      "sha256": "d5e95fa81f73929c2c8dde87379619c3e5a674f0ea74d1e951d5c51010ecf764",
+      "annotation_counts": [
+        200,
+        210
+      ],
+      "selected_count": 210,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\P1510556_JPG_jpg.rf.08a80315eae7244130d2219764a74eab.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\P1510556_JPG_jpg.rf.41e4fc2780717b10d4ce62d93429787c.jpg"
+      ]
+    },
+    {
+      "sha256": "ea243aca69e521faaf17485a7f57efec9aa742c8abaf90c800c6f35c861c1dec",
+      "annotation_counts": [
+        33,
+        34
+      ],
+      "selected_count": 34,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\istockphoto-1368584669-612x612_jpg.rf.5135934b6dece49027e55980e929e7ff.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1368584669-612x612_jpg.rf.1023827766625ab3c2e16766b818758a.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1368584669-612x612_jpg.rf.44e4afa594a69f1e8b6b985c14c92eff.jpg"
+      ]
+    },
+    {
+      "sha256": "5ab11932fd9d24fa269e5674d55bf9a177de7e8c8192d163f0853e333f738102",
+      "annotation_counts": [
+        229,
+        230
+      ],
+      "selected_count": 230,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\istockphoto-1319050782-612x612_jpg.rf.8b606f53bef08e3b1283222f58609c6a.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1319050782-612x612_jpg.rf.b028e472eb2500692a20f6dd3db26129.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1319050782-612x612_jpg.rf.5845487efa27fdf4d6a9eb904364e869.jpg"
+      ]
+    },
+    {
+      "sha256": "5f1f06a3888f524c7568df3abe10c7f504f6ea8be44fe98372558db1f676f17c",
+      "annotation_counts": [
+        8,
+        9
+      ],
+      "selected_count": 9,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\download_jpg.rf.351aa55161ad2703481a1e9c361af9bd.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\download_jpg.rf.f0f45d22ebf1d495993dd5e4440c1e0d.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\download_jpg.rf.0a4f05bae7234cd34b0f1e69f25e13f3.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\download_jpg.rf.8cfb2d17a3786b37af719c92f47ca4bf.jpg"
+      ]
+    },
+    {
+      "sha256": "dd2fdfbd5e90f88dcc8e15b1d495037e2a38419c3dea7aa42fa0e12487405753",
+      "annotation_counts": [
+        7,
+        8
+      ],
+      "selected_count": 8,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\Stainless-Steel-304-304L-Pipes-Manufacturers-Factory-Wholesalers-India_jpg.rf.9e23ed2eb1ef3a7c134c61e4b90effce.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\Stainless-Steel-304-304L-Pipes-Manufacturers-Factory-Wholesalers-India_jpg.rf.f7aa0a2519d1405d996f7a86acef9aa0.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\Stainless-Steel-304-304L-Pipes-Manufacturers-Factory-Wholesalers-India_jpg.rf.af17de0034a343b71375fecf78d74508.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\Stainless-Steel-304-304L-Pipes-Manufacturers-Factory-Wholesalers-India_jpg.rf.b4af5c078d79e352e848a696aaebae70.jpg"
+      ]
+    },
+    {
+      "sha256": "637ce387af0bf71c2ec2d09d0dae18f58bc700b4e4d0f3ab91f12054b098aa7a",
+      "annotation_counts": [
+        50
+      ],
+      "selected_count": 50,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\2022_10_05_11_30_IMG_4227_JPG_jpg.rf.87b66cbf166b650323da65433b97f992.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4227_JPG_jpg.rf.8d37f77d6bef1f18a5303e0c96e5a273.jpg"
+      ]
+    },
+    {
+      "sha256": "cdbc267567906dedc8840bc7f3a3a8707a37d2dd30e1cdf46b63b63e9d3847ab",
+      "annotation_counts": [
+        20,
+        21
+      ],
+      "selected_count": 21,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\pile-concrete-pipes-pile-concrete-pipes-front-construction-area-115277498_jpg.rf.7693906aff350bdc9ec57f2a77308909.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\pile-concrete-pipes-pile-concrete-pipes-front-construction-area-115277498_jpg.rf.0269ab9a35fc81f1d26ea1234e06bc70.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\pile-concrete-pipes-pile-concrete-pipes-front-construction-area-115277498_jpg.rf.69ee04e3f4b5488fe4a52e3b427a91a4.jpg"
+      ]
+    },
+    {
+      "sha256": "c36b91ab03e2df5cd2d4441bc4551a114d64c91921440c73fec74e4175fb444c",
+      "annotation_counts": [
+        122,
+        124
+      ],
+      "selected_count": 124,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\istockphoto-1147058046-612x612_jpg.rf.19516dc51dd735f4650215acef70a415.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1147058046-612x612_jpg.rf.cc02649bcb535d989d812714b7bcb476.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1147058046-612x612_jpg.rf.d87b377361f985bc403b6aaeed66cc7a.jpg"
+      ]
+    },
+    {
+      "sha256": "523c4287b21792779d1d3b00f3bb09844b99f006f9a62c72586456cca42b0a23",
+      "annotation_counts": [
+        90,
+        93
+      ],
+      "selected_count": 93,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\stock-photo-pvc-pipes-stacked-in-factory-775927717_jpg.rf.df68741cd5db50442b783897df335b71.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\stock-photo-pvc-pipes-stacked-in-factory-775927717_jpg.rf.f9727841253ee37604ecfc3f03f2fa0f.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\stock-photo-pvc-pipes-stacked-in-factory-775927717_jpg.rf.f539830c90ae628100d31ce3af7b4137.jpg"
+      ]
+    },
+    {
+      "sha256": "d0ca96179621cb611d6c0c8e671dec4054fbe47a229bed02276714b87963fb77",
+      "annotation_counts": [
+        27,
+        29
+      ],
+      "selected_count": 29,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\red-corrugated-pipes-laying-electric-cables-background-optical-fibers-44696557_jpg.rf.5246b2cbca7655cad6cdcbfca21c8c67.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\red-corrugated-pipes-laying-electric-cables-background-optical-fibers-44696557_jpg.rf.948ade90365aaee98e95fb99933fc083.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\red-corrugated-pipes-laying-electric-cables-background-optical-fibers-44696557_jpg.rf.e16ba4733850f6c06c339d7fa940317b.jpg"
+      ]
+    },
+    {
+      "sha256": "4865bf68e291592b269a87af222138d961e1a44f58d4f56d577f4ecdd7461558",
+      "annotation_counts": [
+        20,
+        21
+      ],
+      "selected_count": 21,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\pvc-pipes-22576120_jpg.rf.1a4be06751411341f82a8a5f12556e82.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\pvc-pipes-22576120_jpg.rf.d5e2430375bed5406d36a86f2f403645.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\pvc-pipes-22576120_jpg.rf.ac311b1e7164e69553cf08807eb400d6.jpg"
+      ]
+    },
+    {
+      "sha256": "0ba42efa22defd69ec7fe1393806bc13dc9af12ab5191cad20320b99ff2bd62c",
+      "annotation_counts": [
+        19,
+        20
+      ],
+      "selected_count": 20,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\istockphoto-1279685379-612x612_jpg.rf.4787ce18c765e3d462bbd52480c8c532.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1279685379-612x612_jpg.rf.752d88f4745ce9f70457d57bd1d76521.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1279685379-612x612_jpg.rf.c18a1261dab4459f45fdd227bcfb1376.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1279685379-612x612_jpg.rf.e3c04af18a878629475bbf518eee7d94.jpg"
+      ]
+    },
+    {
+      "sha256": "77ed193749db9a0817395f7e561896a35c0c098d2119b7fcd56a7e3458f62028",
+      "annotation_counts": [
+        45
+      ],
+      "selected_count": 45,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\Pipes_1_esi-Jakarta_jpg.rf.81509ab37e0b70145e5f262078ef3541.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\esi-Jakarta_jpg.rf.28e79799641c0081891c076da4580e9b.jpg"
+      ]
+    },
+    {
+      "sha256": "401f4474ff4cc942773ad47381aa63865234089731ce3ea44a35c7965776e1a3",
+      "annotation_counts": [
+        19,
+        41
+      ],
+      "selected_count": 41,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\3498739_jpg.rf.6e71f11e3352ebe5a7a2edd607363146.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\3498739_jpg.rf.40326e23864322ce7f10fe8456d727c6.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\3498739_jpg.rf.b6c7ef60179e8c7e5ec96d1bb9b91c23.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\3498739_jpg.rf.4d5905be5733897e518db26c0224dac1.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\3498739_jpg.rf.a09ccd48c8e43dbf3222872211cdd66e.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\3498739_jpg.rf.0b7a26c91654e7623ae2c1826432e910.jpg"
+      ]
+    },
+    {
+      "sha256": "742d1bc3c22ab6e3d61315e77f35c7caf254b8a595c33e24e924a107e86cf4fa",
+      "annotation_counts": [
+        51,
+        52
+      ],
+      "selected_count": 52,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\2022_10_05_11_31_IMG_4403_JPG_jpg.rf.684572745cd057ac9f960a396362243e.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\2022_10_05_11_31_IMG_4403_JPG_jpg.rf.dd3323a235e77c6dbe0659daf152087c.jpg"
+      ]
+    },
+    {
+      "sha256": "714dc291534cd17512d96ae9884380f1312e45d9ccd35d8ea9ad931e2b425656",
+      "annotation_counts": [
+        72,
+        73
+      ],
+      "selected_count": 73,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\248847637_jpg.rf.c85a14fa849f7102e0c9d8cebaa50ddc.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\248847637_jpg.rf.c5eae25b9a50e9b60440bd9e7e47c678.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\248847637_jpg.rf.0268433e28e48758b5824d118ab653a5.jpg"
+      ]
+    },
+    {
+      "sha256": "85f8b38a98bbe936d64302aa205a97caed4a779d8f16fab17acb34a7ddf8a56e",
+      "annotation_counts": [
+        557,
+        563
+      ],
+      "selected_count": 563,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\98_jpeg_jpg.rf.11318c5d5c5b971ec35557b4ca8e9d46.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\98_jpeg_jpg.rf.d17c786c1d3b6620477b622c5f8099a7.jpg"
+      ]
+    },
+    {
+      "sha256": "951d62c1f40562c84de19cc6345f64d8b87dcee68d79a1ca41c6955e6d88c3b4",
+      "annotation_counts": [
+        21,
+        22
+      ],
+      "selected_count": 22,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\istockphoto-512524387-612x612_jpg.rf.90d0aed6943b158b76202caa9282749d.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-512524387-612x612_jpg.rf.fe98fa12ffaa3458ec72ce85dfa3faca.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-512524387-612x612_jpg.rf.718f3ce0dbaf14717ce257568384b435.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-512524387-612x612_jpg.rf.5518ec251b8cb2bc388e58d0d811cda8.jpg"
+      ]
+    },
+    {
+      "sha256": "43ac0ecd17590f4203f013bd157d931e2691b5abe0627355b91920567ed35a9c",
+      "annotation_counts": [
+        200,
+        204
+      ],
+      "selected_count": 204,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\P1510519_JPG_jpg.rf.789f773fc9bd6fddd1fae8abaa5652d1.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\P1510519_JPG_jpg.rf.d714233730e2a550c8c4225b91454058.jpg"
+      ]
+    },
+    {
+      "sha256": "164ea4258ae434fed3a086b5846e2f200f99fcb96aa6f8915ef499c6968f5e92",
+      "annotation_counts": [
+        28,
+        32
+      ],
+      "selected_count": 32,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\istockphoto-109841554-612x612_jpg.rf.4304e57732bc6b6d9785845fbfa9fbed.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-109841554-612x612_jpg.rf.121f1bf82e88af5bcdf58d4e9d8aa613.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-109841554-612x612_jpg.rf.fad488b72c3698ed3a0e080ab6f4c261.jpg"
+      ]
+    },
+    {
+      "sha256": "ffe045ece2871103b804c1fc7f17a86ac79c7edba5840e9118acc09bbcea95e7",
+      "annotation_counts": [
+        59,
+        67
+      ],
+      "selected_count": 67,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\plastic-pipes-orange-full-frame-35756499_jpg.rf.76f74329280289261b954b7a04c96498.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\plastic-pipes-orange-full-frame-35756499_jpg.rf.9ec13eb4cd0916c6acd3e4da3b19ee10.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\plastic-pipes-orange-full-frame-35756499_jpg.rf.d407a002458587394fa0cd04735406f6.jpg"
+      ]
+    },
+    {
+      "sha256": "e17d3536e71120503a41967d3f425793d147206f6676bb75347a1262f85a8f0c",
+      "annotation_counts": [
+        20,
+        27
+      ],
+      "selected_count": 27,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\ratna-upvc-water-pipes-500x500_jpg.rf.2e9af60cc5d7b5c87cbb2c5e635ba81d.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\ratna-upvc-water-pipes-500x500_jpg.rf.fb5a494fa665dd278ce078a11f314388.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\ratna-upvc-water-pipes-500x500_jpg.rf.5b403f47957dc13663c313e77127e165.jpg"
+      ]
+    },
+    {
+      "sha256": "13e940dcc62948a48536d85944c5d10bddb4497b3731f1910813351d0d2552c4",
+      "annotation_counts": [
+        55,
+        59
+      ],
+      "selected_count": 59,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\gray-pvc-tubes-plastic-pipes-stacked-gray-pvc-tubes-plastic-pipes-stacked-rows-light-shinning-175105377_jpg.rf.ee74fc2ecd9944eb67857cc5233f1799.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\gray-pvc-tubes-plastic-pipes-stacked-gray-pvc-tubes-plastic-pipes-stacked-rows-light-shinning-175105377_jpg.rf.3f34fa71e31d3fa95016d8eec356cb61.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\gray-pvc-tubes-plastic-pipes-stacked-gray-pvc-tubes-plastic-pipes-stacked-rows-light-shinning-175105377_jpg.rf.dbc6b48339b08337369c22d5d5a28d98.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\gray-pvc-tubes-plastic-pipes-stacked-gray-pvc-tubes-plastic-pipes-stacked-rows-light-shinning-175105377_jpg.rf.5f62ef5655938b6e8b1166e55bfd0195.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\gray-pvc-tubes-plastic-pipes-stacked-gray-pvc-tubes-plastic-pipes-stacked-rows-light-shinning-175105377_jpg.rf.636735d5513ce6919f04a85af133187d.jpg"
+      ]
+    },
+    {
+      "sha256": "94cb3d86026a180fcded42e6a0b4534d8d79c48d594ebc580330b683dba2643b",
+      "annotation_counts": [
+        42,
+        46
+      ],
+      "selected_count": 46,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\pvc-agricultural-pipe-e1504855385517_jpg.rf.11859d3b7a967488f54e95edb7cde5c4.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\pvc-agricultural-pipe-e1504855385517_jpg.rf.ec580660ed0cf6952e54a03eae2ba184.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\pvc-agricultural-pipe-e1504855385517_jpg.rf.c560dbc15cb7ec01f56766d92d294135.jpg"
+      ]
+    },
+    {
+      "sha256": "794292ebde340a13586d25f2f43dbff25be0d675098f7e9160a4e2e5cf1e7eac",
+      "annotation_counts": [
+        59
+      ],
+      "selected_count": 59,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\test_003_jpg.rf.1b8ca187ad42599bf6d774704541244a.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\test_003_jpg.rf.95edc2a94d1995ed8a4c80d6058aecff.jpg"
+      ]
+    },
+    {
+      "sha256": "35bebdcd3ada1ae5475aef91f61e232c44a17b668150a16201bfdf03365759a3",
+      "annotation_counts": [
+        20,
+        22
+      ],
+      "selected_count": 22,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\images-14-_jpg.rf.811d66192c9582fdeb188ebf5acfe1a8.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\images-14-_jpg.rf.7dbd8628e0aba6605ea56d298997cf02.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\images-14-_jpg.rf.173dfb7304515fa615880c3191a90475.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\images-14-_jpg.rf.50e4ffdbb2d7b408596d5398df533ba0.jpg"
+      ]
+    },
+    {
+      "sha256": "9793089e1125057f97f419f3c424e0600327d96c4c4e7454a1e43317e6443f95",
+      "annotation_counts": [
+        12,
+        13
+      ],
+      "selected_count": 13,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\istockphoto-509929798-612x612_jpg.rf.f58b80feb70af2e7937f86576c61aa7b.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-509929798-612x612_jpg.rf.8937892e41cd767b4adf5961e4970259.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-509929798-612x612_jpg.rf.6c7df7da1def88279d86a0e3007e4e21.jpg"
+      ]
+    },
+    {
+      "sha256": "14b6211b4aaf3d15775462f9dd908b0fc93cbd29ee3d62d383e7817fa4ee145e",
+      "annotation_counts": [
+        23,
+        26
+      ],
+      "selected_count": 26,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\plastic-sewer-pipes-stacked-building-site-background-ofl-big-used-158088375_jpg.rf.2570b93aa857649e13389202d1b10e4d.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\plastic-sewer-pipes-stacked-building-site-background-ofl-big-used-158088375_jpg.rf.6620541d958675b831e2415fcba2d640.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\plastic-sewer-pipes-stacked-building-site-background-ofl-big-used-158088375_jpg.rf.0235862de35b221931866e5c87fba251.jpg"
+      ]
+    },
+    {
+      "sha256": "a3968eb999e6e3aa8f56a7d8759ac232d91b0e418e18ad514fad5afbaead5d7b",
+      "annotation_counts": [
+        50
+      ],
+      "selected_count": 50,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\2022_10_05_11_30_IMG_4259_JPG_jpg.rf.5ace4afe0000ea3398fdcff81bd30e73.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4259_JPG_jpg.rf.2eb69ed1f801657248a2bf5d77632d38.jpg"
+      ]
+    },
+    {
+      "sha256": "ca00ae8c160151e9400afa27b1bf6acce196e43d3e015300b084fd155789e6ba",
+      "annotation_counts": [
+        100
+      ],
+      "selected_count": 100,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\test_017_jpg.rf.4af9558fa46832be65279acb3c3dc3fe.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\test_017_jpg.rf.37e408373723cc4b69f6c73429895d0e.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\test_017_jpg.rf.7d3c3480e5f9b879001674892e9cb394.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\test_017_jpg.rf.a8bca255398fee5491282a2ca61656df.jpg"
+      ]
+    },
+    {
+      "sha256": "c04f3deddf0aa8570175fb37982983f832f4f67c790bef10aee276216a27013c",
+      "annotation_counts": [
+        61,
+        63
+      ],
+      "selected_count": 63,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\istockphoto-832180798-612x612_jpg.rf.76a05cddf32ec649fb258eca742f0a0f.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-832180798-612x612_jpg.rf.1e311875a150628862623675ae0ddfa1.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-832180798-612x612_jpg.rf.32f4d92a894293f0728468e5ed409054.jpg"
+      ]
+    },
+    {
+      "sha256": "eaeb4b017404c146f722f1f3fd9abf26f3e9c4a27864e48ed96443f96d7a96f8",
+      "annotation_counts": [
+        30,
+        31
+      ],
+      "selected_count": 31,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\istockphoto-1279685304-612x612_jpg.rf.c680a624c4b273c0a85b5d9cb5ee4ee8.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1279685304-612x612_jpg.rf.46d024590405e59687b0743a9982a68a.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1279685304-612x612_jpg.rf.3a413a23c273336bb3d4e10a1cfad0b5.jpg"
+      ]
+    },
+    {
+      "sha256": "7cdd1081440bcb168352b6a61be0aac346ac814ffc815ee50994732d69290810",
+      "annotation_counts": [
+        80,
+        91
+      ],
+      "selected_count": 91,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\MS-Pipes_jpg.rf.eb83c5509aef1aef741b6f4f283e6b23.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\MS-Pipes_jpg.rf.c69371087192051b6390456a6e3a5adb.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\MS-Pipes_jpg.rf.7655189fdaddd46039b13e759e4ba5e4.jpg"
+      ]
+    },
+    {
+      "sha256": "4b064aa909a54d987d3a3968d8348fd4c4eb9b9807897c11f6ae300b7ff311c7",
+      "annotation_counts": [
+        58,
+        59
+      ],
+      "selected_count": 59,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\2022_10_05_11_28_IMG_3787_JPG_jpg.rf.06c7793d3f896a57628f089a4274ce07.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_28_IMG_3787_JPG_jpg.rf.51d6804f563e02b42866f98414712566.jpg"
+      ]
+    },
+    {
+      "sha256": "320f596c1429f6b88de33e1a5b146c8f9d1306e515c368063f865f03ed6e0a1f",
+      "annotation_counts": [
+        135,
+        139
+      ],
+      "selected_count": 139,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\large-black-plastic-pipes-water-supply-large-black-plastic-pipes-water-supply-113711661_jpg.rf.121b912bc99478a3603d11f19e6a67f2.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\large-black-plastic-pipes-water-supply-large-black-plastic-pipes-water-supply-113711661_jpg.rf.af0404c026328f4f2781703ea9bc5bcc.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\large-black-plastic-pipes-water-supply-large-black-plastic-pipes-water-supply-113711661_jpg.rf.8f5f97bc16937a3f05f8bf0bec0f64f3.jpg"
+      ]
+    },
+    {
+      "sha256": "b7b1274ed828aae2a42ace4257aa50a607a8407e2c43d75b3d90276a77dacf9b",
+      "annotation_counts": [
+        31,
+        37
+      ],
+      "selected_count": 37,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\load-flack-pvc-pipes-truck-53811485_jpg.rf.0a1b21d695effbba9a4e65331d3b5c16.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\load-flack-pvc-pipes-truck-53811485_jpg.rf.eaf0bf7fb52ac308d246b264c682a744.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\load-flack-pvc-pipes-truck-53811485_jpg.rf.5ca92fdf9b17a851414dc9ad5d8af626.jpg"
+      ]
+    },
+    {
+      "sha256": "4900cb41cc9c4081f87fea7e5d8ea7a445e6a94451d219af1220eaad9ea77cdd",
+      "annotation_counts": [
+        128,
+        131
+      ],
+      "selected_count": 131,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\blue-yellow-pvc-water-pipes-warehouse-92902712_jpg.rf.e0182178e8b2f74cf7b8710add78a653.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\blue-yellow-pvc-water-pipes-warehouse-92902712_jpg.rf.783b9d9843125590788f875b47874054.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\blue-yellow-pvc-water-pipes-warehouse-92902712_jpg.rf.17c2cee2fe470e8efcb3a9b97c724b3d.jpg"
+      ]
+    },
+    {
+      "sha256": "b28dd4540f5ecd4726ede3a5b233e892a07eba6d635a32b03543837808959fe1",
+      "annotation_counts": [
+        73,
+        77
+      ],
+      "selected_count": 77,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\train\\248847637_jpg.rf.0c0d87c7c1e1035e9e9437053bcc5640.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\248847637_jpg.rf.492d00ebe009ab40ac0ea4c9d8a555b5.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\248847637_jpg.rf.574be6c5817b586f2753de54735e167d.jpg"
+      ]
+    },
+    {
+      "sha256": "6eb2ba770b7fc92eb85093ccbdd567f100493ba8bb4a72a1a402020b889fe8c8",
+      "annotation_counts": [
+        89,
+        99
+      ],
+      "selected_count": 99,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\istockphoto-1137306858-612x612_jpg.rf.48f038598c622b0388e72c3f01b1ada4.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\istockphoto-1137306858-612x612_jpg.rf.a08fc22597385ef816f69dbc4888f4a1.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1137306858-612x612_jpg.rf.e9c5c8c6230c5e817e3af179e02be7d8.jpg"
+      ]
+    },
+    {
+      "sha256": "c2954653e0f0b48bfb12145a384e7835b43248677ea8e7b3912548e9f9a82c46",
+      "annotation_counts": [
+        400,
+        401
+      ],
+      "selected_count": 401,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\Counting-Input-2020-09-02-211458_jpg.rf.f01489c7f739d5c5a84d5c3f430e904b.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\Counting-Input-2020-09-02-211458_jpg.rf.ffa04d2b4ca4aef08bb0b18c6872cc4b.jpg"
+      ]
+    },
+    {
+      "sha256": "db0f189d99890a1113d085e542191a01a9b5c27d362720da75613d61147e111c",
+      "annotation_counts": [
+        10,
+        12
+      ],
+      "selected_count": 12,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\new-orange-plastic-sewer-pipes-located-outdoors-new-orange-plastic-sewer-pipes-located-outdoors-construction-site-202884199_jpg.rf.7d41ca681a96ca9471a2f8d189f7e617.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\new-orange-plastic-sewer-pipes-located-outdoors-new-orange-plastic-sewer-pipes-located-outdoors-construction-site-202884199_jpg.rf.120a4a2c669de1e487cc1df28a115549.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\new-orange-plastic-sewer-pipes-located-outdoors-new-orange-plastic-sewer-pipes-located-outdoors-construction-site-202884199_jpg.rf.47c3f0b9d72826a2833ad6ed747b59f5.jpg"
+      ]
+    },
+    {
+      "sha256": "e1e331906974570905f962070927bef4453f8144ae1a19a812b37fbd97eb5767",
+      "annotation_counts": [
+        32
+      ],
+      "selected_count": 32,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\images-5-_jpg.rf.2d5be86cec30069d94f87d26473e78f3.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\images-5-_jpg.rf.6e0eb36da496f4b00591c92f846605c0.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\images-5-_jpg.rf.3a9623cd36cafaefc1265d9a49a5be4b.jpg"
+      ]
+    },
+    {
+      "sha256": "96fbb5a7808847753dee001740969cd5515efa5beb0975bd99383c0957b51fbe",
+      "annotation_counts": [
+        243
+      ],
+      "selected_count": 243,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\valid\\81_jpeg.rf.554ccabff1a3a4894baeb4186e87ae60.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\81_jpeg.rf.b883f6c37ddf5b0216558afd22edf882.jpg"
+      ]
+    },
+    {
+      "sha256": "4cf89d0c1b8fe25d0a7ec790f07070c283125774d47b3224a95d952877212440",
+      "annotation_counts": [
+        1
+      ],
+      "selected_count": 1,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\images-3_jpeg_jpg.rf.115df4d11c3a5b77bfc33a1de1308564.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\images-3_jpeg_jpg.rf.aa9d7e1207182449cfce1f1df6fcece4.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\images-3_jpeg_jpg.rf.8f0cf143d2bd13e2766aa42be6a5de29.jpg"
+      ]
+    },
+    {
+      "sha256": "b7c46a27ad5fd0a56183b4702cb2d13c64e0c90fab2be85023e353d4995a71b3",
+      "annotation_counts": [
+        16,
+        17
+      ],
+      "selected_count": 17,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\plastic-pipes-stock-finished-products-stacked-packs-plastic-pipes-stock-finished-products-stacked-packs-131823269_jpg.rf.6e17bd5c38d9447da980627cc8ac1bd7.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\plastic-pipes-stock-finished-products-stacked-packs-plastic-pipes-stock-finished-products-stacked-packs-131823269_jpg.rf.8c9e1b561f8f988c7367d204d329e2a7.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\plastic-pipes-stock-finished-products-stacked-packs-plastic-pipes-stock-finished-products-stacked-packs-131823269_jpg.rf.d21dd0131e6f649fb84ffc5d73e531f9.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\plastic-pipes-stock-finished-products-stacked-packs-plastic-pipes-stock-finished-products-stacked-packs-131823269_jpg.rf.aa4e4bb1f270883dbedcff907e988d09.jpg"
+      ]
+    },
+    {
+      "sha256": "c32825e52e3ec10a9a750b7adb6fc9e64015ebcf5ea170826e8ff55d352e2d6f",
+      "annotation_counts": [
+        70
+      ],
+      "selected_count": 70,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-1311058937-612x612_jpg.rf.d12334160f4897abc8d2a13486a44ba3.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1311058937-612x612_jpg.rf.d019a3645e0f6b2bb7b11e74dc0daa63.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1311058937-612x612_jpg.rf.6d20268a01ef43b2d6731ff6985c7b20.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1311058937-612x612_jpg.rf.67e24ee6489ded535b6f82d0c34da32a.jpg"
+      ]
+    },
+    {
+      "sha256": "9cb21494523e2c146b824f73f7ce5c448eeca9204bc4e00c7dabf86c154e2f59",
+      "annotation_counts": [
+        86
+      ],
+      "selected_count": 86,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\plastic-pipes-stock-finished-products-stacked-packs-131823294_jpg.rf.ba4d45cb31dcacd61f49515056aebe46.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\plastic-pipes-stock-finished-products-stacked-packs-131823294_jpg.rf.fa3905aee11025207aaa4dd9de027417.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\plastic-pipes-stock-finished-products-stacked-packs-131823294_jpg.rf.2645929ba53dc6e967b5b56794b56cfc.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\plastic-pipes-stock-finished-products-stacked-packs-131823294_jpg.rf.667a296a8652802c43f308aada26f902.jpg"
+      ]
+    },
+    {
+      "sha256": "bdbb646695be7c9b756f1a63993e8fe9c2e917d1d4d07b359773ebf2ba22730d",
+      "annotation_counts": [
+        32
+      ],
+      "selected_count": 32,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-174900278-612x612_jpg.rf.5c1bb99a74c7713e9bd64bc0ff91ffad.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-174900278-612x612_jpg.rf.a25236c0062318f16ae6cca55ce5032d.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-174900278-612x612_jpg.rf.da127043e5ab5f9e6964710ac4ce4711.jpg"
+      ]
+    },
+    {
+      "sha256": "d09817dd79a8cc717348270c1f74713aa2ccf3494610d001fc24eb2afb9b44e3",
+      "annotation_counts": [
+        9
+      ],
+      "selected_count": 9,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-1319044732-612x612_jpg.rf.a56d8bd91b82a9ab9bf7e154a990b2ef.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1319044732-612x612_jpg.rf.cc9dc287a6ed42a8ef032e7a042af14e.jpg"
+      ]
+    },
+    {
+      "sha256": "443f9fea18e51488f8332db65fa200a6b536e78fcdd0b0c765852c091b0bf9a2",
+      "annotation_counts": [
+        1
+      ],
+      "selected_count": 1,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\images-9_jpeg_jpg.rf.7069ae14edf7abe91d3a3835ed9480bb.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\images-9_jpeg_jpg.rf.4ef05627d415b318421cc5a918e93d56.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\images-9_jpeg_jpg.rf.aa44b4750e2cd8689c42d4823fb572f5.jpg"
+      ]
+    },
+    {
+      "sha256": "fbbe6dc009c9081da8a0c4d5779318f76da93d7571e19df5a27d5a26d8543584",
+      "annotation_counts": [
+        99,
+        101
+      ],
+      "selected_count": 101,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\agricultural-pvc-pipe-500x500_jpg.rf.41925af27062d9b1971f30d422225080.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\agricultural-pvc-pipe-500x500_jpg.rf.c33088395f6e3a92ff54a40c47b96a15.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\agricultural-pvc-pipe-500x500_jpg.rf.0779757ce0e70e6697b7712b8bf236b5.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\agricultural-pvc-pipe-500x500_jpg.rf.67ab40006ce77fac2f7730287f6dfce0.jpg"
+      ]
+    },
+    {
+      "sha256": "d2402c8acd92ca5e5f307f771fc4f81c36f01667010a31793834c326ddec52ef",
+      "annotation_counts": [
+        1
+      ],
+      "selected_count": 1,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-1305734724-612x612_jpg.rf.a14e91f84309e921b765222e4c99eaa6.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1305734724-612x612_jpg.rf.d2d19c94429ed722bf3cfa26298c324d.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\istockphoto-1305734724-612x612_jpg.rf.2e42b1e4b63d79cbdfe579e2ea698f61.jpg"
+      ]
+    },
+    {
+      "sha256": "2f01dc450a2208f98a64abcc1fd32e9c412d96bfe2212fa78a7c332a3e2b3f49",
+      "annotation_counts": [
+        21,
+        23
+      ],
+      "selected_count": 23,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-1133891069-612x612_jpg.rf.a4ae7104efe4a3290896bb27d52c4a33.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1133891069-612x612_jpg.rf.9b07d65410737ba484c9cdd5f2cedd4e.jpg"
+      ]
+    },
+    {
+      "sha256": "4c9a51d1daf97347ddfb1223ebd47400a97c6931600fc583d137b5673a909c38",
+      "annotation_counts": [
+        22,
+        24
+      ],
+      "selected_count": 24,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-1133891069-612x612_jpg.rf.0ce477a7d26a662781645e7282db3310.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1133891069-612x612_jpg.rf.026590262940243e55e38eb6b881bbc3.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\istockphoto-1133891069-612x612_jpg.rf.a01c5993fe9f412443c4b18932acecc2.jpg"
+      ]
+    },
+    {
+      "sha256": "f65cc18f035c917cb68f5c06489e33fd525f14ee195cd9c7206d7ee898a46ba0",
+      "annotation_counts": [
+        20,
+        21
+      ],
+      "selected_count": 21,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-1181011765-612x612_jpg.rf.73707138ef9cf6ba10370a7a081593ee.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1181011765-612x612_jpg.rf.4e7406afc66499c237ce58512c899110.jpg"
+      ]
+    },
+    {
+      "sha256": "9ab6fa3e7284976ddcf334aa5da92cc51fda889a11a338d42ed5604043af8f92",
+      "annotation_counts": [
+        3
+      ],
+      "selected_count": 3,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-1172014461-612x612_jpg.rf.412ce9784780e599b93b8ae9a6a1fcb1.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1172014461-612x612_jpg.rf.80d3ad6525c48e9eba5f0f1a5072998e.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1172014461-612x612_jpg.rf.1ec60b0d5fd3854104947c45e42e13f1.jpg"
+      ]
+    },
+    {
+      "sha256": "964f0767f6efca5a5b3430b6f5f0975eef32b00598918b04cbfef349f41f6976",
+      "annotation_counts": [
+        9,
+        12
+      ],
+      "selected_count": 12,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-900352732-612x612_jpg.rf.0d0d7ad59b425dccd015ff2009da7506.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-900352732-612x612_jpg.rf.7eaabcdba35c6930cebd804576a634cc.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-900352732-612x612_jpg.rf.6b2b39ed19b539794c7059806d9155f4.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-900352732-612x612_jpg.rf.6e2e27b7835d1bd072320a5ed55cf125.jpg"
+      ]
+    },
+    {
+      "sha256": "37e9ee5a00a4380e1c535bbe4e6a4099ea76ec1304c3948373afa5d1986aa1f6",
+      "annotation_counts": [
+        10
+      ],
+      "selected_count": 10,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-1356133828-612x612_jpg.rf.07e07d53a4c0da053da83bd8c8d6fa6e.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1356133828-612x612_jpg.rf.55702925c3057ea215e20afa3d08dd60.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1356133828-612x612_jpg.rf.6a7af5871ee66b5c1ede1e47791c7b5c.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\istockphoto-1356133828-612x612_jpg.rf.69968e3ab1b46e053b88891eacbeba0a.jpg"
+      ]
+    },
+    {
+      "sha256": "e72ad2e79e1dfa1af8385b1c122f15ca4bd314553dddd96d83ff348b887763dd",
+      "annotation_counts": [
+        35,
+        36
+      ],
+      "selected_count": 36,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\jindal-ms-pipe-500x500_jpg.rf.5b1695d6560aeefbffac21ee17bedbcf.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\jindal-ms-pipe-500x500_jpg.rf.fd4f6ce4037174e2f1e36a8fc37b4b56.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\jindal-ms-pipe-500x500_jpg.rf.56975f1214a998d2acd68c2b0f2af39c.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\jindal-ms-pipe-500x500_jpg.rf.0db78b00104f4891d8ea2c487fabaf15.jpg"
+      ]
+    },
+    {
+      "sha256": "9c085b060257a9d14af4c7dd8eb50ceac520c5cec0f9f1acf68994aa3e0109fe",
+      "annotation_counts": [
+        28,
+        29
+      ],
+      "selected_count": 29,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-977077148-612x612_jpg.rf.8130945cc88650ad41f30b3431edabf1.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-977077148-612x612_jpg.rf.1bb1f23d5b4983867d115bf6e884764c.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-977077148-612x612_jpg.rf.c550b4dbae7e0d8dab454c002f11040f.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\istockphoto-977077148-612x612_jpg.rf.2182d8250ec93f5c1d81094c5144abb2.jpg"
+      ]
+    },
+    {
+      "sha256": "046e582dd0f60bdf70c4b53aed6a2ca5e72f39e1754f6d8777118ead5436f248",
+      "annotation_counts": [
+        64,
+        65
+      ],
+      "selected_count": 65,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\ss-317-pipe-500x500_jpg.rf.f5cb5600e67f13f38b720546b91eaebf.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\ss-317-pipe-500x500_jpg.rf.7778e6abc1e009727d27d0c463f086fc.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\ss-317-pipe-500x500_jpg.rf.e452c5c5a170ab8951c356617c13e410.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\ss-317-pipe-500x500_jpg.rf.1bcda871d007f7673486a8fefef45161.jpg"
+      ]
+    },
+    {
+      "sha256": "825773317568dd3242e6d8545140e685a5d146ce6e67a130875bd518755bcd1c",
+      "annotation_counts": [
+        3
+      ],
+      "selected_count": 3,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\water-pipes-large-diameter-water-pipes-city-water-supply-water-pipes-large-diameter-water-pipes-city-water-supply-216959185_jpg.rf.4bfbeac55afb8f43944e92e51fe43172.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\water-pipes-large-diameter-water-pipes-city-water-supply-water-pipes-large-diameter-water-pipes-city-water-supply-216959185_jpg.rf.2387836e615e5b5ab62fb55c012b700d.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\water-pipes-large-diameter-water-pipes-city-water-supply-water-pipes-large-diameter-water-pipes-city-water-supply-216959185_jpg.rf.39f4141fc0c177399c2ee9d1fd23214f.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\water-pipes-large-diameter-water-pipes-city-water-supply-water-pipes-large-diameter-water-pipes-city-water-supply-216959185_jpg.rf.e52e35ca149b40300e35f56bcfe36129.jpg"
+      ]
+    },
+    {
+      "sha256": "37c0b7cf7bb0a0ae7d28f47e1ef3ff11a356de67402f6b16f1bd3ec35b93f69b",
+      "annotation_counts": [
+        11,
+        12
+      ],
+      "selected_count": 12,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\stack-pvc-water-pipes-construction-site-place-text-ad-space-stack-pvc-water-pipes-106941863_jpg.rf.ba181d62beb4adc7e93146147a17f5a2.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\stack-pvc-water-pipes-construction-site-place-text-ad-space-stack-pvc-water-pipes-106941863_jpg.rf.1b2cff7e6249bec4944e485d169fa215.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\stack-pvc-water-pipes-construction-site-place-text-ad-space-stack-pvc-water-pipes-106941863_jpg.rf.ba190364b333c08fccc37bbceb799662.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\stack-pvc-water-pipes-construction-site-place-text-ad-space-stack-pvc-water-pipes-106941863_jpg.rf.527f4a1a4574c755a20ebbe2439c4f5a.jpg"
+      ]
+    },
+    {
+      "sha256": "e1d19865f02de6341ceac96bda15ae4121c3d0b4a5c7edf664e28c86f7777942",
+      "annotation_counts": [
+        25,
+        34
+      ],
+      "selected_count": 34,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\old-concrete-pipes-construction-site-old-concrete-pipes-overgrown-grass-192168451_jpg.rf.86fded3223a4aa8045fb54e7b734d1c4.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\old-concrete-pipes-construction-site-old-concrete-pipes-overgrown-grass-192168451_jpg.rf.4a16a87a2a21f36051ab9ec401f85e59.jpg"
+      ]
+    },
+    {
+      "sha256": "5acd88d265f5c314328370542d6cd5963d73436a3ceec8789433512692f4b04b",
+      "annotation_counts": [
+        5,
+        6
+      ],
+      "selected_count": 6,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\overhaul-pvc-water-pipes-city-front-view-blurred-background-water-supply-concept-repair-utilities-overhaul-pvc-174808183_jpg.rf.ee68f4ef8d4eb7c25e712949ca798b85.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\overhaul-pvc-water-pipes-city-front-view-blurred-background-water-supply-concept-repair-utilities-overhaul-pvc-174808183_jpg.rf.bdd25e98908e3a6ffb2ff4edbd2bae69.jpg"
+      ]
+    },
+    {
+      "sha256": "2b12f4e0264ee9dcde6a3e94a686ecd84dba0b12decbbd70c234724a810b2962",
+      "annotation_counts": [
+        1
+      ],
+      "selected_count": 1,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\images-14_jpeg_jpg.rf.3ce196e740c471688f2c818ca3348c5d.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\images-14_jpeg_jpg.rf.cfa3bf5f43a3fb621923bf3641f954d5.jpg"
+      ]
+    },
+    {
+      "sha256": "bd7b9f508fc108a04a32f1f853f13fbc476d777681388e0e6ce273526160f6ec",
+      "annotation_counts": [
+        33
+      ],
+      "selected_count": 33,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\heavy-duty-pvc-pipe-500x500_png_jpg.rf.8976091d556b9cd21fc4bd8e9e266a85.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\heavy-duty-pvc-pipe-500x500_png_jpg.rf.730c1fe3eb25be3acf0ea019c316dd12.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\heavy-duty-pvc-pipe-500x500_png_jpg.rf.e73c12ea003561d05f440c657834a4f1.jpg"
+      ]
+    },
+    {
+      "sha256": "8401ddc310b157201e6bbed31a1f7439a7d48d46b9f24d7007234fa56520499d",
+      "annotation_counts": [
+        27,
+        33
+      ],
+      "selected_count": 33,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-641517180-612x612_jpg.rf.fa8c4489cdf80775eef41eafda7cb5ee.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-641517180-612x612_jpg.rf.9358a924f66e4d4418df3a3c7f9e678f.jpg"
+      ]
+    },
+    {
+      "sha256": "0a52f3e183fc7b6cf840d7f79d038104ff4aa6a551e7e4f42c406fd1e0e6f71c",
+      "annotation_counts": [
+        81,
+        85
+      ],
+      "selected_count": 85,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\test_pipe_r_multi2_jpeg_jpg.rf.eb8de4b5a2fa98d8689f7dec23ef0ae3.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\test_pipe_r_multi2_jpeg_jpg.rf.3419d0669d7094e2e395c193845f92db.jpg"
+      ]
+    },
+    {
+      "sha256": "b24c8c92d27bfc13f6bad5255e354a1403562cc174a1c0a0104a8d21404d2582",
+      "annotation_counts": [
+        1
+      ],
+      "selected_count": 1,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\images-13_jpeg_jpg.rf.39477b7f4b70bbdf177d65b39446cddd.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\images-13_jpeg_jpg.rf.0286bcf20a89c1fdab323800d76bc900.jpg"
+      ]
+    },
+    {
+      "sha256": "1c025a6d957b605911eb07ede61d9080c6ce4616754ea9456f644b3e5337e032",
+      "annotation_counts": [
+        1
+      ],
+      "selected_count": 1,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\images-11_jpeg_jpg.rf.092bc7f540c5cdf3380d82660a7adf37.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\images-11_jpeg_jpg.rf.095328669c945eac17c065d145d13ad9.jpg"
+      ]
+    },
+    {
+      "sha256": "e25ed895df0dc5c2d14277c047751b037c809d5ad6e4f3fda9195efc9f47f5fe",
+      "annotation_counts": [
+        19,
+        41,
+        43
+      ],
+      "selected_count": 43,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\3498739_jpg.rf.0d5bf2a68a301e79ba1342ab2fdf2a8b.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\3498739_jpg.rf.27725a8e1c59ac18b3c29086989271c4.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\3498739_jpg.rf.ae663e146d946b14ace8137112cf9ba5.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\3498739_jpg.rf.713c9758ec2581e019612e943926d6a9.jpg"
+      ]
+    },
+    {
+      "sha256": "b81210e47e6949d765615d9f1aad72cdeb2f8e5442b6a2db729613d18e815bab",
+      "annotation_counts": [
+        81,
+        85
+      ],
+      "selected_count": 85,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\test_pipe_r_multi2_jpeg_jpg.rf.1587227e10a87447c993f57f6f44a43a.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\test_pipe_r_multi2_jpeg_jpg.rf.450f3de49ff45c44ba3af4e088cf5ec9.jpg"
+      ]
+    },
+    {
+      "sha256": "1a1ce6702da8b5eff51af1afbfe4dbebf36756e6170de9fd1e2ba8f1d1615ac7",
+      "annotation_counts": [
+        26,
+        32
+      ],
+      "selected_count": 32,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-155385671-612x612_jpg.rf.921d9af3103cf14283cacf2173941078.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-155385671-612x612_jpg.rf.322a4200749a6610b779dfc4f460d7a7.jpg"
+      ]
+    },
+    {
+      "sha256": "720b97e7e20f6aa1ac5394aab014fd5f17a0b6239f4bd16179fd143c42e15fcb",
+      "annotation_counts": [
+        70,
+        73
+      ],
+      "selected_count": 73,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\istockphoto-996952742-612x612_jpg.rf.25d9d1026b1f5476b46ced18831b592b.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-996952742-612x612_jpg.rf.84d2a861b8959ade7dda7ac4cedb4225.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\istockphoto-996952742-612x612_jpg.rf.a877f11901715afac88ab2429bb6a76a.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\istockphoto-996952742-612x612_jpg.rf.6b83d2f458c76f6a21e69c03da8ff541.jpg"
+      ]
+    },
+    {
+      "sha256": "451ec45409f2d1d4a6ca3b9007ae8868c9a02ff5f26274465f08ceb5df019eee",
+      "annotation_counts": [
+        84,
+        85
+      ],
+      "selected_count": 85,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\20220928-163016_jpeg_jpg.rf.4dfdcd3517b73b0e34474e942593b346.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\20220928-163016_jpeg_jpg.rf.20e69577b759a62140ab9dd8b587062d.jpg"
+      ]
+    },
+    {
+      "sha256": "7f791cd5bdce6bed78dc0b680ad8b5a0f61472db98918d69988dc547a03fb298",
+      "annotation_counts": [
+        128,
+        129
+      ],
+      "selected_count": 129,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\test\\stacks-blue-circle-pipes-hollow-close-up-133924884_jpg.rf.55cc9b8085d6374d16f1b3ea1c3c7e9e.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\stacks-blue-circle-pipes-hollow-close-up-133924884_jpg.rf.3c70e61753a0a15869d8f57888368b5b.jpg"
+      ]
+    },
+    {
+      "sha256": "fbce7c40e3b41aa85d14aeed7e9a3db18140f17693ae28d7e66f50e7102760fa",
+      "annotation_counts": [
+        2
+      ],
+      "selected_count": 2,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\there-wide-range-sizes-thicknesses-colors-addition-novel-type-pipeline-has-entered-scene-recent-years-flexible-104782382_jpg.rf.1ea82fb5360fcb24bfcde0f00a27b021.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\there-wide-range-sizes-thicknesses-colors-addition-novel-type-pipeline-has-entered-scene-recent-years-flexible-104782382_jpg.rf.cd4dc4f63b97608ced7424d915c959a1.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\there-wide-range-sizes-thicknesses-colors-addition-novel-type-pipeline-has-entered-scene-recent-years-flexible-104782382_jpg.rf.6dec32d365658d3728f0d8da30650320.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\there-wide-range-sizes-thicknesses-colors-addition-novel-type-pipeline-has-entered-scene-recent-years-flexible-104782382_jpg.rf.2b6b4ccb15fb839c8bcfe1579b4e4ca3.jpg"
+      ]
+    },
+    {
+      "sha256": "005928e4d766aefa7e1a1725924fd3fd4bc84f2dc42a90a83132f080c5aaef45",
+      "annotation_counts": [
+        26,
+        27
+      ],
+      "selected_count": 27,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\rigid-pvc-pipe-500x500_jpg.rf.02cda5af55758d9a49d3a3bde086578f.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\rigid-pvc-pipe-500x500_jpg.rf.3ead798057cf46f232f4ef7d9379875b.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\rigid-pvc-pipe-500x500_jpg.rf.0bebb8a2333d14c60aebd5c3b7fac9af.jpg"
+      ]
+    },
+    {
+      "sha256": "ba7eed2f9d5580773143d8d391a84aabb0b254850da1f0a607e4aaa662bfa792",
+      "annotation_counts": [
+        32,
+        35
+      ],
+      "selected_count": 35,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\old-concrete-pipes-construction-site-old-concrete-pipes-overgrown-grass-192168451_jpg.rf.e1d5b46f95162b7474d193015280faea.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\old-concrete-pipes-construction-site-old-concrete-pipes-overgrown-grass-192168451_jpg.rf.13c92de3769ab343eed68cd379420543.jpg"
+      ]
+    },
+    {
+      "sha256": "ab7235aa95e38539f00071f499f61a7561ec2b4fb1c5e120daa6cb53cb877dbc",
+      "annotation_counts": [
+        25,
+        34
+      ],
+      "selected_count": 34,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\old-concrete-pipes-construction-site-old-concrete-pipes-overgrown-grass-192168451_jpg.rf.fbbc7a9f657fa4b23193c94c677c7296.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\old-concrete-pipes-construction-site-old-concrete-pipes-overgrown-grass-192168451_jpg.rf.85ab2d66ca84c2aaa7022fdd79c04214.jpg"
+      ]
+    },
+    {
+      "sha256": "d0a38e6107031bf811a7b5d31080f173c626722df5ebe95cd27ee2562af5fdd5",
+      "annotation_counts": [
+        73,
+        76
+      ],
+      "selected_count": 76,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1152976477-612x612_jpg.rf.781cf662b94fdc723f19aeb738bb618c.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1152976477-612x612_jpg.rf.b25b72a937efacb4f5abc7846dc1b45e.jpg"
+      ]
+    },
+    {
+      "sha256": "1ed4c21afc9cfe85fea2d2c047bc397ba50d172bfa89ada226f13974a6938e32",
+      "annotation_counts": [
+        8,
+        9
+      ],
+      "selected_count": 9,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\download_jpg.rf.d5c92e74393ef1f1413db469788ab40c.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\download_jpg.rf.bbeb9142a4a7c1817573501dfb97a638.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\download_jpg.rf.19216d3762eeb606c5f3f8fd4ee6dd43.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\download_jpg.rf.7d86224d27ae23b6e7196a2ea96c738e.jpg"
+      ]
+    },
+    {
+      "sha256": "b6fcecb529796ea5ff3999987495a2bddf4b22ee6e49f432b5f6a9ac65b45f0d",
+      "annotation_counts": [
+        37,
+        38
+      ],
+      "selected_count": 38,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1351625516-612x612_jpg.rf.ce252ffc49dcb1e124f97bbc85458b28.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\istockphoto-1351625516-612x612_jpg.rf.715401127157acd7356f1b3d2ea7ae9a.jpg"
+      ]
+    },
+    {
+      "sha256": "7283d5a8c45e1cfd895315db282d7b02e821dc743ab3ff30a66134c6e2895eb7",
+      "annotation_counts": [
+        26,
+        27
+      ],
+      "selected_count": 27,
+      "selected_source": "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\_annotations.coco.json",
+      "copies": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\various-size-pvc-pipes-multi-43976555_jpg.rf.ae7cc35440b4802bcb479451d6ba8c47.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\various-size-pvc-pipes-multi-43976555_jpg.rf.26fb6318d12322a62944862a6ecff1cb.jpg"
+      ]
+    }
+  ],
+  "possible_near_duplicate_group_count": 2800,
+  "possible_near_duplicate_groups": [
+    {
+      "perceptual_group": "1.00:063:04705a74512fc37e:d7d5606a32b33532",
+      "image_count": 5,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\2022_10_05_11_28_IMG_3944_JPG_jpg.rf.d2ad94a98bcffd816417f5dcdf4d2de2.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\2022_10_05_11_28_IMG_3935_JPG_jpg.rf.d7f6a7b94a3d41496a631aba21bc4608.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\2022_10_05_11_28_IMG_3890_JPG_jpg.rf.f99859785a277896bbe3ea862512feeb.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_28_IMG_3935_JPG_jpg.rf.fabb58e0c9a3f3d371fac04592a940ee.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_28_IMG_3944_JPG_jpg.rf.ecfbc3e2293dd24d28700a9f1ac3a767.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:030:8060ac747876bcdc:974ae82d537878f0",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\116_jpeg_jpg.rf.14c7e0e89eff84f82da5cb0393356726.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\116_jpeg_jpg.rf.ab5676ea4789c8e3e669a3977b4e7580.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:037:74ee1f07866cf8b2:b46ad996681bf611",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\pipe_20230614_id_142394_1686731748475_jpeg_jpg.rf.9ead0504a787086599994ca423de60be.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\pipe_20230614_id_142394_1686731748475_jpeg_jpg.rf.058d2f3013ce4438ac5fe6e471d4f0f0.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:052:0f192b51591949b8:faad95c0856738ca",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\pipe_20230622_id_157033_1687430076879_jpeg_jpg.rf.8ad5df672ae0c774c61c2145b0fdc5cf.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\pipe_20230622_id_157033_1687430076879_jpeg_jpg.rf.7404c7e892eddd89119d429a9331e4f9.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:046:b6c65696d6525640:c5b0968cd8d8d3d3",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\1196598634ea0fa8bbd63a9611ecb31e_jpg.rf.e8f756b38e22ceeb9bdb2b7d0cf06a29.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\1196598634ea0fa8bbd63a9611ecb31e_jpg.rf.9e89ef82c97d5ae8f08710fd6b6638a9.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.33:055:0f716969494d1dc1:efb7e0bae02ac0e0",
+      "image_count": 3,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\Counting-Input-2020-09-01-071408_jpg.rf.99ec760a7c32fd89856fcb5b7bf52cda.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\Counting-Input-2020-09-01-071408_jpg.rf.3bfa8215f34293c0f5ab0ecd63d8a073.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\Counting-Input-2020-09-01-071408_jpg.rf.89fff06615fbb1e597ab47b678d02959.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:054:c8dcdeb7868184fa:80b2d1495d4b6fe5",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_20221026_150302_jpg.rf.e12db68cce7d3c552b481411baac9a34.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\IMG_20221026_150302_jpg.rf.1b4396d6168f60e228ca8b682fa3ba52.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.33:042:3b5e3e7f3f3d3c3e:bd29894b4856d3d9",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_20220718_105844_jpg.rf.fdde711fe060d6a10f9e1ab168a0a081.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\IMG_20220718_105844_jpg.rf.ecf22bae4021ce58dee6fe4fa52e63a9.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:063:d0df5d3dbf3b3ef6:b54a5569527d4a6c",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\2022_10_05_11_30_IMG_4176_JPG_jpg.rf.98d94c2b57eb4c89be9e03358d9e03ae.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\2022_10_05_11_30_IMG_4176_JPG_jpg.rf.c870a0d6c1e852e981eb3b29a204c70b.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:084:aededabc7e7eaede:95d326ceb1c94b61",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\2022_10_05_11_31_IMG_4373_JPG_jpg.rf.f1dd6a331d0ebb41f07af96293ffc1b1.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_31_IMG_4373_JPG_jpg.rf.cf4996ccf6c13e83207ab5db9e01ba55.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.04:054:313d75adf9f9f98f:aadcf5c9e4c0861e",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\1688028854_jpg.rf.761ca8e09d4d064ab985906aed57388e.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\1688028854_jpg.rf.adbd0a67ee347ca82fb46e7a10818faa.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:033:0795313b7f6b8b43:a9966666a59889db",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\21_jpg.rf.f7ab479448e3612598662450ddbee4c6.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\21_jpg.rf.e851bf8d036efea7f6a1fdf81414504b.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:039:9c184125048e8bc2:e01fc17c0f215eab",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\2022_10_05_11_30_IMG_4154_JPG_jpg.rf.65e158adf65a583406e5e5e7a7d6c935.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4154_JPG_jpg.rf.6def1818b2fafab4481d7b2e796e6d82.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.33:053:e5a15150491f7f1e:ff42a424c797a08f",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\DJI_0456_JPG_jpg.rf.0e405892aefe1bc3531e0c6a9c20f477.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\DJI_0456_JPG_jpg.rf.02e1e8ff41d4f14bbfeaa66d6b8f004c.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:058:9c0e27c4c2d1e044:f4b4f3c3d180db09",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG20201111145741_jpg.rf.f9561f818e4a0a23549814481f4aba92.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG20201111145741_jpg.rf.20fc37cd0db0395dc036d70f3f33873e.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.33:066:704e0f0f0f052f1e:fbc39548b886c475",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\184_jpeg.rf.8a6efa5b29ec207991315439d964e4f7.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\184_jpeg.rf.214ebd5788b73d022255b1699905ea9a.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:090:13078ebc1f1f794e:b9e04f3810dce7e1",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\Counting-Input-2020-09-02-122107_jpg.rf.f3112dfab02e102c9cbce00c2402f452.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\Counting-Input-2020-09-02-122107_jpg.rf.457ccf1ddcbb475f81d1b0ddd7103cc4.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.41:056:983cdd3c01050f1f:fe83b06fd520486b",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\Pipes_1_237f762303-_jpg.rf.8992303165be7e3f7078de29d5d1b827.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\Pipes_1_237f762303-_jpg.rf.7aca93300a3329a82b050c36f14b7e51.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:080:305c5f3513050307:ee1d8748dc4ea5a4",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\01_2_png_jpg.rf.40d3430f7bd478bb9e7b592b3a9eee48.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\01_2_png_jpg.rf.53345ad81856f065e1702bb1637de6f2.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:056:f64cb1b1ac9a99a2:90dd87355d981e0f",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG20201105151553_jpg.rf.d0af237f34792f1cf1a04e65f4acb1ce.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG20201105151553_jpg.rf.9ac4dffcab97ca355e3da3bbfb7af587.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:057:dcd4acaca4ac8717:b4142dcf2ca3d15d",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\pipe_20230626_id_142394_1687759564368_jpeg_jpg.rf.cf9d1f93ff529b5bf29f68306d6e3208.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\pipe_20230626_id_142394_1687759564368_jpeg_jpg.rf.4403295a6e56f408460a00e42fae9a12.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:063:04705a54412e837e:d7d5606a72a33532",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\2022_10_05_11_28_IMG_3916_JPG_jpg.rf.7ef5f9fba53cd6b4c10bd12c0cc1308b.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_28_IMG_3916_JPG_jpg.rf.1909ce2dfc6520f9ce4ffe61cf6f3f47.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:043:9888b466b2c6ca94:d5b291c1dbc7544c",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG20201105135027_jpg.rf.02b9ee7eb0232510938e762839685553.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG20201105135027_jpg.rf.4b8444744875f841aa9b524024cc72f4.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.33:041:b0f0f87c795d0d9c:9adc956b213bb0b4",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\163_jpeg.rf.40c5c450478f7c54d91f022916f60eee.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\163_jpeg.rf.4efff4a4377ca0db8ab9f5f63cb6c099.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:051:ce9e6a381e7c5498:d5e5d08706071f1f",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\2022_10_05_11_30_IMG_4220_JPG_jpg.rf.291b859ef04a10de8b59722ab580d0f4.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4220_JPG_jpg.rf.d14cec0aad7756fcd3f3fb80390379c7.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "0.58:051:03090d173733c363:eaf18b099c619da3",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\1688079607_jpg.rf.427527a70ab837b0dd8e27d4c0f9eba9.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\1688079607_jpg.rf.897b041afa21196c1e8175f29887d4ec.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.78:066:5c530f1755615107:aba19153d45ed646",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\1688080036_jpg.rf.e60a763809ab77e4e6ef6f63f01faefb.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\1688080036_jpg.rf.ce38bd9b8bf64c7d5a7beb7c3df98c63.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.78:058:ec4c0e1318d0d226:f1b687539c69a514",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\158_jpeg.rf.518d7fcdd61eeaeeb97952a9c3adf342.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\158_jpeg.rf.c36b369b5408a0a63b2c2069833dd0cc.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:060:191a9e06168e0f0f:b593da2c0f2612db",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\pipe_20230614_id_47641_1686706553189_jpeg_jpg.rf.75c3b50416e4f632dfbdb866ece997f5.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\pipe_20230614_id_47641_1686706553189_jpeg_jpg.rf.4821ee6965fd1b6c73f6c9b1baa0b62a.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:063:839597061e2e2c2c:f5e802b54bc76994",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\1094_jpg.rf.9b9c22b67ed89fd053ac40388aadfd06.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\1094_jpg.rf.181a1fe18cabe91732e54c08885abadd.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.78:050:5edc8ccec8ac4c4c:e5953d9ced24c08e",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_20220719_143307_jpg.rf.460185e61d6474de8427d099ca5eef47.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_20220719_143307_jpg.rf.5cb7931ba544303ddfcc91c326fadcfa.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:045:603c128aca9890a0:d5bdcc424f0b4a4b",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_6491_jpg.rf.07b413d131a4d30176a14adf92b24657.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_6491_jpg.rf.b8d68a13f4efa3c54c91f3051d0d0b99.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:031:b3756a7159337379:bf8082e9627c6766",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\pipe_20230623_id_135854_1687503320913_jpeg_jpg.rf.41500746ab59548ecfd473d25aa2fa02.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\pipe_20230623_id_135854_1687503320913_jpeg_jpg.rf.5eafac1dda80b6c91ad3cbe21c02f559.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:054:c1c9c94a06000000:e383cb1c7cbcc08e",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\117_jpeg.rf.a0e9d72358b6200221cb03a5ee89054f.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\117_jpeg.rf.0f5f45a85036a9bce62c726a7c74abe8.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.54:071:e0f0e0ececf0f8f8:864f191d66661f59",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\2_jpg.rf.f911632980f29032c8ad58d343497d6f.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2_jpg.rf.a752d86d0a5a77486f629b0176cbb280.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "0.43:048:af53835333b7067f:af80b7829ea59dc4",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\1688029040_jpg.rf.4a5a92da3cbd7f0e4f112129d0f7741a.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\1688029040_jpg.rf.b0d0591e4dab820eec9e193fbfc4fe3a.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:065:98189a1d07079d9d:f1f1914746066cf9",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\IMG-20200515-WA0012_jpg.rf.176e4bda0ee059e7553178c64b58ed99.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200515-WA0012_jpg.rf.6521dc80222bfb457bb69fc92247af40.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.33:061:f8793b2f2f15173f:9f9fc041e220bd79",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\6_jpg.rf.47e16593ac25d1ebccf5b38760cec0d4.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\6_jpg.rf.654f695c62b6f6a8b8ba4e4be9ef0c1a.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:059:09481e3ee52ab96f:b3d3424a222fbcd6",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\2022_10_05_11_28_IMG_3756_JPG_jpg.rf.5177ded100cf5ecfbca76a103c82d013.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_28_IMG_3756_JPG_jpg.rf.0bc70519213999e328e8ac6cd6d17470.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:052:9a69a9e9b1a3f1e3:883135f8b9e269d9",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\test_021_jpg.rf.c7bf811803cb133d2f969728a551f272.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\test_021_jpg.rf.b7505077fb28b6909e22d6379239adcd.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:035:6692134d16a60b49:ecd58295e6abcc0c",
+      "image_count": 7,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1271290730-612x612_jpg.rf.aef0f37e556c4c4cef36fc70228637c9.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1271290730-612x612_jpg.rf.a421e77196e19ce927712a69a82aba13.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1271290730-612x612_jpg.rf.6d5dfc8b59efa7bc6dd4edfef439ecc6.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1271290730-612x612_jpg.rf.b9b9674ae1caed7faa8639a8914948a4.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1271290730-612x612_jpg.rf.5419655cb201c80140f10ce2a430b3ea.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\istockphoto-1271290730-612x612_jpg.rf.e2dc5b35dc9709b9d1964521608683fc.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1271290730-612x612_jpg.rf.dfb558c428feaeebef1ea5157566b08e.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "0.75:057:4c68498c27690ec2:f692d71e64360a69",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\126_jpeg.rf.6c2863bb5776348991fba408fe507e37.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\126_jpeg.rf.30bc4ad7dc3400c43b3c734e1f7d14f6.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.78:059:f031192cb319194a:dbdcc04cc446a7d9",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\b-26-_jpg.rf.acbcd2dc7f9400751736bb568225a5bf.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\b-26-_jpg.rf.3f1b14e845a74f134234fbfae5dd1fea.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:038:148c4ed298d8d4de:d16e26d859493763",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\201801291639303814891_jpeg_jpg.rf.40304403e9d0b809094ac7a0c3d4b857.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\201801291639303814891_jpeg_jpg.rf.df1e5ee36eb4102f7630ad112090f5f2.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:024:094594552b6d932f:f8d38b8b7a9152d0",
+      "image_count": 3,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\127_jpg.rf.ca39cc50868c3a2ee5f673525d962531.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\valid\\images-10-_jpg.rf.e5dfa8dc470a96578b42945323d6dbab.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\127_jpg.rf.6f9946efd08f3d62a0262a05807c275e.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:051:34999d8e8b8f0713:f896dee8d485b4c0",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\30_jpg.rf.bb7ab18689e9fec1017968f96e1708fc.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\30_jpg.rf.be08aa1ca26a784a46266ef5cefd0f18.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:040:8fd74f1f4b5cade5:aa2ba0d5b0f0f2ea",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\2022_10_05_11_30_IMG_4067_JPG_jpg.rf.ff1d1a219632b60868451ea6db6190fd.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4067_JPG_jpg.rf.249dd9ca664f189b50224240ca0dd10d.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:056:aa0d2f2d2f550f0f:ae47d1d58021c73f",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\79_jpeg_jpg.rf.1b62b9c9dd2596d350eb9cb00f71fbcc.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\79_jpeg_jpg.rf.fa57293704ab70fcfa201380b082bae8.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:059:71cd1d1737070187:ea16c06fbe5e1650",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\P1070325_JPG_jpg.rf.79cfccec31a635f840f5a5170a5e9568.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\P1070325_JPG_jpg.rf.9058475ec91f1d5c448ee0f33de0d658.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:039:e2303131305cbafd:994de377ccb04649",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\IMG-20200509-WA0043_jpg.rf.c32da64c342d9e2f5a008def9853612e.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200509-WA0043_jpg.rf.a49c93abf0b6b5974fdc3040b2199583.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:048:c0ccc6d11c3e9ee6:c042457b0f6b2df5",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\2019_10_STZ_Stan_168_530_rossiysko_grecheskoe_predpriyatiya_TMK_KPV_jpg.rf.13f9133c369dc0f9d398c11032a3f60a.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2019_10_STZ_Stan_168_530_rossiysko_grecheskoe_predpriyatiya_TMK_KPV_jpg.rf.e093a352fa315a238acd4aae78e38146.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:040:fa99eec8faf2b2a5:8923fc8d42ad379c",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\2022_10_05_11_30_IMG_4273_JPG_jpg.rf.a0c3a69faff9d5b440af7c449e7d8736.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4273_JPG_jpg.rf.99569a31540b29ae037b980660bd68b4.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:049:fc7ad2be3eb5b7ce:95d7479a17a452a5",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\2022_10_05_11_30_IMG_4269_JPG_jpg.rf.44d18f6f1e317d3c81aa2c744f569ed4.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4269_JPG_jpg.rf.3edfddf36b15281eb67dbf4984d38387.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:075:0c45011b4f3f7f23:af56d234b5d2cac0",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\IMG-20200513-WA0064_jpg.rf.5ca53eabb61fe652723d557f13f89229.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\IMG-20200513-WA0064_jpg.rf.d6642eabd2771410d30f3d1222ecd6ff.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:052:7132058e94088e88:fdedcd89010272f2",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\142_jpeg_jpg.rf.165ad5ce1f8ce3cbc38eff8c21dd66df.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\142_jpeg_jpg.rf.a7c3446476eb107a4082d0c80c16c652.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:055:01a3a0c84a14d050:d56ae8342b90dacd",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\IMG-20200509-WA0019_jpg.rf.c8b43ab4853427fbbca741139aeb2caa.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200509-WA0019_jpg.rf.8f6539ddaa64e011663e14b3f5a84ed5.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:068:86e294acac5849bc:d4e5af2b146b544c",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\3498739_jpg.rf.bd937fc35afbc8b8c335f3d17e0d9078.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\3498739_jpg.rf.cd764a95dcb3611ae911369e9ac39b85.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:046:e804141a694ce460:d77946970a001fbe",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\57060f7c4007a6e01c7474e1a3392dd5_jpg.rf.1316d380b4c26bc7ce32d25ce55fbbfa.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\57060f7c4007a6e01c7474e1a3392dd5_jpg.rf.9582aeafdcaac1706281c938470fc9d1.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:048:7ffdf3f8ebb52322:888a3e9f151fb538",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\stacks-blue-circle-pipes-hollow-close-up-133924884_jpg.rf.368227190c6aae2d63f9d9849a72f65b.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\stacks-blue-circle-pipes-hollow-close-up-133924884_jpg.rf.a7a8ffcc5fafe882784f1aa104f8b5b1.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.33:052:d393278ba86417b0:e8a989d5c04fce6c",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\156_jpeg.rf.b7b8fde6770ce8445a2c5c120de80559.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\156_jpeg.rf.d526a3dbd3c02aea8cba044fc7aca0f9.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:036:fbbc9e7f6d2c8482:b5818102df3fef81",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\IMG-20200515-WA0007_jpg.rf.1374d619449528cf9cffcf0a3d98cf65.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200515-WA0007_jpg.rf.92227a02e9ef648c2cf5e48f2eb6d616.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:045:6c9eafd363aa999b:a0f6d45f4d63164a",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\004ea0f3dc3_jpg.rf.8742722bb253cca3dd5f427cee69a085.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\004ea0f3dc3_jpg.rf.0a221dda134dae727c887108b46748de.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.33:014:a2c783cf5b4e8e9c:a9e1d4d4da1c5d51",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\120_jpeg.rf.9f29118359d619e7159e145936d59d7f.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\120_jpeg.rf.894ca4c66dccc4cece02a32a5375d9f9.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:063:40a2ad2d29bc9561:92a4c917ee36934b",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-182440412-612x612_jpg.rf.5bfc8163338f246aefc0e4df62ba2962.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-182440412-612x612_jpg.rf.2188a4a5dd9202f90c630509400046de.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:054:b1073b0d57b7ab9b:eafec0c0c30a9f2b",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\pipe_20230628_id_170789_1687921603311_jpeg_jpg.rf.0355cbe2280cffe7c86f5a0b1742da7f.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\pipe_20230628_id_170789_1687921603311_jpeg_jpg.rf.9e41d6f51b08d6f66b6d2936723efc80.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:045:9ed4dd2bd75547d2:b3b2d46d31b39c48",
+      "image_count": 4,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1344083904-612x612_jpg.rf.af6188e84119b36b6ce247377f68595c.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1344083904-612x612_jpg.rf.1983b274550f4c1e65ee6b94c2a1a24e.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1344083904-612x612_jpg.rf.7f09e74ad484f249e716ce72277e82c7.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\istockphoto-1344083904-612x612_jpg.rf.5381d4546403db273ed5105b83807c9c.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:051:999fbf9f5f9dde99:b2275b526b5450cf",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-172965213-612x612_jpg.rf.7415d37ecb8607ed21f24d8adf41d294.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-172965213-612x612_jpg.rf.022c03402589c250a5cfd58c6553ed42.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:047:8b848c5479f0f0b1:d86540c93e57fa29",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-155385671-612x612_jpg.rf.c552e138f33f4a48f51448df5883418a.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-155385671-612x612_jpg.rf.31c9c123f4018bb5b51c0269b2160a12.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.78:043:f2f3737284860e8e:cd8d87f0d232f0f0",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\75_jpeg.rf.f98938861de327a04c0f8eacf6eeeb3c.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\75_jpeg.rf.c688de52a2a19fecc79bfd7479bf67b7.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:042:9c065303068682e6:f5aa94d042da5ad9",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\valid\\2022_10_05_11_30_IMG_4114_JPG_jpg.rf.0fc897bc3b8b0aad34ecba682a5ff7b9.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4114_JPG_jpg.rf.46b9dda48471070d8504439d211f0ef5.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:047:d6d5677b4f0f370e:aa03f4f095bce4e8",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1323459601-612x612_jpg.rf.269782caa35e04e7d505542f7e2f5d1a.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1323459601-612x612_jpg.rf.677bdb607a0aa1cd0976b359f611f0bf.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:046:0e27ad616d2d2b2f:bfa4b451ff4b5001",
+      "image_count": 4,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\istockphoto-1311058937-612x612_jpg.rf.3ac83e86b3fcb70a81117701c9a9ebf1.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1311058937-612x612_jpg.rf.d019a3645e0f6b2bb7b11e74dc0daa63.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1311058937-612x612_jpg.rf.b3b3d0db24212d2eb31e2813b76a79dc.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\2_second_train.v4i.coco\\train\\istockphoto-1311058937-612x612_jpg.rf.2af82ab1f96b6526ef386db736dc8fb9.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:051:e38c8e8e96ceccc8:a3eacb0bd84949d9",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1313988596-612x612_jpg.rf.eff1b5037064fee440328861375effdf.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1313988596-612x612_jpg.rf.6755c5c8d6c96d215bb7701de54c2aa8.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:085:391ccf7032485182:9186ba7b4c3183ed",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1328706139-612x612_jpg.rf.431b2892cbe98d0fb24e5cf4c26674d8.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1328706139-612x612_jpg.rf.ba6fbcaa2516e7f9a1d16cd191fa7d3f.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.33:081:595117270707040a:ea0bd5622a5eba91",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\182_jpeg.rf.fb2c3fa7c5161189fda05702de2a18ad.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\182_jpeg.rf.e808a57df85541f65ebc5f458617d05b.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.33:050:5edc8ccea8accc4c:e4953f9c6f20d00f",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_20220719_143307_jpg.rf.d83e6feeaa3fbdff29f056cdeb221b07.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_20220719_143307_jpg.rf.058769bcc07e9e117fa64f6dd0821804.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:062:f28020c6a6469434:d5cd1dc72e010f3c",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_20221102_151243_1_jpg.rf.bb80c238b268958a43109c8e91ca6604.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_20221102_151243_1_jpg.rf.07dfbc58ddb397db3fb038c7d8f334f1.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.33:049:dcc8bed7bedcbebb:90909796ec6d6c7c",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_20220726_095033_jpg.rf.ea86c3399aeccaf766c8953bde8ebf0f.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_20220726_095033_jpg.rf.92df4bc9473da9fcc34bb4e4554bfdcc.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:027:6656313b3138080c:ffa596c587c38083",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_6602_jpg.rf.0e0a535c19184f4eec44a7aad25ab26c.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_6602_jpg.rf.fe99cf4723469db8e61d579702c94204.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:059:f0d890b24edebf80:90d5c0a74edcf8b2",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_20221102_151852_1_jpg.rf.d59aeb39a5b57cbfd7b83c5a4e006fe7.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_20221102_151852_1_jpg.rf.0cd4aca0da8d39e2c29609e90bda75a9.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.13:040:cd9b231d2a080f0f:f80a83549edfda0a",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\Pipes_1_Flq6zBpVXaY_jpg.rf.0d8317e9b0448f89a6e4ecf931e56316.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\Pipes_1_Flq6zBpVXaY_jpg.rf.e131151e1d8736f7f67a5a3949e3ecce.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:043:ce8ec6ceceaece64:b5a1e0f172954b87",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\OIP-1-_jpeg_jpg.rf.98acedaba60eb65fa5d888d3ba611beb.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\OIP-1-_jpeg_jpg.rf.21632d6eae0be931118216809217e1ea.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:062:70400c4c86de76d4:d5dedd0b0a1a326c",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_20221102_151023_1_jpg.rf.815f5447d3995b0a3a6b555a96eb7948.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_20221102_151023_1_jpg.rf.67cb69515a820098e0064f2800f051e9.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:049:d1e9f82878380ce0:d70a816bcfa089cf",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\IMG-20200515-WA0090_jpg.rf.4a33cf017103bad63226b58df8b63687.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG-20200515-WA0090_jpg.rf.f34c4858172a536a5113e61a081c7ca1.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:026:ea922b3c31111808:ff8dc248925e425e",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_6602_jpg.rf.050b78ed6bad31b02cff2bb1ebab4923.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_6602_jpg.rf.0ed11f041e2975e66ce0c941aecd5dda.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:050:211193134a6c9a55:e9ea54c6ed8926a2",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\Counting-Input-2020-09-02-211458_jpg.rf.47be364e5e707ffe115f888cbd4693dc.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\Counting-Input-2020-09-02-211458_jpg.rf.0eb91d385e7e4bd6ad80daeec49d7721.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:070:e4e6e6aea7efefc0:84dfd39a52b065ac",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_20221102_151842_jpg.rf.6af85e6237cfefc8a445dcf71ae01c00.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_20221102_151842_jpg.rf.f0f06c8350be4c49646d20f0614e81c4.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:047:60f3b7ab8aaa94c4:888ece53d7757070",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_6524_jpg.rf.00012cbb11c15563b5854a41987cb61f.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_6524_jpg.rf.8388edd5b63acfddfba8f3de255340f7.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:045:d4d5d3d2a29ab8b8:81873271d7d9715c",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_6505_jpg.rf.35bee3b521df23ff68373ed7cdf59845.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\IMG_6505_jpg.rf.149185d01449dd07b3ed9c24fb7b1372.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:041:b0b397c5e693c7f0:8079997cd75258e6",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_6522_jpg.rf.abfce10e9dbc1b8e675f432d7fe98449.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_6522_jpg.rf.d98d53fd98bd764416b9579b61360f7c.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:045:ccd7d369714d5cdc:83813477ddd26359",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_6505_jpg.rf.68dfe4cc1dff43ea68af9af536ebb370.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_6505_jpg.rf.3dc6e974abd98a60cb1a91e0f25c7303.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:065:e8cce2b78ffbefc0:80f5d79a4d8d0f07",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_20221102_151937_1_jpg.rf.97319f43116c2178629c4a462473cad0.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_20221102_151937_1_jpg.rf.03e1489f179f3245a3c0a3020499e2ed.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:058:80d0fafe398050f4:c0c0406b2f2f2f7f",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\IMG_20221026_150757_jpg.rf.6773043d9cfc6c364c9a257ca2a885d7.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\IMG_20221026_150757_jpg.rf.9212061adcc46106fb98d992034383c0.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:059:c0c8288d4a98a456:e6661901672e1c7f",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1319044732-612x612_jpg.rf.b0661f4195c69b644b44743807fcadb6.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1319044732-612x612_jpg.rf.ca573ee0f665080c9dd4eb445c491a53.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:036:86940c0f26cc1480:f4e0c081abaf03df",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\2022_10_05_11_30_IMG_4136_JPG_jpg.rf.49f94bc8f6c320b59772e009ec84f5b6.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4136_JPG_jpg.rf.f95e39672b88162f1f64808a5ac677ae.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:043:3958b72727266664:8c59d35baa847b32",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\istockphoto-1344083904-612x612_jpg.rf.9a9e3d7d0881b825f5c3b7a0eab12e30.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\istockphoto-1344083904-612x612_jpg.rf.ef34eb8ee0161854c6f8f833752da835.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:057:0bab3232ec0c3085:bc9942a2e17d3c9a",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\93_jpeg_jpg.rf.4897f70e01b95f2355c76cd6924c4aab.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\93_jpeg_jpg.rf.cbd7115f7fd6ac2b34e66e5cd0e85791.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:054:9e9faf1f3f8daeee:a12a95d4d7e892e5",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\2022_10_05_11_30_IMG_4261_JPG_jpg.rf.92b5687090ffb41fd6cf6ddf2ac6a12e.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\2022_10_05_11_30_IMG_4261_JPG_jpg.rf.66000b2aa82b4775ef453c1a57084a60.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "0.92:046:b460a1e1224cc290:cd7cd417780f522a",
+      "image_count": 2,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\27_jpeg.rf.905b57ae3a5a93d5a06bf5589b4ac52b.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\valid\\27_jpeg.rf.395f46c8a9f009cc4f748de640574a3b.jpg"
+      ]
+    },
+    {
+      "perceptual_group": "1.00:051:253536105b2e3133:fcf6ce8383c864a1",
+      "image_count": 4,
+      "images": [
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\1_firts_train.v2-v2.coco\\test\\135_jpg.rf.c5fdb1ca13fd832e1a42ab018e1a412c.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\3_third_train.v3i.coco\\train\\images-18-2-_jpg.rf.bb319788d7d66438e4401f877a1a86ee.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\images-18-2-_jpg.rf.f854fcedae58159a25871687600367ca.jpg",
+        "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-datasets\\4-train.v4i.coco\\train\\135_jpg.rf.9a21792d6bf6ae4eebc5a23192d7f94b.jpg"
+      ]
+    }
+  ],
+  "unreadable_images": [],
+  "unreadable_image_count": 0,
+  "negative_image_count": 11,
+  "total_centers": 1934083,
+  "centers_per_image": {
+    "min": 0,
+    "mean": 145.3651258925216,
+    "median": 70.0,
+    "max": 1523
+  },
+  "splits": {
+    "train": 10645,
+    "val": 1330,
+    "test": 1330
+  },
+  "seed": 42,
+  "train_ratio": 0.8,
+  "val_ratio": 0.1,
+  "test_ratio": 0.09999999999999995,
+  "duplicate_policy": "max_annotations",
+  "group_near_duplicates": true,
+  "previews": [
+    "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\previews\\preview_00.jpg",
+    "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\previews\\preview_01.jpg",
+    "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\previews\\preview_02.jpg",
+    "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\previews\\preview_03.jpg",
+    "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\previews\\preview_04.jpg",
+    "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\previews\\preview_05.jpg",
+    "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\previews\\preview_06.jpg",
+    "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\previews\\preview_07.jpg",
+    "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\previews\\preview_08.jpg",
+    "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\previews\\preview_09.jpg",
+    "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\previews\\preview_10.jpg",
+    "C:\\Users\\172634\\projects\\Pipe Counter New\\pipe-center-counter-poc\\data\\processed\\previews\\preview_11.jpg"
+  ]
+}

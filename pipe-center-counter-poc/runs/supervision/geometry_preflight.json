@@ -1,0 +1,15 @@
+{
+  "results": {
+    "train": {
+      "images": 10650,
+      "labels": 1529564,
+      "decoded_and_checked": true
+    },
+    "val": {
+      "images": 1332,
+      "labels": 206171,
+      "decoded_and_checked": true
+    }
+  },
+  "test_accessed": false
+}

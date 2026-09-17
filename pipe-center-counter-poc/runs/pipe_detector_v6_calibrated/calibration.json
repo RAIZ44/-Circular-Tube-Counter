@@ -1,0 +1,9 @@
+{
+  "time": "2026-09-16T14:55:54.478805+00:00",
+  "parent_sha256": "07e3abb367d9a99f2a67d3e8df598b92dceae6d15125092774f541dea8531429",
+  "report_sha256": "7dcd17e9db95ba7005c30026fd2b30e1c9a83bf445b513240c94be5a09c91017",
+  "report": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\validation_diagnostics\\v6_nms\\report.json",
+  "test_evaluated": false,
+  "production_ready": false,
+  "note": "Validation-selected NMS and threshold; weights unchanged. Exact accuracy improves but MAE remains worse than the heatmap baseline."
+}

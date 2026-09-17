@@ -1,0 +1,17 @@
+{
+  "manifest_dir": "data/processed_v2",
+  "output_dir": "C:\\Users\\Owner\\Projects\\Pipe Counter New\\pipe-center-counter-poc\\runs\\pipe_detector_v8_960",
+  "image_size": 960,
+  "batch_size": 2,
+  "epochs": 6,
+  "patience": 2,
+  "learning_rate": 2e-05,
+  "num_workers": 4,
+  "device": "cuda",
+  "architecture": "FasterRCNNResNet50FPNV2",
+  "pretrained": false,
+  "init_checkpoint": "runs/pipe_detector_v7_finetune/best.pt",
+  "box_nms_threshold": 0.2,
+  "geometry_overrides": "data/geometry_overrides_v1.json",
+  "selection_metric": "exact_count_accuracy"
+}

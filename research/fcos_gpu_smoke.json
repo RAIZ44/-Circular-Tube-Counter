@@ -1,0 +1,40 @@
+{
+  "architecture": "FCOSResNet50FPN",
+  "image_size": 960,
+  "device": "cuda",
+  "batches": [
+    {
+      "label_counts": [
+        1523,
+        1523
+      ],
+      "losses": {
+        "classification": 1.0955979824066162,
+        "bbox_regression": 0.810441792011261,
+        "bbox_ctrness": 0.7118288278579712
+      },
+      "optimizer_step_passed": true
+    },
+    {
+      "label_counts": [
+        10,
+        0
+      ],
+      "losses": {
+        "classification": 1.1141517162322998,
+        "bbox_regression": 0.41068902611732483,
+        "bbox_ctrness": 0.6205243468284607
+      },
+      "optimizer_step_passed": true
+    }
+  ],
+  "max_allocated_gib": 2.128112316131592,
+  "max_reserved_gib": 2.384765625,
+  "elapsed_seconds": 3.9923560000024736,
+  "single_photo_float32_inference_passed": true,
+  "candidate_detections": 601,
+  "weights_sha256": "99b0c9b7cfb1527d782db86b91d207f00547c792fb4103fc612b651d0a07b9e7",
+  "checkpoint_saved": false,
+  "test_evaluated": false,
+  "note": "Capacity and numerical smoke check, not training accuracy. Fresh official initialization must be used for the actual experiment."
+}
