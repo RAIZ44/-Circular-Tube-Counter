@@ -38,14 +38,28 @@ Equivalent: `tube-count generate|train|evaluate`.
 Default synthetic set: **360 train / 72 val / 80 test** images at 256×256,
 0–16 tubes each, with overlap, clutter, lighting, and noise.
 
-### Expected runtime
+### Expected runtime (measured on this 4-core CPU VM)
 
-| Step | CPU (4 cores, this cloud VM) | GPU (typical 8–12 GB) |
+| Step | CPU (4 cores) | GPU (typical 8–12 GB) |
 | --- | --- | --- |
-| Generate | ~30–60 s | same |
-| Train 20 epochs | ~15–25 min | ~2–4 min |
-| Evaluate + baselines | ~1–2 min | ~30 s |
-| Predict, one image | < 0.1 s after load | faster |
+| Generate 512 images | ~7 s | same |
+| Train 20 epochs (256×256, batch 8) | ~4.3 min (~13 s/epoch) | ~1–2 min |
+| Evaluate + baselines | ~4 s | ~1–2 s |
+| Predict, one image | ~1 s including load | faster |
+
+### Verified test results (seed 42, this VM)
+
+Held-out **80** synthetic test images, checkpoint `artifacts/checkpoints/best.pt` (epoch 10, val MAE 0.306, conf 0.3):
+
+| Method | MAE | RMSE | Exact-match | F1 @ IoU 0.5 |
+| --- | --- | --- | --- | --- |
+| **TubeNet (ours)** | **0.463** | **0.814** | **62.5%** | **0.869** |
+| Always predict mean train count (8) | 4.363 | 4.862 | 5.0% | n/a |
+| OpenCV HoughCircles | 7.513 | 9.308 | 3.8% | 0.474 |
+
+Overcount 12.5% / undercount 25.0%. Full dump: [`artifacts/metrics.json`](artifacts/metrics.json), write-up [`artifacts/REPORT.md`](artifacts/REPORT.md), overlays in [`artifacts/overlays/`](artifacts/overlays/). Checkpoint SHA256 is in [`artifacts/checkpoints/best.meta.json`](artifacts/checkpoints/best.meta.json).
+
+The image dataset is **not** committed (regenerate with the same config/seed). The checkpoint **is** committed (~3 MB).
 
 ## Predict
 

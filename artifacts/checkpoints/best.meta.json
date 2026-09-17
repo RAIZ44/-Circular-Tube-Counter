@@ -1,0 +1,9 @@
+{
+  "conf_threshold": 0.3,
+  "epoch": 10,
+  "params": 804578,
+  "path": "artifacts/checkpoints/best.pt",
+  "seed": 42,
+  "sha256": "dd78e022ec81a3aa61c12c46cd0b19740f17f53f52b8f5ef246bc5866625ba65",
+  "val_mae": 0.3055555555555556
+}

@@ -17,6 +17,9 @@ data/images/
 data/labels/
 data/manifest.json
 data/splits.json
+data/data.yaml
 *.log
 .DS_Store
 .python-version
+artifacts/pred/
+artifacts/pred_demo/
